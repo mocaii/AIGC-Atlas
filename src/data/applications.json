@@ -1,0 +1,3168 @@
+{
+  "To C 类": {
+    "AI 软件产品": {
+      "AI 智能助手": [
+        {
+          "name": "DeepSeek",
+          "url": "https://chat.deepseek.com/",
+          "iconUrl": "https://chat.deepseek.com/favicon.svg",
+          "description": "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。"
+        },
+        {
+          "name": "豆包",
+          "url": "https://www.doubao.com/chat/",
+          "iconUrl": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/web/logo-icon.png",
+          "description": "豆包是你的 AI 聊天智能对话问答助手，写作文案翻译编程全能工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。"
+        },
+        {
+          "name": "文心一言/文小言",
+          "url": "https://yiyan.baidu.com/",
+          "iconUrl": "https://nlp-eb.cdn.bcebos.com/logo/favicon.ico",
+          "description": "文心一言既是你的智能伙伴，可以陪你聊天、回答问题、画图识图；也是你的AI助手，可以提供灵感、撰写文案、阅读文档、智能翻译，帮你高效完成工作和学习任务。"
+        },
+        {
+          "name": "Kimi",
+          "url": "https://www.kimi.com/",
+          "iconUrl": "https://statics.moonshot.cn/kimi-web-seo/favicon.ico",
+          "description": "Kimi 是一个有着超大“内存”的智能助手，可以一口气读完二十万字的小说，还会上网冲浪，快来跟他聊聊吧 | Kimi - Moonshot AI 出品的智能助手"
+        },
+        {
+          "name": "腾讯元宝",
+          "url": "https://yuanbao.tencent.com/",
+          "iconUrl": "https://cdn-bot.hunyuan.tencent.com/logo-v2.png",
+          "description": "腾讯元宝是基于腾讯混元大模型的AI应用，可以帮你写作绘画文案翻译编程搜索阅读总结的全能助手"
+        },
+        {
+          "name": "智谱清言",
+          "url": "https://chatglm.cn/",
+          "iconUrl": "https://chatglm.cn/img/icons/favicon.svg",
+          "description": "中国版对话语言模型，与GLM大模型进行对话。"
+        },
+        {
+          "name": "通义",
+          "url": "https://www.tongyi.com/",
+          "iconUrl": "https://img.alicdn.com/imgextra/i4/O1CN01EfJVFQ1uZPd7W4W6i_!!6000000006051-2-tps-112-112.png",
+          "description": "通义是一个通情、达义的国产AI模型，可以帮你解答问题、文档阅读、联网搜索并写作总结，最多支持1000万字的文档速读。通义_你的全能AI助手"
+        },
+        {
+          "name": "讯飞星火",
+          "url": "https://xinghuo.xfyun.cn/",
+          "iconUrl": "https://xinghuo.xfyun.cn/spark-icon.ico",
+          "description": "讯飞星火大模型，是由科大讯飞推出的新一代认知智能大模型，拥有跨领域的知识和语言理解能力，能够基于自然对话方式理解与执行任务，提供语言理解、知识问答、逻辑推理、数学题解答、代码理解与编写等多种能力。"
+        },
+        {
+          "name": "MiniMax",
+          "url": "https://chat.minimaxi.com/",
+          "iconUrl": "https://chat.minimaxi.com/assets/logo/favicon.png?v=4",
+          "description": "MiniMax AI 基于自研的多模态大语言模型为用户打造的AI伙伴，可以帮你智能搜索问答、精准识图解析、沉浸语音通话、专业/创意写作、文档速读总结、还有独家悬浮球功能帮你把琐事化繁为简。10倍速获取信息，10倍速解决问题。从学生到打工人，或者是自由工作者、创作者，不管你是任何角色都可以随时召唤它，上手即用，张嘴就问，无论是AI写作、AI搜题、AI办公、AI翻译、AI编程、AI创作、AI文档总结，还是陪你AI聊天、AI对话、口语陪练、模拟面试。它是你全能的AI助手。"
+        },
+        {
+          "name": "问小白",
+          "url": "https://www.wenxiaobai.com/",
+          "iconUrl": "https://wy-static.wenxiaobai.com/wenxiaobai-web/production/3.8.15/_next/static/media/new_favicon.6d31cfe4.png",
+          "description": "问小白让你更有料, AI 智能聊天, 问答助手, AI 智能搜索, 免费无限量使用 DeepSeek R1 模型，支持联网搜索。"
+        },
+        {
+          "name": "百小应",
+          "url": "https://ying.baichuan-ai.com/",
+          "iconUrl": "https://cdn.baichuan-ai.com/build/_next/static/media/logo.ce66885d.png",
+          "description": "懂搜索的AI助手，读论文，读财报，轻松无忧！写代码，写文案，样样精通！能识图，可语音，简洁易用！"
+        },
+        {
+          "name": "阶跃 AI",
+          "url": "https://www.stepfun.com/chats/new?refer_from_source=redirect",
+          "iconUrl": "https://www.stepfun.com/favicon.ico",
+          "description": "阶跃AI是一个聪明可靠的个人效率助手，可以帮你获取知识、查询信息、学习语言、创意写作、编写代码，在工作、学习、生活等各种场景下帮你解决问题。带你发现和理解世界~"
+        },
+        {
+          "name": "商量",
+          "url": "https://chat.sensetime.com/",
+          "iconUrl": "https://sensechat-ml.aoss.cn-sh-01.sensecoreapi-oss.cn/chat/prod/wb/favicon_ml.png",
+          "description": "商量（SenseChat）是你的AI 商量Sensechat是你的AI聊天问答助手，擅长总结财经资讯、解读政策、分析财报，也可以辅助文案创作、生成图片、编写代码，或畅聊你感兴趣的话题。"
+        },
+        {
+          "name": "天工 AI",
+          "url": "https://www.tiangong.cn/",
+          "iconUrl": "https://static.tiangong.cn/wwwsite/logo.ico",
+          "description": "天工是一款支持搜索、写作、对话、文档分析、画画、做PPT的全能型AI助手。你可以借助AI技术，检索信息、多语言翻译、写论文、写代码、写方案、写汇报、做PPT、归纳总结文档和音频视频，还可以智能编辑彩页和宝典，让AI生成高质量彩页内容，收获点赞关注。"
+        },
+        {
+          "name": "AI Mate Pro",
+          "url": "https://apps.apple.com/cn/app/ai-mate-pro-%E8%AE%A9%E6%AF%8F%E4%B8%AA%E4%BA%BA%E4%BA%AB%E5%8F%97ai%E7%9A%84%E4%B9%90%E8%B6%A3/id6630366542",
+          "iconUrl": "https://apps.apple.com/assets/images/favicon/favicon-apps-48-fad34e0d87e86dcf72ded1faff4ba9d0.png",
+          "description": "帮你生成故事小说推文视频、口播视频、艺术图片、图生视频、音乐歌曲，给你的文案配音、制作带动画的PPT、文章文案创作改写、视频总结、生成大纲、总结摘要、智能翻译、报告、优化润色、创作诗词，编写代码等等，更多有趣的功能等你来探索！\n\nAI视频\n让你的创意一键成片\n\nAI对话\n你的专属AI助理\n\nAI写歌\n人人是音乐家\n\nA…"
+        },
+        {
+          "name": "心流 AI 助手",
+          "url": "https://iflow.cn/",
+          "iconUrl": "https://img.alicdn.com/imgextra/i4/O1CN01yBfg3x1iNi4YggwIt_!!6000000004401-2-tps-72-72.png",
+          "description": "心流是一款AI助手，帮助你高效获取知识，无论是日常娱乐生活百科还是专业学术论文知识，都可以轻松解答，让你快速进入心流状态，让知识随心流动！"
+        },
+        {
+          "name": "理想同学",
+          "url": "https://chat.livis.com/",
+          "iconUrl": "https://p.ampmake.com/liid/20240305/static/livis_web/app_icon.png",
+          "description": "理想同学是你的智能对话问答AI伙伴，可以帮你查资料，搜知识，写文档，优化文案，优化代码，辅助创作，提供灵感，提高你的日常办公与创作效率，同时支持多端互联与专属记忆，手机端、网页端、理想汽车端都能无缝衔接使用，陪你一起成长。"
+        },
+        {
+          "name": "小艺",
+          "url": "https://xiaoyi.huawei.com/",
+          "iconUrl": "https://search-render-drcn.dbankcdn.com/celia/v1/favicon-transparent.ico",
+          "description": "小艺是华为公司自主研发的AI智慧助手，基于最新的人工智能技术，提供了AI知识问答、AI写作、AI文档阅读、文档助手、编码助手、鸿蒙代码生成、鸿蒙代码问答、AI识图等多种AI功能，全面提升用户的生活质量和工作学习效率，打造“随时随地 问问小艺”的便捷体验。"
+        },
+        {
+          "name": "元象大模型",
+          "url": "https://chat.xverse.cn/xchat/index.html",
+          "iconUrl": "https://chat.xverse.cn/xchat/assets/favicon-326e4712.svg",
+          "description": ""
+        },
+        {
+          "name": "AutoGLM",
+          "url": "https://autoglm.zhipuai.cn/",
+          "iconUrl": "https://autoglm.zhipuai.cn/favicon.ico",
+          "description": "基于中国版对话语言模型，与GLM大模型进行对话的手机Agent。"
+        },
+        {
+          "name": "Manus",
+          "url": "https://manus.im/",
+          "iconUrl": "https://manus.im/favicon.ico",
+          "description": "Manus is a general AI agent that turns your thoughts into actions. It excels at various tasks in work and life, getting everything done while you rest."
+        },
+        {
+          "name": "支小宝",
+          "url": "https://www.zhixiaobao.com/",
+          "iconUrl": "https://mdn.alipayobjects.com/huamei_dlpkmn/afts/img/A*9RmZQr85hicAAAAAAAAAAAAADty4AQ/original",
+          "description": "支小宝是能帮你办事的AI生活管家，连接支付宝生态，可快速点餐、打车、查账单、推荐附近吃喝玩乐等，说句话就能办事；还能根据你的生活习惯和使用场景，智能推荐专属的服务，越用越懂你。"
+        }
+      ],
+      "AI办公": {
+        "多功能综合套件": [
+          {
+            "name": "夸克",
+            "url": "https://www.quark.cn/",
+            "iconUrl": "https://gw.alicdn.com/imgextra/i3/O1CN018r2tKf28YP7ev0fPF_!!6000000007944-2-tps-48-48.png",
+            "description": "夸克pc/app为你带来极速、智能、安全、高效的搜索体验,找答案,找资料,找工具,办公,学习,工作必备应用。夸克提供浏览器搜索引擎、网盘、AI扫描王工具及小说阅读等高效功能，为你提供稳定,安全,流畅的浏览环境和优质的产品服务体验"
+          },
+          {
+            "name": "腾讯文档",
+            "url": "https://docs.qq.com/",
+            "iconUrl": "https://docs.idqqimg.com/tim/docs/desktop/favicon.ico",
+            "description": "腾讯文档是一款可多人协作的在线文档，可同时编辑Word、Excel和PPT文档，云端实时保存。可针对QQ、微信好友设置文档访问、编辑权限，支持多种版本Word、Excel和PPT文档模板。"
+          },
+          {
+            "name": "WPS AI",
+            "url": "https://ai.wps.cn/",
+            "iconUrl": "https://personal-act.wpscdn.cn/operations-fe/wps-ai/favicon.ico",
+            "description": "WPS AI 是金山办公旗下具备大语言模型能力的人工智能应用，提供智能文档写作、长文阅读处理与人机交互等能力，与 WPS办公结合有自动生成 PPT、表格分析处理、文章改写续写、翻译等功能，助力智能办公，提升用户体验。"
+          },
+          {
+            "name": "百度文库",
+            "url": "https://wenku.baidu.com/error.html?status=404",
+            "iconUrl": "https://wenku.baidu.com/favicon.ico",
+            "description": ""
+          },
+          {
+            "name": "FlowUs 息流",
+            "url": "https://flowus.cn/",
+            "iconUrl": "https://cdn2.flowus.cn/fe-web-app-images/favicon.png",
+            "description": "使用 Flowus 构建您的知识平台，助您轻松创作与发布"
+          },
+          {
+            "name": "有道云笔记",
+            "url": "https://note.youdao.com/",
+            "iconUrl": "https://note.youdao.com/favicon.ico",
+            "description": "有道云笔记是一款多平台记录工具，支持扫描、语音、Markdown、收藏等多种记录方式，内容多端实时同步。强大的AI工具带来全方位赋能，帮你提效减负；微信、微博等优质内容一键收藏到笔记，全面助力高效学习和工作。"
+          },
+          {
+            "name": "苏打办公",
+            "url": "https://bangong.360.cn/",
+            "iconUrl": "data:image/x-icon;base64,AAABAAEAICAAAAEAIAAoFAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA6M8AT+bMAM/kzQD/4s4A3+HPAG8AAAAAAAAAAAAAAAAAAAAAAAAAAP9wOjD/dDu//3M7//t5N//kpB7/xdYA/8PWAe7A2ADPvdgAn7rXAGCvzwAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOfLAEDpzAD/58wA/+bNAP7kzQD/4s0A/+HNAH8AAAAAAAAAAAAAAAD/czxA/3M7//9zO///czv//3M7//9zO//mniL/wtYA/7/XAP+81wH/udgA/7faAO+z2gCQr9cAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA7MsBv+vMAf7pzAH+58wA/+XMAP/kzgH/4c0A/9/PACAAAAAAAAAAAP90O7//czv//3M7//9zO///czv//3M7//9zO//NxAv/vtYA/7zYAP+52QD/ttoA/rPaAP+x2wD/rdsAj5/PABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADtywH/7MsA/+vLAP/pzQH+58wA/+XMAP/jzQH/38sAQAAAAAAAAAAA/3M63/9zO///czv//3M7//9zO///czv//3M7/9ixF/++1wH/u9gA/7jZAP+12QD/stoA/6/bAP+t3AD/qt0A36fXACAAAAAAAAAAAAAAAAAAAAAAAAAAAO/KAP/tygD/7MsB/+vLAP/pywD/58wA/+XNAP/jywBAAAAAAAAAAAD/dDvP/3M7//9zO///czv//3M7//9zO///czv/0b4P/77XAP+52AD/t9kA/7PaAP+x2wH/rtwB/qzdAP6p3QH/pt4A36XfADAAAAAAAAAAAAAAAAAAAAAA8soB/vDKAf/uygD/7csA/uvLAf/pzAH/58wA/+PLAEAAAAAAAAAAAP9yOmD/czv//3M7//9zO///czv//3M7//d/NP/B1wD/vNgA/7nYAP+22gH+stsA/q7bAP+t3QH+qt0A/6jeAf6l3gD+ot4A35/fACAAAAAAAAAAAAAAAADzyQD/8soB/vDJAP/vygD/7csA/uvLAP/oywD/58sAQAAAAAAAAAAAAAAAAP90On//czv//3M7//9zO//4fzT/y8kI/8DXAf+71wD/uNoB/rTbAf6w2wH/rdwA/6rdAP+n3QD/pd8B/6LfAP+h3wD+n+AA35/fABAAAAAAAAAAAPbJAP70yQH/88kA//HKAP/vygD/7coA/+vKAP/rywBAAAAAAAAAAAAAAAAAAAAAAP9wQBD/czxA/3M8QMfTAEDG1gBQv9QAYLzYAJ+12gDvstsB/q7bAf+r3QD/p90A/6XeAf6j3wD/oN8A/5/gAP6e4AH/n+EAjwAAAAAAAAAA98gA//fJAP71yAD/88kA//LJAP/wygD/7ssA/+vHAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAK/PABCv2wB/q9wA/6fdAP+l3gH/ot4A/5/fAP+e4AD/nuAA/p/gAf+g3wD/n98AIAAAAAD6yAD++cgA//jIAf/2yAH/9MgA//PJAf/yygH+78cAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACr2wBApN4A76HfAf+f3wD/nuAA/57gAf+e3wD/oOAB/6HfAf6g3wCfAAAAAPnHAP/5xwD/+ccA//jHAP/3xwD/9sgA//TJAf/3ygA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACf3wAwnt8A/57gAP+e3wD/oOAA/qDfAP+i3wH+ot8B/qPfAP+fzwAQ+McA//jHAP/5yAD++ccB//rIAf/5yAD/+MgB/vPHAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACf4QB/oOAB/qHfAP6h3gD/ot4A/6PeAP+j3gD/pN4A/6bfAF/3yQH+9sgA//fIAP/3yAD/+McA//nIAf/5xwD+98MAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ/fACCi3wDvot4A/6TfAf6k3gD/pN4A/6XeAf+l3gH/pd0An/bJAf71yAD/9cgA//bIAP/2yAH/9sgA//fIAP/zwwBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKXfAp+l3gH+pd0A/6beAf+n3gH/p94B/qfdAP+m3ADP9MkB//TJAf71yQH+9MkA//TIAf/1yQD/9skB/vPHAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAApt0AcKfdAP+o3gD+qN0A/6jeAf+o3gD+qd0A/qneAe7yyQD/88kB//PJAf7zyQD/88oB/vPJAP/yyQD/88cAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACr2wBAqt0B/qrdAf6q3QH/qdwB/6rdAf+q3QH/qt0A//DJAP/xyQH/8coB/vDJAP/wyQD/8MkA//DJAP/zygA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKzcAFCr3AD/q9wA/6zdAf+r3AD/rN0B/6vcAP+r3AD+78oB7+/KAP/vygD/78oA/+7KAP/uygD/7soB/+3IAHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAArdoAYK7cAP6u3AD+rtwA/q3cAP+t3AD/rNsA/6zdAe7uywDP7soA/+3LAf/tywD/7csA/+zKAP/rywD/6swAnwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACw2gCfsNsA/7DbAP+v2wD/r9wA/q/cAf+v3AH+rtsAz+zKAJ/sywH/7MsB/uzMAf7rywD/6ssB/+rMAP7oywDu588AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAr98AELPaAO+y2gD/sdoA/7HbAP+x2wD/sNsA/6/bAP+w3ACf6soAYOrLAP/qywD/6csA/+nMAP/ozAD/58wA/+fNAf7lzQB/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC12QCAtdoA/7TaAP+z2gD/s9oB/7LaAf+y2wD/stsB/q/aAGDvzwAQ6csB/+nMAf/ozAH/58wA/+bMAP/mzQH+5c0A/+PNAP/fygAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAt9cAQLnZAP+42QD/ttkA/7XaAf+12gH/tNoA/7TbAf6z2gDvr88AEAAAAADozACf58wA/+fMAP/mzAD/5c0A/uPNAP/jzgH+4c4B/uDOAO/bywBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALrUADC81wDvu9gA/7rZAP642QD/uNoB/rbZAP+22gD+tNkA/7TaAI8AAAAAAAAAAOfHACDmzAD/5s0A/uTNAP/kzQD/484A/uHOAP/gzgH/3s4A/93PAf7ZzwCAz88AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL/XACDB1QCAwNcA/r7XAP+92AH+utgA/7nYAP+52QD+uNkA/rfaAf+22QD/r9cAIAAAAAAAAAAAAAAAAOTNAI/kzQD/480A/+LNAP/hzgH+4M4A/97OAP/dzwD/3NAB/tnQAP/W0ADv1NAAn9LPAGDPzwBQy9MAQMrTAG/H1ACgxdUA78LVAP/B1gD/v9cA/77XAP+81wD/u9gA/7rYAP+52QD/uNkA/rjYAI8AAAAAAAAAAAAAAAAAAAAA388AEOLOAN/izgH+4c4A/uDOAf/fzgD/3c8A/9zQAf7azwD/19AA/9bRAf/U0QH/0tIA/s/TAP/N0wD+ytQA/8jUAP/G1QD/xNYA/8PXAf7A1gD/wNgB/r7YAP+82AD/u9gA/rrYAP+52QHfr88AEAAAAAAAAAAAAAAAAAAAAAAAAAAA388AIOHOAd/fzgD/3s4A/93PAP/czwD/288A/9nQAP7X0AD/1dAA/9PRAP/R0wD+z9MA/83TAf/K1AD/yNQA/8bVAf/F1QH/wtYA/8HWAP/A1wH+v9cB/r3XAP+82AH/vNgB37fXACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5M4AL9/PAN/ezwD/3M8A/9vPAf/a0AD/2NAA/9fRAP7V0gH+09EA/9HTAf7O0wD/zdQB/svUAP/J1QH+x9UA/8bWAf7E1gD/wtYA/8DWAP/A1wD/v9gB/77XAN++3gAvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA388AIN3PAN/bzwH/2s8A/9nRAP7X0AH/1tEA/9TRAP/S0gH/0NIA/8/SAP/N0wD/y9QA/8nUAP/I1QD/xtUB/sTVAP/D1gD/wtcA/sHXAf6/1wHfv88AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA388AENvPAo/a0QH/2dAA/tfQAf7W0gH+1NIB/tLSAP/R0gD+z9MA/szTAP/M1AD+ytQA/8nVAP7H1QD/xdUA/8PWAP/C1gD/wNYAjwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANfPACDWzwCQ1dEA79TRAP/U0gH+0dEA/9DSAP/P0wH+zdMA/svTAP/K1AD/yNQA/8fVAP/G1QD/xdUAn7/PACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADPzwAQ1M8AYNLQAp/R0wDP0NIB78/TAf/N0wD/zNMA78vUAM/K1QKfydQAX7/PABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+            "description": "苏打办公，工具就是全，提高办公生活效率，全网最好用的办公导航，优质海量工具"
+          },
+          {
+            "name": "印象笔记",
+            "url": "https://www.yinxiang.com/",
+            "iconUrl": "https://www.yinxiang.com/new/wp-content/uploads/2021/12/cropped-yxfavicon-32x32.png",
+            "description": "作为你的第二大脑，记录就用印象笔记。印象笔记可以帮助你高效工作、学习与生活。支持无缝多端同步，快速保存微信、微博、网页等内容，一站式完成信息的收集备份、高效记录、分享和永久保存。"
+          },
+          {
+            "name": "ima copilot",
+            "url": "https://ima.qq.com/",
+            "iconUrl": "https://qbtool.static.qq.com/ima/assets/official-website/favicon.ico",
+            "description": "ima.copilot（简称ima）是一款以知识库为核心的智能工作台产品，已接入腾讯混元大模型和DeepSeek R1模型满血版。ima是搜、读、写一体的效率工具，旨在帮助有较强知识获取、信息处理、内容输出需求的用户，提升学习、办公效率。"
+          },
+          {
+            "name": "博思白板 boardmix",
+            "url": "https://boardmix.cn/",
+            "iconUrl": "https://cms.boardmix.cn/images/board.ico",
+            "description": "boardmix博思白板，一个点燃团队协作和激发创意的空间，集aigc，一键PPT，思维导图，笔记文档多种创意表达能力于一体，将团队工作效率提升到新的层次。"
+          },
+          {
+            "name": "Monica",
+            "url": "https://monica.cn/",
+            "iconUrl": "https://monica.cn/logo.png",
+            "description": "Monica 是一款智能助手，具备强大的记忆功能，随时为你提供个性化的支持与建议。无论是日常生活还是工作学习，Monica 都能成为你的贴心伙伴，帮助你更高效地完成每一件事。"
+          },
+          {
+            "name": "橙篇",
+            "url": "https://cp.baidu.com/",
+            "iconUrl": "https://cp.baidu.com/favicon.ico?t=1720173823651",
+            "description": ""
+          },
+          {
+            "name": "灵办AI",
+            "url": "https://ilingban.com/",
+            "iconUrl": "https://ilingban.com/favicon.ico",
+            "description": "灵办AI，提升工作与学习效率的最佳助手，用一款工具解决：翻译、对话、写作、AI搜索、AI阅读、文案改写、代码生成/纠正等需求"
+          },
+          {
+            "name": "飞书智能伙伴",
+            "url": "https://www.feishu.cn/product/ai_companion",
+            "iconUrl": "https://p1-hera.feishucdn.com/tos-cn-i-jbbdkfciu3/1ec7129d900e442d8501d810efdaa369~tplv-jbbdkfciu3-image:0:0.image",
+            "description": "你可以像跟同事说话一样跟智能伙伴交流，Ta 将为你提供信息、解答问题、支持创作，让你的工作更高效、更愉悦。"
+          },
+          {
+            "name": "讯飞智文",
+            "url": "https://zhiwen.xfyun.cn/home",
+            "iconUrl": "https://zhiwen.xfyun.cn/favicon.png",
+            "description": "讯飞智文，由科大讯飞推出的一键生成ppt/word产品。根据一句话、长文本、音视频等指令智能生成文档，同时支持在线编辑、美化、排版、导出、一键动效、自动生成演讲稿等功能，让AI全流程服务到底。"
+          },
+          {
+            "name": "商汤小浣熊",
+            "url": "https://xiaohuanxiong.com/login?redirect_url=https%3A%2F%2Foffice.xiaohuanxiong.com%2Fhome&origin=office",
+            "iconUrl": "https://xiaohuanxiong.com/logo.svg",
+            "description": "Raccoon - Another Comprehensive CO-pilOt Navigator ｜ Raccoon是基于商汤自研大语言模型的智能助手，包含代码助手、办公助手，满足用户代码编写、数据分析、编程学习等各类需求。"
+          },
+          {
+            "name": "WPS 灵犀",
+            "url": "https://copilot.wps.cn/",
+            "iconUrl": "https://qn.cache.wpscdn.cn/copilot/copilot/favicon1.ico",
+            "description": ""
+          },
+          {
+            "name": "钉钉 AI 助理",
+            "url": "https://page.dingtalk.com/wow/dingtalk/default/dingtalk/AIzhuli",
+            "iconUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01eMicSg1GVD4uXMWGv_!!6000000000627-73-tps-32-32.ico",
+            "description": "钉钉AI助理汇集钉钉AI产品能力，帮助企业迈入智能新时代。智能文档、智能会议、智能应用；超50玩家企业加入，成为智能钉钉同行者。"
+          },
+          {
+            "name": "360 AI 浏览器",
+            "url": "https://browser.360.cn/ai/",
+            "iconUrl": "https://se3.360simg.com/t01d9f2c4892f175154.png",
+            "description": "360AI浏览器"
+          },
+          {
+            "name": "轻竹办公",
+            "url": "https://qzoffice.com/",
+            "iconUrl": "https://static.qzoffice.com/assets/logo-ff094ea0.png",
+            "description": "使用轻竹办公AIPPT功能，让PPT制作变得轻松简单"
+          },
+          {
+            "name": "小悟空",
+            "url": "https://wukong.com/",
+            "iconUrl": "https://lf-dw.toutiaostatic.com/obj/toutiao-duanwai/wukong_ai/cns/web/favicon-v2.ico",
+            "description": "AI智能工具，助力美好生活。轻轻一键，唤醒专属于你的私人助理。智慧服务，美好生活。"
+          },
+          {
+            "name": "万知",
+            "url": "https://www.wanzhi.com/",
+            "iconUrl": "https://www.wanzhi.com/favicon.svg",
+            "description": ""
+          },
+          {
+            "name": "Fabrie",
+            "url": "https://www.fabrie.com/",
+            "iconUrl": "https://www.fabrie.com/favicon.svg",
+            "description": "A powerful digital whiteboard that runs both locally with secure file storage on device and collaboratively online with all the latest AI tools."
+          },
+          {
+            "name": "Effie",
+            "url": "https://www.effie.co/",
+            "iconUrl": "https://www.effie.co/favicon.ico",
+            "description": "Effie是思想家专用的写作软件。无论是严肃写作，随手记录，亦或是把逻辑完善成思维导图，Effie都是您明智的选择。"
+          },
+          {
+            "name": "海鲸AI",
+            "url": "https://www.atalk-ai.com/",
+            "iconUrl": "https://www.atalk-ai.com/favicon.ico",
+            "description": "海鲸AI，您的智能AI写作助手，提供最新的ChatGPT 4.0、AI写作、AI绘画、AI文档解析等功能，助力您的创意表达和工作效率。体验前沿的人工智能技术，开启高效智能的工作与生活方式。"
+          },
+          {
+            "name": "爱设计AI",
+            "url": "https://www.isheji.com/",
+            "iconUrl": "https://www.isheji.com/isheji_favicon.ico",
+            "description": "作图就用爱设计,活动海报,公众号配图,朋友圈封面,电商等百万可商用模版一键出图,只需拖拉拽三步在线图片编辑,从此设计不求人"
+          },
+          {
+            "name": "万能小in",
+            "url": "https://xiaoin.com.cn/",
+            "iconUrl": "https://xiaoin.com.cn/favicon.ico",
+            "description": "万能小in是一款AI知识助手应用，在行业内首创了基于个人知识库的文档学习、检索提问、长文写作、AI写书等产品服务，致力于让每个人拥有自己的AI 外脑。不止是工具,更是AI学习伙伴!"
+          },
+          {
+            "name": "Walles.ai",
+            "url": "https://walles.ai/",
+            "iconUrl": "https://walles.ai/assets/logo-99f915b7.ico",
+            "description": "Your GPT-4 AI assistant ChatGPT Plugin. Answers complex questions.Comprehend long texts. Usable everywhere. Supports exporting to Notion. ðŸ”¥ Walles.AI as your co-pilot and can answer any complex questions in the sidebar. It can also help you write articles, read articles, summarize YouTube videos, and enhance Google search engines. Available on all websites."
+          }
+        ],
+        "AI翻译": [
+          {
+            "name": "网易有道翻译",
+            "url": "https://fanyi.youdao.com/",
+            "iconUrl": "https://ydlunacommon-cdn.nosdn.127.net/31cf4b56e6c0b3af668aa079de1a898c.png",
+            "description": "有道翻译提供即时免费的中文、英语、日语、韩语、法语、德语、俄语、西班牙语、葡萄牙语、越南语、印尼语、意大利语、荷兰语、泰语全文翻译、网页翻译、文档翻译、PDF翻译、DOC翻译、PPT翻译、人工翻译、同传等服务。"
+          },
+          {
+            "name": "沉浸式翻译",
+            "url": "https://immersivetranslate.com/zh-Hans/",
+            "iconUrl": "https://immersivetranslate.com/zh-Hans/favicon.ico",
+            "description": "沉浸式翻译是一款免费的网页翻译插件，为您提供在线双语对照网页翻译，多种格式的文档翻译、论文文献翻译、PDF翻译、EPUB电子书翻译、视频双语字幕翻译(支持Youtube,Netflix等主流视频站点)、TXT文本翻译等文件翻译服务。Chrome、Edge、火狐(Firefox)、Safari等主流浏览器适配，手机端和电脑端均可安装使用。支持中文、英语、日语、韩语、法语、德语、俄语、西班牙语、葡萄牙语、越南语、印尼语、意大利语、荷兰语、泰语等数十种语言的互译。支持多种翻译接口选择：DeepL 翻译、 Google 翻译、OpenAI (ChatGPT) 、Gemini、人工智能翻译、有道翻译、彩云小译、百度翻译、火山翻译、小牛翻译等。做最懂您的网页翻译扩展工具，为您提供最丝滑的网站翻译体验。"
+          },
+          {
+            "name": "彩云小译",
+            "url": "https://fanyi.caiyunapp.com/",
+            "iconUrl": "https://www.caiyunapp.com/imgs/xiaoyilogo.png",
+            "description": "欢迎访问彩云小译官网！我们提供高效准确的在线翻译工具，包括文字翻译、文档翻译、网页翻译、术语库、浏览器插件和双语对照服务。借助先进的人工智能技术，彩云小译能够满足您的多语言沟通需求。"
+          },
+          {
+            "name": "Manga Translator",
+            "url": "https://www.mangatranslator.cc/zh-cn",
+            "iconUrl": "https://www.mangatranslator.cc/favicon.ico",
+            "description": "最好的漫画翻译扩展！扫描漫画在线翻译器，支持135种语言漫画翻译使用chatgpt，MangaMTL的完美替代品！"
+          },
+          {
+            "name": "Naver Papago",
+            "url": "https://papago.naver.com/",
+            "iconUrl": "https://papago.naver.com/favicon.ico",
+            "description": ""
+          },
+          {
+            "name": "声智",
+            "url": "https://www.soundai.com/",
+            "iconUrl": "https://www.soundai.com/fav.png",
+            "description": ""
+          }
+        ],
+        "AI产品设计": [
+          {
+            "name": "墨刀AI",
+            "url": "https://www.modao.cn",
+            "iconUrl": "https://images.modao.cc/images/favicon.ico",
+            "description": "墨刀 - 适合产品经理的原型设计及协作平台"
+          },
+          {
+            "name": "莫高设计AI",
+            "url": "https://mastergo.com",
+            "iconUrl": "https://mastergo.com/favicon.ico",
+            "description": "MasterGo/莫高设计是AI时代企业级产品设计平台，贯穿产品设计研发的全链条在线协作工具,是可协作的在线sketch、国内版figma，提供在线产品设计、原型图制作设计、网页开发设计、产品交互设计、UI和UX设计工具等功能,支持多人实时协作,可快速搭建设计系统,为产品设计师、交互设计师、工程师以及产品经理提供更简单灵活的工作模式。"
+          },
+          {
+            "name": "Pixso AI",
+            "url": "https://pixso.cn/",
+            "iconUrl": "https://cms.pixso.cn/images/favicon.ico",
+            "description": "pixso是一体化设计协作工具，助力产研设团队制作原型，ui/ux设计，视觉设计，低代码交付时获得更轻松流畅的工作体验，让团队协作更高效。支持sketch，figma格式。"
+          },
+          {
+            "name": "摹客AI",
+            "url": "https://www.mockplus.cn/",
+            "iconUrl": "https://www.mockplus.cn/favicon.ico",
+            "description": "摹客集设计协作平台、原型设计和设计规范为一体，数百万设计师、产品经理和开发工程师必备设计神器、交互原型、标注切图、文档管理。设计+协作，摹客就够了！"
+          },
+          {
+            "name": "Motiff妙多",
+            "url": "https://www.miaoduo.com/",
+            "iconUrl": "https://www.miaoduo.com/favicon.ico",
+            "description": "妙多定位 AI 时代设计工具，提供全面的用户界面设计功能和创新的 AI 功能。价格公道，性能卓越。解放生产力，AI 出新意。"
+          }
+        ],
+        "AI搜索": [
+          {
+            "name": "百度AI搜",
+            "url": "https://chat.baidu.com/",
+            "iconUrl": "https://chat.baidu.com/favicon.ico",
+            "description": "百度AI搜索，一站式解决复杂问题，激发PC端超级生产力！独有「灵感探索」功能深入剖析问题核心，智能文字创作、图片创作、AI阅读、智能体海量应用启迪无限创意，开启高效智能学习办公新篇章！"
+          },
+          {
+            "name": "秘塔AI搜索",
+            "url": "https://metaso.cn/",
+            "iconUrl": "https://metaso.cn/apple-touch-icon.png",
+            "description": "秘塔AI搜索，没有广告，直达结果"
+          },
+          {
+            "name": "知乎直答",
+            "url": "https://zhida.zhihu.com/",
+            "iconUrl": "https://pic1.zhimg.com/v2-7e3856b1a6d415224ca95814132a3612.png",
+            "description": "知乎直答（zhida.ai）是知乎推出的一款使用 AI 大模型等先进技术的产品，以知乎社区的优质内容为核心，多种数据源为辅助，为人们提供一种全新的获取可靠信息的途径。知乎直答是多智能体系统，能够满足用户多维度的需求；同时对生成结果进行溯源，以确保内容的可信、可控以及对知识产权和版权的尊重。知乎直答致力于为用户提供卓越的使用体验，用技术拉近创作者和用户之间的距离。有问题，就会有答案。"
+          },
+          {
+            "name": "AMiner",
+            "url": "https://www.aminer.cn/",
+            "iconUrl": "https://originalfileserver.aminer.cn/sys/aminer/favicon.ico",
+            "description": "AMiner由清华大学计算机科学与技术系建立，包含了超过3.2亿学术论文/专利和1.33 亿学者的科技图谱，提供学术检索、论文检索，推荐订阅、论文专利、学者画像、文献追踪、趋势分析等科技情报服务，是拥有我国完全自主知识产权的学术科技情报大数据挖掘与服务系统平台。"
+          },
+          {
+            "name": "纳米AI搜索",
+            "url": "https://www.n.cn/",
+            "iconUrl": "https://www.n.cn/favicon.ico",
+            "description": "纳米AI搜索开创全新问答方式，没有套路，直接给答案，让搜索变得简单直观！拍照问、语音搜、听答案，让搜索随心所欲，智慧触手可得。"
+          },
+          {
+            "name": "Devv.ai",
+            "url": "https://devv.ai/zh",
+            "iconUrl": "https://devv.ai/favicon-light.png",
+            "description": "Devv Code - AI 应用构建工具，10分钟发布您的产品。将自然语言提示转化为可投入生产的应用程序，快速构建 Web 应用，无需编程经验。"
+          },
+          {
+            "name": "ThinkAny",
+            "url": "https://thinkany.ai/zh",
+            "iconUrl": "https://thinkany.ai/favicon.ico",
+            "description": "ThinkAny 是一个新时代 AI 搜索引擎，使用 RAG 技术，检索并聚合优质内容，结合 AI 的智能回答特性，高效回答用户提问。"
+          },
+          {
+            "name": "深言达意",
+            "url": "https://www.shenyandayi.com/",
+            "iconUrl": "https://www.shenyandayi.com/favicon.ico",
+            "description": "深言达意是一款写作辅助工具，核心功能包括据意查词、据意查句。根据模糊的描述，找到贴切的词语和名言佳句，支持汉英双语。深言达意基于最先进的人工智能算法实现，由深言科技出品。"
+          },
+          {
+            "name": "同花顺问财",
+            "url": "https://www.iwencai.com/",
+            "iconUrl": "https://www.iwencai.com/favicon.ico",
+            "description": "同花顺旗下专业的智能选股平台，通过AI技术致力于为股民提供智能选股、量化投资、技术分析、快速选股等服务，覆盖股票、指数、美股、港股、行情、基金、新三板、债券、期货、外汇、科创板、保险、理财、宏观、资讯、百科等信息，从而有效提高投资者的投资逻辑和效能"
+          },
+          {
+            "name": "Felo",
+            "url": "https://felo.ai/search",
+            "iconUrl": "https://felo.ai/icon.ico",
+            "description": "Ask AI anything with Felo, the free multilingual answer engine. Get real-time answers & create AI presentations, AI mind maps & posters."
+          },
+          {
+            "name": "博查AI搜索",
+            "url": "https://bochaai.com/",
+            "iconUrl": "https://bochaai.com/icon.ico?d10c63b34b618305",
+            "description": "博查是一个给AI用的搜索引擎，它可以让你的AI应用连接世界知识，获得干净、准确、高质量的搜索结果。"
+          },
+          {
+            "name": "MetaLaw",
+            "url": "https://meta.law/",
+            "iconUrl": "https://meta.law/favicon.ico",
+            "description": "精准类案，一键直达，AI分析助理，让你的法律研究效率快人10倍"
+          },
+          {
+            "name": "Lepton Search",
+            "url": "https://search.lepton.run/",
+            "iconUrl": "https://search.lepton.run/favicon.ico",
+            "description": "Build your own conversational search engine using less than 500 lines of code with Lepton AI."
+          },
+          {
+            "name": "Miku",
+            "url": "https://www.hellomiku.com/",
+            "iconUrl": "https://www.hellomiku.com/favicon.ico",
+            "description": "Miku is an AI CIO designed for knowledge workers. Not only can it obtain accurate results quickly, but it can also efficiently manage information content and help users complete various knowledge tasks."
+          },
+          {
+            "name": "问问小宇宙",
+            "url": "https://ask.xiaoyuzhoufm.com/",
+            "iconUrl": "https://ask.xiaoyuzhoufm.com/favicon.ico",
+            "description": "问问小宇宙是小宇宙团队出品的播客AI检索服务"
+          },
+          {
+            "name": "点点",
+            "url": "https://sj.qq.com/appdetail/com.liveverse.diandian",
+            "iconUrl": "https://pp.myapp.com/ma_icon/0/icon_54429944_1747708984/256",
+            "description": "点点是小红书于2024年12月26日正式推出的AI搜索产品，定位于生活场景垂直领域，通过珠玑大模型技术整合全网生活经验数据。产品"
+          },
+          {
+            "name": "SeekAll.ai",
+            "url": "https://seekall.ai/",
+            "iconUrl": "https://seekall.ai/img/icon.svg",
+            "description": "SeekAll: Seamless multi-search Chrome plugin. Search multiple websites, including AI engines, with one click. Organized results. Try it free!"
+          },
+          {
+            "name": "Reportify",
+            "url": "https://reportify.cn/",
+            "iconUrl": "https://reportify.cn/favicon.ico",
+            "description": "Reportify - AI 投资研究引擎"
+          },
+          {
+            "name": "Hika AI",
+            "url": "https://hika.fyi/zh-CN",
+            "iconUrl": "https://hika.fyi/icon.png",
+            "description": "探索Hika AI，一款免费智能的搜索引擎，提供高级见解、互动探索和个性化知识图谱。轻松提升您的学习体验。"
+          },
+          {
+            "name": "简单搜索",
+            "url": "https://jiandan.baidu.com/",
+            "iconUrl": "https://gips3.baidu.com/it/u=3086203595,524168084&fm=3028&app=3028&f=PNG&fmt=auto&q=100&size=f30_30",
+            "description": "全新AI互动式搜索，能听会看，聪明懂你"
+          },
+          {
+            "name": "快找找",
+            "url": "https://kfind.cn/",
+            "iconUrl": "https://kmind-webs-resources.oss-cn-hangzhou.aliyuncs.com/images/kfind/website/kfind-website-single-logo3.png",
+            "description": "一款基于ai人工智能技术的资源检索工具,无论你找资源,找信息,找资讯,还是找问题解答"
+          },
+          {
+            "name": "寻隐",
+            "url": "https://queryable.app",
+            "iconUrl": "https://queryable.app/imgs/favicon.jpg",
+            "description": "Queryable is a powerful offline AI photo search app that works as an alternative to Apple Intelligence. Search your iPhone photos using natural language in iOS 16-18, available worldwide including Australia, EU, and US."
+          },
+          {
+            "name": "识图",
+            "url": "https://apps.apple.com/cn/app/%E8%AF%86%E5%9B%BE-%E7%94%A8ai%E5%9C%A8%E7%9B%B8%E5%86%8C%E6%89%BE%E7%85%A7%E7%89%87/id6455304062",
+            "iconUrl": "https://xxx.com/a.png",
+            "description": "(建议到正规应用商城搜索下载)人工智能文字搜索照片，在你的相册中发现精彩"
+          },
+          {
+            "name": "懂法猫",
+            "url": "https://www.dongfamao.com/",
+            "iconUrl": "https://www.dongfamao.com/icon.png?380c23fc95b7034d",
+            "description": "“懂法猫”使用AI人工智能打造国内领先的法律数据智能检索工具。拥有海量公开判决文书、法律法规、法律知识、企业工商数据。为法律、老师、学生、法官、检察官、公职人员、公证员、法务、企业家等法律专业人士、法律研究者、企业主及个人提供专业的法律法规检索、司法案例检索、裁决文书检索。"
+          },
+          {
+            "name": "轻翻相册",
+            "url": "",
+            "iconUrl": "https://xxx.com/favicon.png",
+            "description": "(建议到正规应用商城搜索下载)人工智能文字搜索照片，在你的相册中发现精彩"
+          },
+          {
+            "name": "抖音搜索",
+            "url": "https://search.douyin.com/",
+            "iconUrl": "https://lf-main-frame.bytedeliver.com/obj/eden-cn/lthym_upht_upfbvk/ljhwZthlaukjlkulzlp/douyin_search/pc/favicon.ico",
+            "description": "丰富内容 一搜即得"
+          },
+          {
+            "name": "得理",
+            "url": "https://www.delilegal.com/search/",
+            "iconUrl": "https://www.delilegal.com/favicon.ico",
+            "description": "得理门户网站,得理,法律AI,得理律助,得理法搜,法律科技,律师平台,DLS律师数字化平台,案例检索"
+          }
+        ],
+        "AI PPT": [
+          {
+            "name": "AiPPT.cn",
+            "url": "https://www.aippt.cn/",
+            "iconUrl": "https://www.aippt.cn/favicon.ico",
+            "description": "AiPPT结合最新AI技术，为用户提供一键生成高质量PPT的解决方案。无论是职场展示、教育课件还是销售报告，AiPPT均能快速生成符合需求的专业PPT，简化设计流程，提升工作效率。"
+          },
+          {
+            "name": "iSlide",
+            "url": "https://www.islide.cc/",
+            "iconUrl": "https://www.islide.cc/favicon.ico",
+            "description": "欢迎访问iSlide官网，简单，好用的PPT插件下载！拥有10万+ 原创可商用PPT模板，PPT主题素材，PPT案例，PPT图表，PPT图示，PPT图标，PPT插图和800万+正版图片。工具提供86个设计辅助实用功能，一键解决PPT设计制作中的难题。"
+          },
+          {
+            "name": "博思AI PPT",
+            "url": "https://pptgo.cn/",
+            "iconUrl": "https://cms.pptgo.cn/images/fav.ico",
+            "description": "博思AIPPT来了，让繁琐的PPT GO吧，海量PPT模板任选，布局灵活切换，在线编辑PPT内容，零基础也能快速用ai制作PPT。"
+          },
+          {
+            "name": "ChatPPT",
+            "url": "https://chat-ppt.com/",
+            "iconUrl": "https://chat-ppt.com/favicon.ico",
+            "description": "ChatPPT为必优科技旗下国内AI生成PPT的办公产品，基于AI Chat指令式内容生成与创作，辅助职场办公人工更高效去创作PPT文档，目前接入超过350+指令集，可以在1分钟内完成全篇PPT生成、设计与排版。"
+          },
+          {
+            "name": "笔格PPT",
+            "url": "https://bigppt.cn/",
+            "iconUrl": "https://bigppt.cn/favicon.ico",
+            "description": "比格AIPPT提供海量素材模板，支持一键生成PPT大纲，支持导入本地大纲文件，随心更换模板配色，AI一键智能排版，单页样式自由更改，样式随要点改变，多格式导出等功能。让你告别熬夜加班，轻松实现PPT制作自由。快来体验比格AIPPT，让PPT制作更高效便捷"
+          },
+          {
+            "name": "文多多AI PPT",
+            "url": "https://www.docmee.cn/",
+            "iconUrl": "https://www.docmee.cn/favicons/favicon-32x32.png",
+            "description": "文多多AiPPT，一键搞定PPT。AI根据主题、文档、网址智能生成PPT文档，同时支持在线编辑、美化、排版、导出、一键动效、自动生成演讲稿等功能，告别工作烦恼！"
+          },
+          {
+            "name": "麦当秀Mindshow",
+            "url": "https://www.mindshow.vip/",
+            "iconUrl": "https://ike-mindshow.oss-cn-shanghai.aliyuncs.com/static/image/favicon.png",
+            "description": "输入标题，1分钟帮你生成完美PPT"
+          },
+          {
+            "name": "职得PPT",
+            "url": "https://blog.lgppt.cn/",
+            "iconUrl": "https://blog.lgppt.cn/favicon.ico",
+            "description": "职得AIPPT是一款AI生成PPT工具，可为您提供一站式智能PPT制作服务，只需输入一句话，即可智能定制一份逻辑清晰、设计精美的PPT；职得AIPPT已涵盖PPT内容生成与理解、丰富生成交互、自动化排版、海量PPT模板、智能美化、智能辅写、智能配图、智能配音等几大核心能力；帮助您处理冗长的文档资料，一键提取关键信息，自动生成清晰的内容框架，快速梳理出逻辑清晰、重点突出的PPT内容，省去手动整理的繁琐步骤。"
+          },
+          {
+            "name": "歌者PPT",
+            "url": "https://gezhe.com/",
+            "iconUrl": "https://gezhe.com/images/favicon.png",
+            "description": "歌者 PPT（gezhe.com）是一款 PPT 智能生成工具。用户可将任何主题或资料轻松转为 PPT，并可选择应用大量精美模板或者自定义模板。此外，通过主动分享 PPT 案例，形成了活跃社区，帮助用户快速找到灵感，且一键复用。无论是商务演示、教育培训、学术报告还是专业领域，都能提供便捷的操作和智能化体验，让 PPT 制作更加轻松高效。"
+          }
+        ],
+        "AI 知识管理": [
+          {
+            "name": "知我AI",
+            "url": "https://knowme.xiaoduoai.com/",
+            "iconUrl": "https://knowme.xiaoduoai.com/favicon_zw.ico",
+            "description": "知我AI智能阅读机器人，专注搭建个人专属知识库，提升知识获取和利用效率，知我AI快速阅读视频、网页、文档、且总结相关内容，提炼精华要点，智能阅读分类管理知识库，碎片整合集中阅读实现自我成长。"
+          },
+          {
+            "name": "ReadPo",
+            "url": "https://readpo.com/en",
+            "iconUrl": "https://readpo.com/favicon.ico",
+            "description": "ReadPo is an AI-powered reading and writing assistant. Collect, curate, and create content at lightning speed."
+          },
+          {
+            "name": "Get笔记",
+            "url": "https://www.biji.com/",
+            "iconUrl": "https://www.biji.com/favicon.ico",
+            "description": "获取信息出错: 'NoneType' object has no attribute 'strip'"
+          },
+          {
+            "name": "氢刻",
+            "url": "https://qingk.com/",
+            "iconUrl": "https://qingk.com/public/assets/favicon-CRXVLbBE.ico",
+            "description": "氢刻App可以帮助您完成信息记录与学习记忆，用卡片的方式捕捉信息、知识、想法等，通过科学智能的学习与回顾，实现信息与知识的高效转化，形成智慧。氢刻还提供海量的学习资源，实现多人共享学习。"
+          },
+          {
+            "name": "新枝",
+            "url": "https://xinzhi.zone/",
+            "iconUrl": "https://c.xinzhi-cdn.zone/web-old/svg/common/favicon.svg",
+            "description": "新枝, 帮你串联知识碎片, 在点滴记录中构建知识网络!"
+          },
+          {
+            "name": "浮墨笔记",
+            "url": "https://flomoapp.com/",
+            "iconUrl": "https://flomoapp.com/images/logo-192x192.png",
+            "description": "像发微博一样记笔记，记录你想法的川流。全平台覆盖，还支持微信服务号输入。"
+          },
+          {
+            "name": "QAnything",
+            "url": "https://ai.youdao.com/saas/qanything/",
+            "iconUrl": "https://ai.youdao.com/saas/qanything/favicons.png",
+            "description": "QAnything是网易有道推出的基于自研子曰大模型及RAG（检索增强生成）能力构建的本地知识库问答系统。目前支持的上传文档的格式包括：PDF(pdf),Word(docx),PPT(pptx),XLS(xlsx),Markdown(md)\n  ,电子邮件(eml),TXT(txt),图像(jpg，jpeg，png),CSV(csv),网页链接(html)"
+          },
+          {
+            "name": "闪念贝壳",
+            "url": "https://www.ideashell.cn/",
+            "iconUrl": "https://framerusercontent.com/images/fcJjbB23H0sLVZrHJjtxMV2aP4g.svg",
+            "description": "闪念贝壳是一款 AI 语音笔记应用，通过语音记录想法。通过AI来辅助记录-思考-行动这个过程，促进更快的记录和更好的思考，最终成为你的记忆外挂和思维工具。"
+          }
+        ],
+        "AI 写作": [
+          {
+            "name": "AI新媒体文章",
+            "url": "https://vt.quark.cn/blm/creator-773/index",
+            "iconUrl": "https://cdn.sm.cn/static/23/08/30/0da52eab6f7e1d3d009f2c4b669347d3.png",
+            "description": "(下架了？)"
+          },
+          {
+            "name": "秘塔写作猫",
+            "url": "https://xiezuocat.com/",
+            "iconUrl": "https://uranus-static.oss-accelerate.aliyuncs.com/xiezuocat/favicon.ico",
+            "description": "写作猫是新一代交互式中英文写作辅助平台，集智能文本纠错、改写润色、自动续写、智能配图为一体。"
+          },
+          {
+            "name": "笔灵AI",
+            "url": "https://ibiling.cn/",
+            "iconUrl": "https://ibiling.cn/favicon.ico",
+            "description": "笔灵AI写作官网(ibiling.cn) - 国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。无论是学术写作还是商业文案，笔灵AI写作都能快速生成高质量内容，简化您的写作过程。"
+          },
+          {
+            "name": "熊猫办公",
+            "url": "https://www.tukuppt.com/",
+            "iconUrl": "https://www.tukuppt.com/favicon.ico",
+            "description": "熊猫办公是一家专注创意设计模板下载的网站，涵盖行业优质精品PPT模板、Word模板、Excel模板、免抠元素、视频素材、字体和音效及配乐素材等，集办公设计模板于一体的素材网。"
+          },
+          {
+            "name": "讯飞绘文",
+            "url": "https://turbodesk.xfyun.cn/",
+            "iconUrl": "https://turbodesk.xfyun.cn/favicon.ico",
+            "description": "讯飞绘文，集AI写作，选题，配图，排版，润色，发布等功能为一体的智能创作平台。通用稿件30分钟生成，深度稿件效率翻番。应用于企业公众号，头条，新闻、等场景。释放创意，让内容创作更轻松！"
+          },
+          {
+            "name": "AlPaperPass",
+            "url": "https://www.aipaperpass.com/",
+            "iconUrl": "https://aijar-www-oss.yyjjtech.com/logo_paper_128.png",
+            "description": "千笔写作是AI原创论文写作平台，10分钟产出3万字，提供真实网络数据、图、表、公式、代码，不限次2000字3级大纲，附带ppt、开题报告、任务书、40篇真实参考文献。"
+          },
+          {
+            "name": "腾讯文涌",
+            "url": "https://effidit.qq.com/",
+            "iconUrl": "https://effidit.qq.com/logo-title.ico",
+            "description": "Effidit is a writing assistant developed by Tencent AI Lab for exploring the use of AI technologies to improve writing efficiency and creative experience."
+          },
+          {
+            "name": "阿里悉语",
+            "url": "https://login.taobao.com/havanaone/login/login.htm?bizName=taobao&from=node-tbsession&style=&sub=true&redirect_url=https%3A%2F%2Fchuangyi.taobao.com%2Ftaobao%2Flogin%2Fcallback",
+            "iconUrl": "https://gw.alicdn.com/tps/i2/TB1nmqyFFXXXXcQbFXXE5jB3XXX-114-114.png",
+            "description": "taobao.com"
+          },
+          {
+            "name": "小红书智能创作",
+            "url": "https://xhsplus.io/cn",
+            "iconUrl": "https://cdn.zbaseglobal.com/saasbox/product/icon/47b4afad7fd2754827ce9f8f0c641dce.png",
+            "description": "XHSPlus专注为小红书博主和运营人员提供一站式的运营、创作与数据分析服务。我们致力于通过智能化的工具和专业的支持，帮助您在小红书平台上提升内容质量、优化运营策略。"
+          },
+          {
+            "name": "新华妙笔公文写作",
+            "url": "https://miaobi.xinhuaskl.com/",
+            "iconUrl": "https://xcdemoimg-oss.botsmart.cn/mb_20230525_436f19e7f2e84d0687979bbe833ed38f.png",
+            "description": "新华妙笔，AI公文写作学习平台，由新华社媒体融合生产技术与系统国家重点实验室与博特智能公司联合研发。集查、写、审、问、学一体，集合了范文参考资料、写作素材、智能写作、校对纠错、润色续写等特色功能。帮助公务员、事业单位人员、国企人员的机关公文写作场景，快速拟稿，降低内容风险，擅长工作总结、竞聘材料、发言稿、工作简报等材料等智能写作。"
+          },
+          {
+            "name": "讯飞文书",
+            "url": "https://gw.iflydocs.com/",
+            "iconUrl": "https://gw.iflydocs.com/favicon.ico",
+            "description": "讯飞文书，是基于讯飞星火大模型进行文书数据定制训练，面向文书写作群体推出的一款AI材料写作平台。\n      提供素材筹备、稿件撰写、审稿核稿全流程的功能辅助，为材料撰稿人进行写作提效；持续探索事务性工作场景下的高频诉求，\n      推出录音智记、以稿写稿等功能，致力于让相关人群大幅节约精力，工作更高效，生活更美好"
+          },
+          {
+            "name": "彩云小梦",
+            "url": "https://www.xiaomengai.com/",
+            "iconUrl": "https://cdn-web.caiyunapp.com/dreamily/public/images/logo.png",
+            "description": "AI续写 · 平行世界"
+          },
+          {
+            "name": "火山写作",
+            "url": "https://www.writingo.net/",
+            "iconUrl": "https://lf3-transtudio.bytetos.com/obj/lab-mt-public/fe/writingo/web/favicon.svg",
+            "description": "火山写作是由字节跳动推出的，集成创作、润色、纠错、改写、翻译等能力的中英文 AI 写作助手。"
+          },
+          {
+            "name": "句无忧",
+            "url": "https://www.check51.com/",
+            "iconUrl": "https://www.check51.com/favicon.ico",
+            "description": "句无忧-新广告法违禁词查询检测工具可以帮助用户进行文案中违禁词，极限词，敏感词，禁用词等快速查询并检测，可依据企业所属的行业及文案发布的新媒体平台进行定向查询和检测，防范文案违规风险，促进文案合规。"
+          },
+          {
+            "name": "讯飞写作",
+            "url": "https://huixie.iflyrec.com/",
+            "iconUrl": "https://huixie.iflyrec.com/favicon.ico",
+            "description": "讯飞写作是基于科大讯飞星火大模型的一款AI智能写作助手，提供会议纪要、公文写作、工作总结、心得体会、新闻稿、面试自我介绍、朋友圈文案、改写润色、论文摘要等AI智能写作功能"
+          },
+          {
+            "name": "小鱼AI写作",
+            "url": "https://www.xiaoyuxiezuo.com/",
+            "iconUrl": "https://static.68wenan.com/xiaoyu/fish_logo.webp",
+            "description": "小鱼AI写作，是一个免费在线智能AI写作助手，提供自动AI写作、AI代写、AI帮写、AI生成高质量原创内容。拥有超过4000个智能写作模板，4.0高质量AI写作、AI改写、AI扩写、AI续写、AI润色。AI生成论文、职场办公、自媒体文章、影视解说文案、短视频脚本、小红书笔记生成、营销文章等生成。让写作更简单，让思想充分表达!"
+          },
+          {
+            "name": "火龙果写作",
+            "url": "https://www.mypitaya.com/",
+            "iconUrl": "https://www.mypitaya.com/favicon.ico",
+            "description": "通过校对、改写、扩展等功能实现高质量内容的快速生产。"
+          },
+          {
+            "name": "茅茅虫论文",
+            "url": "https://www.mmc.cc/",
+            "iconUrl": "https://www.mmc.cc/favicon.ico",
+            "description": "茅茅虫论文写作助手5分钟快速论文灵感，结合您的专业背景，从超五亿篇文献中搜索相关文献知识投喂MMC模型，精准校正生成内容，同时我们提供论文智能续写，实时论文查重，实时纠错，实时论文降重，一键引用，赋能高效写作，沉浸式享受。"
+          },
+          {
+            "name": "墨狐AI",
+            "url": "https://inkfox-ai.com/",
+            "iconUrl": "https://inkfox-ai.com/favicon.svg",
+            "description": ""
+          },
+          {
+            "name": "迅捷AI写作",
+            "url": "https://www.aichat1234.com/",
+            "iconUrl": "https://www.aichat1234.com/favicon.ico",
+            "description": "迅捷AI写作在线是一种基于人工智能技术的在线写作工具,可以帮助用户快速生成高质量的文本内容,支持多种写作类型,具备广泛的应用场景,以满足用户不同的创作需求."
+          },
+          {
+            "name": "爱改写",
+            "url": "https://www.aigaixie.com/",
+            "iconUrl": "https://www.aigaixie.com/favicon.ico",
+            "description": "爱改写是一款在线AI内容创作工具，帮助您通过查词、智能改写、纠错、查原创度等功能，帮助提高您的内容生产效率。让您在最短时间内创作出更多、更好的内容。"
+          },
+          {
+            "name": "66论文",
+            "url": "https://www.lunwen66.com/",
+            "iconUrl": "https://static.68wenan.com/paper/66.png",
+            "description": "论文66-免费AI论文大纲，无限改稿，是专业级AI论文写作，支持毕业论文、期刊论文、课程论文、职称论文等，提供论文开题报告、文献综述、论文任务书等论文生成。自动完成文献综述、论文任务书、论文选题，让论文写作更专业、更高效！"
+          },
+          {
+            "name": "Giiso写作",
+            "url": "https://www.giiso.com/",
+            "iconUrl": "https://www.giiso.com/favicon.png",
+            "description": "Giiso写作机器人，一款内容创作AI辅助工具，提供资讯写作、小红书文案、短视频脚本、PPT创作、文生图等类型创作，具备智能写作、敏感词检测、智能推荐素材、稿件改写、稿件查重、稿件纠错等功能，是自媒体、新媒体写作的好帮手。"
+          },
+          {
+            "name": "多种草AI",
+            "url": "https://duozhongcao.com/",
+            "iconUrl": "https://duozhongcao.com/favicon.ico",
+            "description": "多种草是一个专为自媒体博主、市场运营设计的 AI 智能创作平台，服务自媒体工作者在抖音、小红书、微信等全平台文案及图文撰写"
+          },
+          {
+            "name": "蛙蛙写作",
+            "url": "https://wawawriter.com/app/",
+            "iconUrl": "https://wawawriter.com/app/favicon.ico",
+            "description": "蛙蛙写作是一款智能AI写作工具，提供公众号写作,工作报告,学术论文,ppt,演讲稿,简历润色,活动策划,旅游攻略,好物种草,短视频脚本创作,AI智能续写扩写等服务。为专业小说作者、自媒体运营者等内容生产者，帮助提升写作速度、优化创作模式、突破内容生产力瓶颈。"
+          },
+          {
+            "name": "光速写作",
+            "url": "https://www.guangsuxie.com/static/college-write-web/index",
+            "iconUrl": "https://www.guangsuxie.com/static/college-write-web/icon.png",
+            "description": "光速写作转为大学生及职场（公务）人士提供的全新智能写作软件。提供全文生成，大纲生成、文章改写、续写、扩写，AI问答，以及在各类根据您输入需求自动生成您需要的文本等AI功能。"
+          },
+          {
+            "name": "夸克CueMe",
+            "url": "https://cueme.cn/",
+            "iconUrl": "https://sm01.alicdn.com/L1/272/1990/favicon/favi.ico",
+            "description": "Hi~我叫 CueMe，有许多“超能力”也有许多“好朋友”，不论你在学习、工作、生活哪方面有需要都可以找我哦！要不，先试试我的“超能写”？支持 2w 字长文一键生成！快来免费体验吧~"
+          },
+          {
+            "name": "笔杆论文",
+            "url": "https://write.bigan.net/",
+            "iconUrl": "https://write.bigan.net/static/images/favicon.ico",
+            "description": "专业的写论文平台，为您提供内容生成、素材推荐、修改润色、论文查重、审核校对、智能降重、多语言翻译的全流程写论文工具，让写论文变得简单高效。"
+          }
+        ],
+        "AI 思维导图": [
+          {
+            "name": "ProcessOn",
+            "url": "https://www.processon.com/",
+            "iconUrl": "https://www.processon.com/public_login/favicon.983368c6.ico",
+            "description": "ProcessOn是一款专业在线作图工具和知识分享社区，支持AI一键生成思维导图和流程图。可绘制甘特图、ER图、UML、网络拓扑图、电路图、平面图、鱼骨图、组织结构图、时间轴等多种图形，同时可实现人与人之间的实时协作和共享，提升团队工作效率。"
+          },
+          {
+            "name": "亿图脑图AI",
+            "url": "https://mm.edrawsoft.cn/",
+            "iconUrl": "https://mm.edrawsoft.cn/favicon.ico",
+            "description": "亿图脑图MindMaster协同版是一款在线思维导图，不仅拥有10w+思维导图模板，支持多人实时在线编辑，还可进行团队管理等高级操作。"
+          },
+          {
+            "name": "GitMind思乎",
+            "url": "https://gitmind.cn/",
+            "iconUrl": "https://gitmind.cn/favicon.ico",
+            "description": "GitMind（思乎）是一款全平台 在线思维导图脑图架构图制作软件工具，支持手机手机思维导图，Windows/Mac/L多平台操作及内容同步。它提供有海量的架构图，流程图、思维导图模板可供用户直接使用，支持在线制作流程图、思维导图、组织结构图、类图、用例图、ER图、网络拓扑图以及UML图等十多种图形。"
+          },
+          {
+            "name": "TreeMind树图",
+            "url": "https://shutu.cn/",
+            "iconUrl": "https://shutu.cn/favicon.ico",
+            "description": "TreeMind树图官网(shutu.cn)提供正版AI思维导图工具软件和免费在线脑图模板。支持脑图、逻辑图、树形图、鱼骨图、组织架构图、时间轴等多种专业格式，适合头脑风暴和创意规划，助力您的思维创新。"
+          },
+          {
+            "name": "AmyMind",
+            "url": "https://www.amymind.com/",
+            "iconUrl": "https://www.amymind.com/favicon.ico",
+            "description": "Transform text, markdown and documents into beautiful mind maps with AI. Free online mind mapping tool with AI assistance. Export to PowerPoint, PDF & Word. Simple yet powerful mind map maker for better thinking and learning."
+          }
+        ],
+        "AI 总结": [
+          {
+            "name": "Cubox",
+            "url": "https://cubox.pro/",
+            "iconUrl": "https://cubox.pro/favicon.png",
+            "description": "为学习而生的阅读器，通过 AI 自动解读，释放你高亮标注和阅读笔记的真正潜力"
+          },
+          {
+            "name": "ReadPaper",
+            "url": "https://readpaper.com/new",
+            "iconUrl": "https://readpaper.com/favicon.ico",
+            "description": "ReadPaper是深圳学海云帆科技有限公司推出的专业论文阅读平台和学术交流社区，收录近2亿篇论文、近2.7亿位科研论文作者、近3万所高校及研究机构，包括nature、science、cell、pnas、pubmed、arxiv、acl、cvpr等知名期刊会议，涵盖了数学、物理、化学、材料、金融、计算机科学、心理、生物医学等全部已知学科，打造专业的学术讨论社区。科研工作离不开论文的帮助，如何读懂论文，读好论文，这本身就是一个很大的命题，我们的使命是：“让天下没有难读的论文”。"
+          },
+          {
+            "name": "BibiGPT",
+            "url": "https://bibigpt.co",
+            "iconUrl": "https://bibigpt.co/icons/pure/icon_32x32@2x.png",
+            "description": "AI 音视频一键总结与对话，轻松学习哔哩哔哩丨YouTube丨本地视频丨本地音频丨播客丨小红书丨抖音丨会议丨讲座丨网页等任意内容。BibiGPT 致力于成为你的最佳 AI 知行助理，让你的视频看得快、搜得到、用得好！支持免费试用！(原 BiliGPT 省流神器 & AI 课代表)（支持移动端微信助理、iOS 快捷指令）"
+          },
+          {
+            "name": "包阅AI",
+            "url": "https://baoyueai.com/",
+            "iconUrl": "https://baoyueai.com/favicon.ico",
+            "description": "包阅，您的智能AI阅读助手。包阅AI阅读助手支持一键总结、AI问答、多语言翻译，同时还支持网页阅读、论文文献、法律文档、学术科研、产品手册、市场报告、电子书等众多内容，包阅AI帮你阅读广，理解深，效率高。"
+          },
+          {
+            "name": "语鲸",
+            "url": "https://lingowhale.com/",
+            "iconUrl": "https://lingowhale.com/favicon-96x96.png",
+            "description": "语鲸旨在利用前沿人工智能与自然语言处理技术，打造新一代智能文本信息处理引擎，重塑信息处理全流程。"
+          },
+          {
+            "name": "AI课代表",
+            "url": "https://www.kedaibiao.pro/",
+            "iconUrl": "https://www.kedaibiao.pro/favicon.png",
+            "description": "AI课代表 - 专门为B站打造的AI助手。视频总结，字幕搜索，和内容提问功能，让学习变得轻松又高效。"
+          },
+          {
+            "name": "听脑",
+            "url": "https://itingnao.com/",
+            "iconUrl": "https://itingnao.com/favicon.ico",
+            "description": "听脑AI是专业智能录音助手，采用AI技术实现实时语音转写，准确率98%。支持会议记录、课堂笔记、销售通话等场景，提供实时转写、多人识别、智能总结功能。快速处理本地及网络音视频，支持多语言，3分钟总结1小时会议内容，让沟通更高效。"
+          },
+          {
+            "name": "Memo AI",
+            "url": "https://memo.ac/",
+            "iconUrl": "https://vip2.loli.io/2023/08/12/jtziym7orAeLdKg.png",
+            "description": "AI-powered transcription. Convert your audio & video files to text."
+          },
+          {
+            "name": "讯飞听见",
+            "url": "https://www.iflyrec.com/",
+            "iconUrl": "https://www.iflyrec.com/static/imgs/favicon.ico",
+            "description": "讯飞听见依托科大讯飞的语音识别技术,打造智慧办公服务平台,提供语音转文字、录音转文字、AI写作、视频会议、视频转文字、视频加字幕、同声翻译、语音翻译等服务,可满足多样化的语音转文字及文字编辑需求,致力于提高办公效率。"
+          }
+        ]
+      },
+      "AI 创作": {
+        "AI 视频生成": [
+          {
+            "name": "即梦AI",
+            "url": "https://jimeng.jianying.com/ai-tool/home",
+            "iconUrl": "https://lf3-lv-buz.vlabstatic.com/obj/image-lvweb-buz/common/images/dreamina-v5.ico",
+            "description": "即梦AI是一个AI创作平台，可激发艺术创意、提升绘画和视频创作体验。您可以利用AI智能，将想象变为现实。即梦AI支持文字绘图、文字生成视频和图片生成视频，并提供创作灵感。让即梦AI开启您的AI生成艺术之旅，探索创造的无限可能！"
+          },
+          {
+            "name": "可灵AI",
+            "url": "https://kling.kuaishou.com/",
+            "iconUrl": "https://p2-kling.kechuangai.com/kcdn/cdn-kcdn112452/kling-web-aio-prod_aio/favicon.ico?v=1",
+            "description": "Kling AI, tools for creating imaginative images and videos, based on state-of-art generative AI methods."
+          },
+          {
+            "name": "PixVerse",
+            "url": "https://app.pixverse.ai/",
+            "iconUrl": "https://cdn.pixverse.ai/app/app-pixverse/favicon-pixverse.svg",
+            "description": "Transform your photos into captivating AI videos with PixVerse's powerful AI model. Create viral content with trending effects like AI Kiss, Hug, Muscle & more for all social platforms."
+          },
+          {
+            "name": "SkyReels",
+            "url": "https://www.skyreels.ai/",
+            "iconUrl": "https://www.skyreels.ai/home/favicon_0217.ico",
+            "description": "SkyReels - All-in-one Al Video Creation. Just one click, transform your idea into a completed video!"
+          },
+          {
+            "name": "Morph Studio",
+            "url": "https://www.morphstudio.com/",
+            "iconUrl": "https://www.morphstudio.com/icon.svg",
+            "description": "Discover Morph Studio’s powerful AI-driven features designed to elevate your video creation and editing process. Our tools include text-to-video and image-to-video converters, video style transfer, advanced enhancers and upscalers, and video object removers, all crafted to streamline your workflow and deliver exceptional video quality for e-commerce, marketing, and professional projects."
+          },
+          {
+            "name": "Vidu",
+            "url": "https://www.vidu.cn/",
+            "iconUrl": "https://www.vidu.cn/logo.svg",
+            "description": "Vidu AI 作为国内首个纯自研的AI视频生成模型，专注于将文字和图像转化为高质量的动态视频的同时，保持主体一致性。需3步即可生成创意视频，带您开启人工智能视频创作之旅。"
+          },
+          {
+            "name": "通义万相",
+            "url": "https://tongyi.aliyun.com/wanxiang/",
+            "iconUrl": "https://alidocs.oss-accelerate.aliyuncs.com/res/oJGq76v5aMRynAKe/img/1b1b81ce-1625-4851-b015-09eb7b99872f.svg",
+            "description": "通义万相是阿里巴巴通义旗下的AI创意创作平台，旨在通过人工智能技术降低创作门槛，可提供文生图、图生图、文生视频、图生视频、图像编辑等创作场景"
+          },
+          {
+            "name": "智谱清影",
+            "url": "https://chatglm.cn/video?lang=zh",
+            "iconUrl": "https://chatglm.cn/img/icons/favicon.svg",
+            "description": "中国版对话语言模型，与GLM大模型进行对话。"
+          },
+          {
+            "name": "海螺AI",
+            "url": "https://hailuoai.com/",
+            "iconUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/favicon.png",
+            "description": "海螺视频工具 - 创新的AI视频生成器和提示词工具，可以将您的想法转化为精美的AI视频。只需一段文字，即可借助尖端的AI技术，在短时间内创作出引人入胜的视觉作品。现在就用海螺视频释放您的创造力吧。"
+          },
+          {
+            "name": "跃问AI视频",
+            "url": "https://yuewen.cn/videos",
+            "iconUrl": "https://yuewen.cn/svg/favicon.svg",
+            "description": "阶跃AI是一个聪明可靠的个人效率助手，可以帮你获取知识、查询信息、学习语言、创意写作、编写代码，在工作、学习、生活等各种场景下帮你解决问题。阶跃AI，带你发现和理解世界~"
+          },
+          {
+            "name": "HiDream.ai",
+            "url": "https://hidreamai.com/",
+            "iconUrl": "https://hidreamai.com/hd-favicon.ico",
+            "description": "智象未来（HiDream.ai）倾力打造的基于国际领先且自主可控生成式人工智能（AIGC）多模态大模型的全中文易上手AIGC创作平台和社区，主要包括文生图、图生图、文生视频、图生视频、图片智能重绘、智能拓图、智能排版、视频智能编辑、设计师展示交流社区、AI创意创作大赛、AIGC课程及攻略等栏目，帮助您零基础轻松掌握AIGC一站式能力，唤醒创造力、生命感和价值感，解放生产力，全面提升全流程工作效率。"
+          },
+          {
+            "name": "VideoOcean",
+            "url": "https://video.luchentech.com/zh-CN",
+            "iconUrl": "https://video.luchentech.com/favicon-96x96.png",
+            "description": "Video Ocean视频大模型支持文生视频、图生视频及人物一致性处理功能，适用于广告、创意及媒体制作领域，轻松提升视频制作效率。"
+          },
+          {
+            "name": "腾讯混元文生视频",
+            "url": "https://video.hunyuan.tencent.com/",
+            "iconUrl": "https://hy-text2video-web-1258344703.cos.ap-guangzhou.myqcloud.com/public/static/logo/logo.png",
+            "description": "腾讯混元大模型是由腾讯研发的大语言模型，具备跨领域知识和自然语言理解能力，实现基于人机自然语言对话的方式，理解用户指令并执行任务，帮助用户实现人获取信息，知识和灵感。"
+          }
+        ],
+        "AI 2D生图": [
+          {
+            "name": "Liblib AI",
+            "url": "https://www.liblib.art/",
+            "iconUrl": "https://liblibai-web-static.liblib.cloud/favicon_v2.png",
+            "description": "AI绘画原创模型分享社区，10万+模型免费下载;原汁原味的webUI、comfyUI，在线AI绘图工具免费使用;还可在线进行模型训练。欢迎每一位创作者加入，共同探索AI绘画"
+          },
+          {
+            "name": "无限画",
+            "url": "https://588ku.com/ai/wuxianhua/",
+            "iconUrl": "https://588ku.com/favicon.ico",
+            "description": "无限画是一款方便、快捷并基于人工智能技术的免费AI绘画和创作平台。我们提供多种AI绘画工具和AIGC创作功能，如文生图、图生图等。多模态模型训练和图像生成，包括二次元头像生成、图片设计等，让您轻松创作出独具创意的艺术设计作品。"
+          },
+          {
+            "name": "吐司AI绘画",
+            "url": "https://tusiart.com/",
+            "iconUrl": "https://tusiart.com/tensorart.ico",
+            "description": "AI model sharing platform, online run models to generate image and traning model for free. Your can upload and download models, include Checkpoint, Embedding, ControlNet, LoRA, Pony, LoCon, LyCORIS. Also we offer some base model like Stable Diffusion 1.5, SDXL and Hunyuan-DiT to generate."
+          },
+          {
+            "name": "文心一格",
+            "url": "https://yige.baidu.com/",
+            "iconUrl": "https://yige.baidu.com/favicon.png",
+            "description": "文心一格，AI艺术和创意辅助平台，依托飞桨、文心大模型的技术创新推出的“AI作画”产品，可轻松驾驭多种风格，人人皆可“一语成画”"
+          },
+          {
+            "name": "神采AI",
+            "url": "https://www.ishencai.com/?from=mergeek.com",
+            "iconUrl": "https://www.ishencai.com/favicon.ico",
+            "description": "神采AI是一个一站式的AI图像工具集，包括各种功能强大的AI图像生成器和AI图像编辑器，在神采AI的帮助下，任何人都可以成为强大的艺术家。"
+          },
+          {
+            "name": "a1.art",
+            "url": "https://a1.art/",
+            "iconUrl": "https://txcdn-prod-a1art.xiaopiu.com/assets/favicon.png",
+            "description": "As a free online AI image generator, a1 allows you to easily build and discover image filters, creating your own stunning AI art with just a click. Start free now!"
+          },
+          {
+            "name": "WHEE",
+            "url": "https://www.whee.com/",
+            "iconUrl": "https://www.whee.com/aigc/favicon.ico",
+            "description": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。WHEE不仅会画也会修图，各种AI修图功能一应俱全。使用门槛低，用户只需用自然语言表述需求，就能轻松上手。在画廊中，用户可以欣赏并学习来自多领域创作者的精美作品，为创作提供丰富的灵感来源，进而促进二创和设计师间的交流与合作。"
+          },
+          {
+            "name": "奇域AI",
+            "url": "https://www.qiyuai.net/",
+            "iconUrl": "https://cdn.qiyuai.net/fe_shequ/v_web_material/D6D564930099E711090584EE73D0C905.png?imageMogr2/thumbnail/!30p/format/webp",
+            "description": "奇域,探索新中式美学的AI绘画社区。利用人工智能生成精美的画作,展现东方美学的魅力。无论是艺术爱好者还是专业艺术设计师,都可以在奇域找到灵感。加入奇域,一起探索现代科技与中式审美的完美结合。"
+          },
+          {
+            "name": "海艺AI",
+            "url": "https://www.seaart.me/zhCN",
+            "iconUrl": "https://www.seaart.me/favicon.ico",
+            "description": "使用SeaArt AI绘画生成器免费创造惊艳的AI艺术作品。体验超过30万种模型和风格，借助快捷AI工具激发创意，参与社群互动。"
+          },
+          {
+            "name": "星流",
+            "url": "https://www.xingliu.art/",
+            "iconUrl": "https://liblibai-web-static.liblib.cloud/favicons/xingliu.ico",
+            "description": "懂美学，控制准，尽享无边画布。立即体验新一代AI创作工具"
+          },
+          {
+            "name": "商汤秒画",
+            "url": "https://miaohua.sensetime.com/",
+            "iconUrl": "https://bkmksh.oss-cn-shanghai.aliyuncs.com/assets1/homepage/m-favicon.png",
+            "description": "会打字就会用的AI绘画神器，完美支持中文提示词，支持摄影、可爱、精致、赛博朋克、电影等超多风格，人人都可以是插画师！快速创作二次元、写实向等多种风格小姐姐！"
+          },
+          {
+            "name": "豆绘AI",
+            "url": "https://www.douhuiai.com/",
+            "iconUrl": "https://www.douhuiai.com/favicon.ico",
+            "description": "豆绘AI，国内领先的 AIGC 设计创作平台，支持文生图、图生图、高清扩图、AI换背景、批量抠图及商品图生成，一站式满足设计、电商、摄影等场景需求，注册即送20豆点，立即体验。"
+          },
+          {
+            "name": "狸谱",
+            "url": "https://m.lipuhome.com/",
+            "iconUrl": "https://m.lipuhome.com/_next/static/media/logo.c86863c8.webp",
+            "description": "动漫厨的二创新社区"
+          },
+          {
+            "name": "触手AI绘画",
+            "url": "https://acgnai.art/",
+            "iconUrl": "https://acgnai.art/favicon.ico",
+            "description": "AnimeShorts makes AI anime creation free and effortless. Turn your manga into animated shorts instantly, keep characters stable, and enhance your scripts with powerful LLMs."
+          },
+          {
+            "name": "6pen",
+            "url": "https://www.6pen.pro/",
+            "iconUrl": "https://www.6pen.pro/logo.svg",
+            "description": "6pen Art是一个免费好用的国产在线AI绘画工具。 基于AI人工智能技术,可以帮助用户快速从文本描述生成精美的高质量绘画艺术作品。"
+          },
+          {
+            "name": "万兴爱画",
+            "url": "https://aigc.wondershare.cn/",
+            "iconUrl": "https://allstatics.wondershare.cn/neveragain/2019/assets/icon/logo/ai-drawing-zh-header.svg",
+            "description": "万兴爱画 AIGC艺术创意灵感平台"
+          },
+          {
+            "name": "360智绘",
+            "url": "https://aigc.360.com/",
+            "iconUrl": "https://s1.ssl.qhres2.com/static/a45301a858f94085.svg",
+            "description": "360智绘是360旗下的AI生图工具。"
+          },
+          {
+            "name": "灵图AI",
+            "url": "https://www.lingvisions.com/",
+            "iconUrl": "https://www.lingvisions.com/favicon.ico",
+            "description": "AI绘画，多种风格在线直接使用。灵图智能支持文字描述生成创意灵感图、草图细化、线稿上色、色稿细化、图片放大、图片变清晰、智能替换画面元素、智能擦除、局部细化、线稿提取等。灵图科技辅助设计师高效完成游戏动画中的角色、道具、场景、icon等创作。"
+          }
+        ],
+        "AI 3D模型": [
+          {
+            "name": "TRIPO",
+            "url": "https://www.tripo3d.ai/",
+            "iconUrl": "https://www.tripo3d.ai/logo.png",
+            "description": "Redefine your approach to 3D content creation with a transformative experience in Tripo AI, the ultimate 3D AI tool for designers, developers, and creatives, offering efficiency, precision, and innovation."
+          },
+          {
+            "name": "Meshy",
+            "url": "https://www.meshy.ai/",
+            "iconUrl": "https://www.meshy.ai/favicon.ico",
+            "description": "Meshy is an AI 3D model generator that helps to effortlessly transform images and text into 3D models in seconds."
+          },
+          {
+            "name": "Rodin",
+            "url": "https://hyper3d.ai/",
+            "iconUrl": "https://hyper3d.ai/favicon.ico",
+            "description": "Rodin是影眸科技研发的一款AI驱动的3D生成工具,致力于创造高质量的3D资产,特别适用于游戏开发。"
+          },
+          {
+            "name": "VoxCraft",
+            "url": "https://www.vidu.cn/",
+            "iconUrl": "https://www.vidu.cn/logo.svg",
+            "description": "Vidu AI 作为国内首个纯自研的AI视频生成模型，专注于将文字和图像转化为高质量的动态视频的同时，保持主体一致性。需3步即可生成创意视频，带您开启人工智能视频创作之旅。"
+          }
+        ],
+        "AI 音乐": [
+          {
+            "name": "腾讯TME Studio",
+            "url": "https://y.qq.com/tme_studio/index.html",
+            "iconUrl": "https://y.qq.com/tme_studio/assets/tme_studio.935005cd.png",
+            "description": "TME Studio是由腾讯音乐娱乐公司推出的一款在线音乐创作助手，由旗下银河音效、MUSE、天琴实验室、Tencent AI Lab共同打造，提供包括但不限于音乐分离、MIR计算、辅助写词、智能曲谱等创作工具。助力音乐爱好者，让创作更简单。"
+          },
+          {
+            "name": "给麦",
+            "url": "https://mmr.geimaiapp.com/",
+            "iconUrl": "https://geimaiapp.com/img/7d9657f24821893dd59a.png",
+            "description": "“给麦”是一款由武汉盛游互娱网络科技有限公司开发的AI音乐社交APP，主打AI歌声合成、在线K歌、虚拟人互动及社交功能。"
+          },
+          {
+            "name": "网易天音",
+            "url": "https://tianyin.music.163.com/",
+            "iconUrl": "https://s7.music.126.net/6369f9ec78c25c1818ccfc08/img/favicon_021f7155.ico",
+            "description": "网易天音AI创作平台，词曲编唱样样精通，海量风格全部免费使用，还不快来点亮你的音乐天赋！"
+          },
+          {
+            "name": "天谱乐",
+            "url": "http://www.tianpuyue.cn/",
+            "iconUrl": "http://www.tianpuyue.cn/favicon_tempolor.ico",
+            "description": "唱鸭旗下AI音乐创作平台，为您提供个性化音乐创作体验！"
+          },
+          {
+            "name": "昆仑音疯",
+            "url": "https://www.mureka.cn/",
+            "iconUrl": "https://static-web.mureka.cn/favicon.ico",
+            "description": "Mureka.ai: Create original music effortlessly with our advanced AI music generator. Compose, customize, and download unique tracks in minutes."
+          },
+          {
+            "name": "海绵音乐",
+            "url": "https://www.haimian.com/",
+            "iconUrl": "https://lf-hm-scm.haimianyinyue.com/obj/haimian-scm/doria/swing/favicon.png",
+            "description": "海绵音乐是一款 AI 音乐创作产品，输入一句话灵感或者歌词，即可快速生成音乐，最大限度拉近每个人同音乐创作的距离。同时，海绵音乐提供了丰富的自定义功能，让每个人都可以一键创作属于自己的 AI 音乐。在这个过程中，偶遇惊喜，发现更多可能，为你打造耳目一新的音乐创作体验。通过 DeepSeek 大模型智能生成优质歌词，一键导入海绵音乐 AI 即刻生成完整歌曲。支持AI写词/作曲/编曲全流程，提供从文本到旋律、从灵感画面到BGM的智能音乐创作体验，音乐人、视频创作者、广告营销的智能创作首选平台。"
+          },
+          {
+            "name": "唱鸭",
+            "url": "https://www.singduck.cn/",
+            "iconUrl": "https://static-cdn.api.singduck.cn/base/icon/changya/logo.png",
+            "description": "唱鸭是一款将乐器+曲谱标记融合的新型弹唱软件，通过这款软件，用户可以选择喜欢的歌曲片段，并搭配其提供的乐器和音色，完成属于自己的弹唱作品。"
+          },
+          {
+            "name": "X Studio",
+            "url": "https://xstudio.music.163.com/",
+            "iconUrl": "https://xstudio.music.163.com/icon.png",
+            "description": "X Studio是由网易云音乐与小冰公司共同推出的免费歌声合成软件，旨在为音乐创作者提供具有不同音色和唱腔的虚拟歌手。"
+          },
+          {
+            "name": "BGM猫",
+            "url": "https://bgmcat.com/",
+            "iconUrl": "https://bgmcat.com/lanlogo.ico",
+            "description": "BGM猫提供版权背景音乐一站式服务,正版商业授权,AI智能生成曲库,免费无限,快捷授权,一键下载."
+          },
+          {
+            "name": "Muse AI",
+            "url": "https://sj.qq.com/appdetail/com.xingchat.muse",
+            "iconUrl": "https://pp.myapp.com/ma_icon/0/icon_54380545_1752491162/256",
+            "description": "Muse AI是一款创新科技与音乐艺术的完美结合的应用。"
+          },
+          {
+            "name": "音控",
+            "url": "https://www.funinmusic.cn/",
+            "iconUrl": "https://resource.funinmusic.cn/web/favorite.ico",
+            "description": ""
+          },
+          {
+            "name": "歌歌AI写歌",
+            "url": "https://www.gegemusic.cn/",
+            "iconUrl": "https://www.gegemusic.cn/img/favicon.ico",
+            "description": "克隆自己的人声，输入关键词一键AI生成词曲编唱，全网发行你的专属原创单曲。"
+          },
+          {
+            "name": "和弦派",
+            "url": "https://chordmate.lazycomposer.com/",
+            "iconUrl": "https://chordmate.lazycomposer.com/web_static/img/logo_square.3baa7daa.png",
+            "description": "和弦派是一款易上手的一站式移动音乐工作站。"
+          },
+          {
+            "name": "创音岛",
+            "url": "https://sj.qq.com/appdetail/com.xhangxiu.adiosuno",
+            "iconUrl": "https://pp.myapp.com/ma_icon/0/icon_54379228_1745577104/256",
+            "description": "创音岛是一款音乐编辑创作工具，帮助音乐爱好者制作并生成好听的歌曲。输入歌词即可智能编曲生成音乐，降低音乐人们的制作门槛，共创美好音乐。创音岛 是一款革命性的音乐创作工具，旨在为音乐人们提供一个简单而强大的平台，让他们能够轻松地创作出优美动听的音乐作品。"
+          },
+          {
+            "name": "快歌",
+            "url": "https://sj.qq.com/appdetail/com.recordlife.kuaige",
+            "iconUrl": "https://pp.myapp.com/ma_icon/0/icon_54402948_1751338634/256",
+            "description": "快歌，是一款AI生成音乐平台，只需一句话就可以生成专属于自己的音乐。"
+          }
+        ],
+        "AI 平面设计": [
+          {
+            "name": "稿定AI",
+            "url": "https://c.gaoding.com",
+            "iconUrl": "https://c.gaoding.com/favicon.ico",
+            "description": "一站式稿定AI工具集合页面，让您快速了解所有稿定AI工具，包括AI做图、AI文案、AI商品图、AI素材、AI场景图等。提供详细的工具介绍和使用方法，帮助您更好地使用这些工具。"
+          },
+          {
+            "name": "Canva可画",
+            "url": "https://www.canva.cn/",
+            "iconUrl": "https://static.canva.cn/static/images/android-192x192-2.png",
+            "description": "在线设计协作平台Canva可画提供了海量的设计模板，涵盖海报、简历、名片、Logo、PPT、手抄报、二维码、Banner等数十种平面设计场景，更有千款中英文字体及千万张正版图片素材可供使用。精彩设计，随时随地！"
+          },
+          {
+            "name": "美图设计室",
+            "url": "https://www.designkit.com/",
+            "iconUrl": "https://www.designkit.com/favicon.ico",
+            "description": "美图设计室是美图秀秀旗下的智能设计在线协作平台，是一款平面设计工具、在线平面设计软件及AI设计工具,提供海量海报模板,跨境电商模板,跨境电商banner,跨境电商主图,邀请函,公告通知,喜报,logo等免费设计素材和模板，可在线智能生成海报,一键换色,一键换装,一键去水印,AI扩图,ai海报生成,ai文案,美图ai ppt,AI商品图,画质修复,抠图拼图，3秒完成专业设计！"
+          },
+          {
+            "name": "阿里堆友",
+            "url": "https://d.design/",
+            "iconUrl": "https://img.alicdn.com/imgextra/i2/O1CN01chTRfM1RHRCkxMMSn_!!6000000002086-0-tps-200-200.jpg",
+            "description": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。"
+          },
+          {
+            "name": "创客贴",
+            "url": "https://www.chuangkit.com/",
+            "iconUrl": "https://www.chuangkit.com/favicon.ico",
+            "description": "无需PS，会打字就能用的图片、视频编辑器。8000万图片素材在线编辑，换图改字生成精美设计。自动抠图，高清背景，设计不求人，商用有版权"
+          },
+          {
+            "name": "图怪兽",
+            "url": "https://818ps.com/",
+            "iconUrl": "https://818ps.com/favicon.ico",
+            "description": "图怪兽提供photoshop编辑图片的在线图片制作功能和微信编辑器功能，同时也为你提供1753333套在线图片编辑模板，欢迎体验合使用。"
+          },
+          {
+            "name": "标智客AI logo",
+            "url": "https://www.logomaker.com.cn/",
+            "iconUrl": "https://www.logomaker.com.cn/favicon.ico",
+            "description": "800万人使用的LOGO设计免费生成器!标智客使用AIGC技术为品牌在线生成logo,智能化生成公司logo设计,商标设计,标志设计及企业VI设计. 标志客可1分钟生成个性化logo设计和品牌设计,源文件可下载!"
+          },
+          {
+            "name": "标小智AI logo",
+            "url": "https://www.logosc.cn/",
+            "iconUrl": "https://www.logosc.cn/img/logo-icons/logosc-new.svg",
+            "description": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。"
+          },
+          {
+            "name": "135 AI排版",
+            "url": "https://www.135editor.com/",
+            "iconUrl": "https://www.135editor.com/ai_editor/_nuxt/img/static/favicon/b658706d.png",
+            "description": "AI排版助手 - 公众号智能文案生成与自动排版工具 。"
+          },
+          {
+            "name": "网易设计工坊",
+            "url": "https://sd.study.163.com/artWorks/painting",
+            "iconUrl": "https://sd.study.163.com/artWorks/favicon.ico",
+            "description": "网易云课堂AI设计工坊，是面向AI绘画设计师的一站式学习、创作、分享、接单平台。这里有：便捷的云端Stable Diffusion工具，免安装部署、笔记本/MAC/平板都可轻松生图；多个专业设计领域的Checkpoint和LoRA风格模型，免下载、一键使用；在线模型训练工具，定制专属人物/风格/IP；以及持续更新的丰富插件。另外，你还可以在这里学习AI设计专业课程，深入掌握AI绘画技能；在社区分享交流AI绘画作品和设计作品集、与同学们一起进步提升；发现兼职接单机会，实现技能变现。"
+          },
+          {
+            "name": "千图设计室",
+            "url": "https://hisheai.com/",
+            "iconUrl": "https://pic.hisheai.com/static/images/public/favicon.ico",
+            "description": "千图设计室全能AI设计助手是千图网旗下的AI智能设计在线编辑平台，提供一键抠图,批量AI换背景,AI绘画,AI聊天,消除笔,AI证件照制作,艺术字logo生成,老照片修复等功能,一键稿定设计,更有AI生成美图,助力设计师释放无限创意。"
+          },
+          {
+            "name": "AI LOGO",
+            "url": "https://ai.logo123.com/",
+            "iconUrl": "https://ai.logo123.com/img/logo-icons/ailogo.svg",
+            "description": "LOGO123旗下的AI在线logo设计生成器为您提供免费公司logo设计制作。 只需输入品牌名称就能免费在线生成公司logo设计及配套企业VI，轻松打造您的个性品牌！"
+          },
+          {
+            "name": "简拼",
+            "url": "https://www.adnonstop.com.cn/jianpin/",
+            "iconUrl": "https://pp.myapp.com/ma_icon/0/icon_11375246_1750816547/256",
+            "description": "简拼是一款由 广州美人信息技术有限公司 开发的影像创作类APP，支持安卓和iOS系统"
+          },
+          {
+            "name": "百度智能云一念",
+            "url": "https://yinian.cloud.baidu.com/",
+            "iconUrl": "https://now.bdstatic.com/store/v2/13f0d3a/yinian-portal-fe/e827cdb/favicon.ico",
+            "description": "百度智能云一念是由百度智能云基于文心大模型研发的多模态内容创作平台"
+          },
+          {
+            "name": "字体家",
+            "url": "https://www.zitijia.com/",
+            "iconUrl": "https://www.zitijia.com/static/img/favicon.ico",
+            "description": "字体家是一家开发书法字体的网站平台，含有正版付费字体，免费字体下载和手写字体下载，并提供字体下载大全免费，致力于打造免费、平价字体网，另外还有各种字体在线转换程序，AI造字系统、楷书字体转换、草书字体在线转换，书法素材在线下载。"
+          },
+          {
+            "name": "U钙网",
+            "url": "https://www.uugai.com/",
+            "iconUrl": "https://www.uugai.com/favicon.ico",
+            "description": "智能AI商标logo设计，100%U钙网原创，无论你董不懂设计,仅需输入文字，您就可以自助设计出专业、精美的LOGO,无限制免费下载，十几年专业专注智能LOGO设计，服务用户已超千万"
+          }
+        ],
+        "AI 图像编辑": [
+          {
+            "name": "佐糖",
+            "url": "https://picwish.cn/",
+            "iconUrl": "https://qncdn.aoscdn.com/astro/picwish/_astro/favicon@30w.61721eae.png",
+            "description": "佐糖(PicWish)是一款智能AI图像处理平台，支持在线抠图、去水印、模糊照片变清晰、无损放大、图片裁剪、图片压缩和黑白照片上色等功能，一键就能制作出精美图片，提高图片编辑效率。"
+          },
+          {
+            "name": "像素蛋糕",
+            "url": "https://www.pixcakeai.com/",
+            "iconUrl": "https://download.pixcakeai.com/ui/pixcake-web/guide/pixcake_icon.png",
+            "description": "像素蛋糕是一款简单易用的AI修图工具，只需要拖入图片，即可实现一键智能Raw转档调色，一键磨皮全身液化，轻松实现“一秒初修，三秒精修”的批量修图操作"
+          },
+          {
+            "name": "Fotor",
+            "url": "https://www.fotor.com",
+            "iconUrl": "https://static.fotor.com/web/_next/static/images/favicon-d4b8dbe4630a2bc790117e61267bbb33.png",
+            "description": "Enhance and edit photos with Fotor’s free online photo editor. Crop, add text & effects, retouch images, and more using powerful photo editing tools."
+          },
+          {
+            "name": "象寄",
+            "url": "https://www.xiangjifanyi.com/",
+            "iconUrl": "https://www.xiangjifanyi.com/home/favicon.ico",
+            "description": "象寄图片翻译，图片网盘，图片去水印，图片抠图，图床，视频翻译，image translate, video translate, Image watermark removal"
+          },
+          {
+            "name": "百度网盘AI修图",
+            "url": "https://pan.baidu.com/aiphoto/",
+            "iconUrl": "https://staticsns.cdn.bcebos.com/amis/2024-5/1715169461588/favicon-main.ico",
+            "description": "一键推送精选好片，智能筛出海量废片"
+          },
+          {
+            "name": "美图秀秀",
+            "url": "https://pc.meitu.com/",
+            "iconUrl": "https://pc.meitudata.com/web-xiuxiu-offical/_next/static/media/favicon.87479806.ico",
+            "description": "美图秀秀网页版在线图片照片编辑制作美化修改处理工具提供在线拼图,在线改图修图,在线P图,在线美颜,在线ps照片，另外还提供图片美化、人像美容、添加文字、批量处理图片大小、证件照换底色、图片压缩等好用的功能，还有海报设计、平面设计、广告设计、贴纸素材、边框等丰富的内容，可制作PPT图片、简历、GIF动图等，支持Windows、Mac、Linux及网页版。"
+          },
+          {
+            "name": "360智图",
+            "url": "https://pic.360.com/",
+            "iconUrl": "https://p3.ssl.qhimg.com/dmt/64_64_/t01982b0cd588b0611a.png",
+            "description": "360智图是一个专业的图片版权查询平台，基于360搜索算法和图像AI识别能力，为广大运营、市场、广告、设计师等需要用到配图或者进行设计的用户服务。版权图片数量多，且质量优。平台具有图片版权一键查询、版权图片搜索、相似版权图片推荐、免费版权图供给等服务。"
+          },
+          {
+            "name": "美图云修",
+            "url": "https://yunxiu.meitu.com/",
+            "iconUrl": "https://yunxiu.meitu.com/favicon.ico",
+            "description": "美图云修，云修软件，影楼软件，智能修图，AI修图，修图软件，影楼智能修图，影楼AI修图，影楼后期制作软件，影楼照片处理软件，美图影楼软件，美图智能修图，影楼后期软件，影楼修图软件，影楼修片软件，影楼调色软件，影楼制作软件，专业影楼软件，美图智能修图软件，云图修图软件，云图影楼修图软件，美图修图软件，影楼AI，影楼液化，液化软件，照片直播，一键抠图，影楼ps，影楼lr"
+          },
+          {
+            "name": "老照片修复",
+            "url": "https://old.xunjietupian.com/",
+            "iconUrl": "https://old.xunjietupian.com/favicon.ico",
+            "description": "智能修复老照片是一个综合性的老照片处理网站,提供老照片修复、黑片老照片上色、模糊人脸修 复、图像变清晰、老照片修复等功能,界面简洁,操作简单,是一款好用的老照片处理工具."
+          },
+          {
+            "name": "你我当年照片修复",
+            "url": "https://nwdn-web.bigwinepot.com/",
+            "iconUrl": "https://nwdn-web.bigwinepot.com/fav/favicon.ico",
+            "description": "AI修复照片视频画质，让照片和视频更清晰更生动"
+          },
+          {
+            "name": "Pro KnockOut",
+            "url": "https://www.proknockoutapp.com/",
+            "iconUrl": "https://www.proknockoutapp.com/favicon.ico",
+            "description": "ProKnockOut抠图p图修图神器&专业智能证件照制作 — 一款强大的图像处理工具，以智能抠图为核心，集成了AI修图、图片合成、人像美容、照片编辑、消除笔、旧照片修复等功能，轻松满足您的各种图片编辑需求。"
+          },
+          {
+            "name": "Remini",
+            "url": "https://remini.ai/",
+            "iconUrl": "https://remini.ai/favicon.ico",
+            "description": "Remini uses innovative, state-of-the-art AI technology to transform your old photos into HD masterpieces."
+          },
+          {
+            "name": "Photo Retouch",
+            "url": "https://www.photoretouchapp.com/",
+            "iconUrl": "https://www.photoretouchapp.com/favicon.ico",
+            "description": "探索 Photo Retouch，您的 AI 驱动的照片编辑解决方案。轻松移除不需要的物体、更换背景、应用美颜滤镜、恢复清晰度，并使用各种 AI 工具获得惊艳效果"
+          },
+          {
+            "name": "炫图AI",
+            "url": "https://www.xuantuai.com/",
+            "iconUrl": "https://www.xuantuai.com/img/favicon.ico",
+            "description": "一款智能图像创作和修改工具"
+          },
+          {
+            "name": "Touch Retouch",
+            "url": "https://adva-soft.com/",
+            "iconUrl": "https://adva-soft.com/images/svg/tr5_icon.svg",
+            "description": "TouchRetouch：这是一个方便的应用程序，可以从照片中移除不需要的物体。ADVA Soft是一家专注于创建强大而易于使用的照片和视频编辑应用的公司，他们提供了一系列移动应用和Mac应用，包括TouchRetouch、Batched、Handy Photo和Recrop，这些应用提供了丰富的功能和工具，适用于各种照片编辑和修复任务。"
+          },
+          {
+            "name": "Instasize AI",
+            "url": "https://www.instasize.com/",
+            "iconUrl": "https://www.instasize.com/favicon.ico",
+            "description": "Quickly resize images and photos with Instasize. Reduce photo file sizes and ready them for social sharing in seconds. Get started for free!（建议到正规应用商城搜索下载）Instasize AI是一款专为创意工作者打造的图片和视频编辑应用，提供多样化的编辑工具，旨在帮助用户提升视觉效果。该应用具备一键美化、丰富滤镜、背景图案及文字特效等功能，支持用户直接将作品上传至各大社交平台。"
+          },
+          {
+            "name": "咔嗒",
+            "url": "https://kada.kajicam.com/",
+            "iconUrl": "https://kada.kajicam.com/img/logo.png",
+            "description": "咔嗒相机是一款基于AI智能识别技术打造的全能拍照修图神器,支持200+类标签识别、30多种拍照场景自动适配,具备滤镜美颜、高级特效、一键修容、废片拯救等多项强大功能。"
+          },
+          {
+            "name": "秒简相机",
+            "url": "https://miaojian.weixin.qq.com/camera",
+            "iconUrl": "https://mmvmaterial.wxqcloud.qq.com/web-app-static/wecamera/favicon.ico",
+            "description": "秒简相机是一款主打“所见即所得”的摄影与录像 App。告别反复修图，按下快门就能得到满意的影像，精彩一拍即合，让拍摄变得轻松愉悦！"
+          }
+        ],
+        "AI 剪辑": [
+          {
+            "name": "腾讯智影",
+            "url": "https://zenvideo.mp.v.qq.com/",
+            "iconUrl": "https://zenvideo.gtimg.com/grail/dist/favicon.ico",
+            "description": "腾讯视频智能制作平台是一款云端智能视频创作工具，集素材搜集、视频剪辑、渲染导出和发布于一体的免费在线剪辑平台。强大的AI智能工具，支持文本配音、数字人播报、自动字幕识别、文章转视频、去水印、视频解说、横转竖等功能，拥有丰富的素材库，极大提升创作效率，帮助用户更好地进行视频化的表达。"
+          },
+          {
+            "name": "度加创作工具",
+            "url": "https://aigc.baidu.com/welcome",
+            "iconUrl": "https://aigc.baidu.com/assets/favicon.ico",
+            "description": "度加创作工具是一个百度出品的、人人可用的AIGC创作平台。度加致力于通过AI能力降低内容生成门槛，提升创作效率，一站式聚合百度AIGC能力，引领跨时代的内容生产方式。度加的主要功能包括AI成片（图文成片/文字成片）、AI数字人等。自2022年3月百家号开放内测以来，一年时间共计超过45万+百度创作者使用AIGC技术能力，创作700万篇+作品，百度累计分发量超过200亿+。"
+          },
+          {
+            "name": "万兴喵影",
+            "url": "https://miao.wondershare.cn/",
+            "iconUrl": "https://images.wondershare.cn/miao-zh-square-green.png",
+            "description": "万兴喵影（原名万兴神剪手/喵影工厂）是AIGC软件A股上市公司万兴科技旗下的一款风靡全球的国产视频剪辑神器，同时支持Windows、macOS、Android以及iOS系统，电视电影短视频大片信手拈来。"
+          },
+          {
+            "name": "影伙引擎",
+            "url": "https://www.fireflyfusion.cn/",
+            "iconUrl": "https://www.fireflyfusion.cn/favicon.ico",
+            "description": "影伙引擎是一家人工智能技术与服务提供商，主要服务于智能硬件、文化创意、内容电商领域的出海企业，帮助企业更高效生产商业创意内容。影伙引擎由领先的出海互联网科技企业小影科技孵化，集成了小影科技在跨平台音视频编辑、实时图形渲染特效、AI 视觉算法、AIGC 多模态内容生成等领域的核心技术，以及服务全球的本地化运营能力。"
+          },
+          {
+            "name": "一帧秒创",
+            "url": "https://aigc.yizhentv.com/",
+            "iconUrl": "https://aigc.yizhentv.com/favicon.ico",
+            "description": "一帧秒创是基于新壹大模型及秒创AIGC引擎的智能AI内容生成平台，包含AI数字人、AI帮写、AI视频、AI作画等AIGC工具，可将百家号、公众号、头条号、搜狐号、新浪微博、小红书等文章一键转视频，一键生成数字人播报视频，为企业及自媒体提供一站式视频生产，全面提升内容创作效率。"
+          },
+          {
+            "name": "录咖",
+            "url": "https://reccloud.cn/",
+            "iconUrl": "https://qncdn.aoscdn.com/local/reccloud.cn/img/reccloud-favicon.png",
+            "description": "录咖是全球领先的AI音视频处理平台，全方位满足音视频创作、编辑的需求。包含AI语音转文字、AI字幕、AI文字转语音、AI视频翻译等超多实用功能，操作简单，在线即可使用。"
+          },
+          {
+            "name": "开拍",
+            "url": "https://www.kaipai.com/",
+            "iconUrl": "https://action-public.meitudata.com/static/6f9df495c8/favicon.ico",
+            "description": "用AI制作口播视频"
+          },
+          {
+            "name": "模力视频",
+            "url": "https://www.mooliv.com/",
+            "iconUrl": "https://www.mooliv.com/static/logo.84c5532c.svg",
+            "description": "模力视频：一站式AI视频剪辑解决方案，助力电商、信息流、企业和教育等行业。提供电商主图视频制作、批量化视频生成、脚本生成视频等，让视频创作更简单、更高效。释放您的创意潜能，提升视频营销效果。"
+          },
+          {
+            "name": "寻光",
+            "url": "https://xunguang.com/",
+            "iconUrl": "https://img.alicdn.com/imgextra/i1/O1CN010nGpac1NeYkRn0OzV_!!6000000001595-2-tps-128-128.png",
+            "description": "寻光AI为您提供丰富多样的智能图像&视频编辑功能，以及视频3D动作捕捉等专业工具，助力您的AIGC创作之旅。"
+          },
+          {
+            "name": "鬼手剪辑",
+            "url": "https://cn.jollytoday.com/home/",
+            "iconUrl": "https://cn.jollytoday.com/ghostcut2.ico",
+            "description": "用鬼手剪辑轻松走向全球！一站式 AI 视频本地化平台，支持 100+ 语言翻译、精准字幕提取、免费大模型翻译、AI克隆配音及无痕文字擦除。立即免费试用！"
+          }
+        ],
+        "AI 配音": [
+          {
+            "name": "魔音工坊",
+            "url": "https://www.moyin.com/",
+            "iconUrl": "https://tc-nj-backend-ms-pub-cdn.mobvoi.com/moyingongfang-prd/img/icons/favicon.svg",
+            "description": "魔音工坊是一款可以在线将文字转成语音的智能配音产品。提供不同性别、不同口音的真人声音，在你输入文字后直接配音。你可快速对短视频等需要配音的内容进行配音。是一款功能强大AI语音合成神器。"
+          },
+          {
+            "name": "讯飞智作",
+            "url": "https://www.xfzhizuo.cn/",
+            "iconUrl": "https://openstorage.xfyousheng.com/asset/asset/20250105/0d0db524-243e-4f97-bf15-2eef4b58e1e3.png",
+            "description": "讯飞智作配音网站为科大讯飞旗下产品,提供AI虚拟人主播,AI视频制作,数字人配音合成,短视频配音等一站式配音服务。"
+          },
+          {
+            "name": "海豚配音",
+            "url": "https://www.ttson.cn/",
+            "iconUrl": "https://www.ttson.cn/favicon.ico",
+            "description": "效果逼真的AI配音平台"
+          },
+          {
+            "name": "大饼AI变声",
+            "url": "https://dubbing.tech/",
+            "iconUrl": "https://dubbing.tech/favicon.ico",
+            "description": "大饼AI变声，WIndows&Mac免费下载，有态度、有感情的AI变声器，IP音效、御姐萝莉，正太萌妹，千百种丰富音色免费试用，一键安装轻松上手，支持全平台游戏、直播、软件内使用"
+          },
+          {
+            "name": "米可智能",
+            "url": "https://minecho.com/",
+            "iconUrl": "https://minecho.com/favicon.ico",
+            "description": "米可智能(Minecho) - 由人工智能驱动的一站式视频翻译、声音克隆、免费配音等音视频服务。"
+          },
+          {
+            "name": "睿声",
+            "url": "https://www.reecho.cn/",
+            "iconUrl": "https://www.reecho.cn/images/favicon.png",
+            "description": "Reecho睿声是一款专注于5秒瞬时语音克隆和超拟真语音合成的创新产品，由自研尖端Reecho文生语音大模型驱动，可深入理解文本，瞬时克隆任意声音，并实现与真人无异的超拟真语音合成效果。"
+          },
+          {
+            "name": "悦音配音",
+            "url": "https://yueyin.zhipianbang.com/",
+            "iconUrl": "https://yueyin.zhipianbang.com/static/imgs/logo_ico.ico?v=1.1",
+            "description": "悦音配音是制片帮旗下配音品牌，提供ai智能配音文字转语音以及真人配音服务。可以在线将文字转成语音的智能配音工具。悦音配音情绪主播声音媲美真人主播，是一款ai智能在线配音神器语音合成工具软件。深受广告片配音，宣传片配音，影视解说配音，有声书配音用户喜欢。"
+          },
+          {
+            "name": "音鹿",
+            "url": "http://yulu.polariscode.cn/",
+            "iconUrl": "http://yulu.polariscode.cn/static/logo.png",
+            "description": "(建议到正规应用商城搜索下载)音鹿是一款借助AI模型根据自定义文本生成不同音色的软件,其中内置训练成功的声音模型100+,涵盖各个业务行业，并且公司会持续推出更多的内置声音模型以满足更多的用户需求。"
+          },
+          {
+            "name": "猫头音",
+            "url": "",
+            "iconUrl": "https://www.xxx.com/favicon.ico",
+            "description": "(建议到正规应用商城搜索下载)猫头音免费版app是一款智能的配音与翻唱的服务应用软件,能够使用智能的语音配音大师来对需要进行配音的内容生成配音,能够将文字内容转换为真实的配音语音音频"
+          },
+          {
+            "name": "芊芊妙音",
+            "url": "https://sj.qq.com/appdetail/com.zghsy.voice",
+            "iconUrl": "https://pp.myapp.com/ma_icon/0/icon_54356551_1751479398/256",
+            "description": "芊芊妙音是一款非常好用的智能配音变声神器,这里提供了海量的语音包可供你选择,各种经典的音色在这里都有"
+          },
+          {
+            "name": "唱醒",
+            "url": "https://sj.qq.com/appdetail/com.youdao.udsingup",
+            "iconUrl": "https://pp.myapp.com/ma_icon/0/icon_54436304_1748339476/256",
+            "description": "唱醒AI翻唱是一款专注于音乐创作的AI应用程序,借助强大的AI技术,能够创作出高质量的AI翻唱歌曲。"
+          }
+        ],
+        "AI 短片": [
+          {
+            "name": "MOKI",
+            "url": "https://www.moki.cn/",
+            "iconUrl": "https://www.moki.cn/_moki_static/_next/static/media/favicon-32x32.d9f952bd.png",
+            "description": "MOKI是美图公司推出的AI视频短片创作平台,专注于辅助视频创作者打造动画短片、网文短剧、故事绘本和音乐视频(MV)"
+          },
+          {
+            "name": "白日梦",
+            "url": "https://aibrm.com/",
+            "iconUrl": "https://cdn.brmgo.cn/static/images/logo-icon.png",
+            "description": "白日梦AI是一款领先的文生视频类AIGC创作平台，专注于AI视频内容生成，提供AI生成视频教程、AI文生视频、AI动态画面、AI形象生成、人物/场景一致性等创作技巧及成功案例，助您快速上手并打造专业级视频内容。"
+          },
+          {
+            "name": "讯飞绘镜",
+            "url": "https://typemovie.art/",
+            "iconUrl": "https://typemovie.art/landing/favicon.ico",
+            "description": "描述即创作，短视频轻松生成"
+          },
+          {
+            "name": "极虎漫剪",
+            "url": "https://tiger.easyartx.com/",
+            "iconUrl": "https://tiger.easyartx.com/favicon.ico",
+            "description": "极虎漫剪是一款优秀的漫画剪辑、小说推文生成工具,是一款集成AI创作能力和SD绘图能力的小说推文创作提效工具，使用者通过极虎漫剪可以快速、方便、简洁、高效的制作视频、图片等形式的小说推文工具"
+          },
+          {
+            "name": "神笔马良",
+            "url": "https://shenbi.maoyan.com/",
+            "iconUrl": "https://shenbi.maoyan.com/favicon.png",
+            "description": "神笔马良AI支持多种画风,如国风古装、未来科幻、3D动漫等,满足不同剧作风格的需求。"
+          },
+          {
+            "name": "快推文",
+            "url": "http://www.itui.cc/",
+            "iconUrl": "https://pp.myapp.com/ma_icon/0/icon_54325414_1742544877/256",
+            "description": "（建议到正规应用商城搜索下载）将小说转为漫画视频，只需要5分钟，原创度非常高，视频爆量几率大！"
+          }
+        ],
+        "AI 商拍": [
+          {
+            "name": "美间AI创意商拍",
+            "url": "https://www.meijian.com",
+            "iconUrl": "https://s2-cdn.imeijian.cn/st/favicon.ico",
+            "description": "美间（www.meijian.com）是专注于家居设计营销谈单的网站，免费为设计师、业主提供海量正版设计素材、谈单PPT模板、图片素材、平面素材、彩平图、软装搭配素材、海报模板等，装修效果图一键再创作，让其10秒搞定设计方案、谈单PPT，并有高佣返现。美间设计，让家居设计更简单，更高效！"
+          },
+          {
+            "name": "绘蛙",
+            "url": "https://www.huiwa.com",
+            "iconUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Lueobx1rbIHzzyArx_!!6000000005649-2-tps-128-128.png",
+            "description": "绘蛙-是一款功能强大，简洁好用的智能图片、文案创作平台，并且拥有海量虚拟模特可选择。在绘蛙，你可训练自己的商品模型和模特模型，可通过AI生成商拍图和种草文案，可以创作小红书图片,电商商品主图,跨境电商主图,小红书种草文案,穿搭文案，视频口播文案，可在线一键美图,输入口令修改图片内容,一键换装,一键去水印,一键智能消除，一键换脸，一键高清修复图片。"
+          },
+          {
+            "name": "摹小仙",
+            "url": "https://www.moxiaoxian.art/",
+            "iconUrl": "https://cdn.frontis.top/cdn-content/static/moxiaoxian/favicon1.png",
+            "description": "摹小仙,一句话,一张图,营销爆款轻松出炉,大幅降低电商拍摄和社媒营销成本."
+          },
+          {
+            "name": "WeShop唯象",
+            "url": "https://www.weshop.com/",
+            "iconUrl": "https://www.weshop.com/small_logo.svg",
+            "description": "WeShop唯象是专注电商需求的AI商拍工具，专注电商产品图片的智能生成。品牌方无需再受到模特、经纪、摄影、后期、场租、机酒的限制，在高效产出优质商品图的同时，还能大幅节约拍摄成本。用WeShop唯象妙境，鼠标就是快门，点击即看成片。"
+          },
+          {
+            "name": "阿里鹿班",
+            "url": "https://luban.taobao.com/",
+            "iconUrl": "https://luban.taobao.com/public/favicon.ico",
+            "description": "鹿班是由阿里巴巴智能设计实验室自主研发的一款设计产品。 基于图像智能生成技术 ,鹿班可以改变传统的设计模式,使其在短时间内完成大量banner图、海报图和会场图的设计,提高工作效率。 "
+          },
+          {
+            "name": "图生生",
+            "url": "https://www.tushengsheng.com/",
+            "iconUrl": "https://fezz.tushengsheng.com/aigc/favicon.svg",
+            "description": "图生生ai，电商美图设计工具，图生生官方正版下载。ai换商品、ai换模特、ai换背景，ai做海报，商品背景模仿实现创意裂变，ai图生视频秒变商品展示视频，还有ai批量抠图去背景、批量清晰放大、商品一键换色、画面智能扩充等ai修图工具。致力于解决传统商拍成本高、耗时长等电商痛点问题，助力千万中小商家降本，协助美工设计师及运营提效。一键生成高质量商品场景图，省时、省力又省钱！"
+          },
+          {
+            "name": "FancyTech",
+            "url": "https://fancyth.com/",
+            "iconUrl": "https://fancyth.com/favicon.ico",
+            "description": "一键上传图片/视频，批量生成卖货短视频"
+          },
+          {
+            "name": "超能画布",
+            "url": "https://photo.baidu.com/photasy/welcome",
+            "iconUrl": "https://nd-static.bdstatic.com/aigc-static/yike-aigc/favicon.ico",
+            "description": "超能画布是百度网盘荣誉出品的专注人像摄影的AI创意生成工具，致力于让每个人的图像创意都成真，是摄影师的降本增效神器"
+          },
+          {
+            "name": "京东羚珑",
+            "url": "https://ling.jd.com/",
+            "iconUrl": "https://storage.360buyimg.com/mf.jd.com/LingRelay/ico/Linglong-Logo-32x32.ico",
+            "description": "京东羚珑 - 营销内容创意平台：一键抠图、免费抠图、商品打腰带、改尺寸、商品主图设计、线上广告banner设计、店铺首页设计、活动页设计、页面设计、互动营销设计、小程序设计、动图视频设计、视频广告设计、商品主图视频设计、海报设计、公众号配图设计、二维码名片设计、DM传单设计、物流面贴设计、易拉宝设计、张贴海报设计，海量精美模板，免费设计，免费素材，专区，致力于成为商家经营的设计合作伙伴。"
+          },
+          {
+            "name": "易可图AI",
+            "url": "https://www.yiketu.com/",
+            "iconUrl": "https://cs-c2.yiketu.com/assets/icon-e09c20fa.ico",
+            "description": "易可图专注融合AI，重塑电商图片编辑体验。提供商品图AI智能换背景、AI模特试衣、一键抠图、图片批量编辑等功能。更有海量电商模版，快速出图，适用各大电商平台，让商品视觉更出众!"
+          },
+          {
+            "name": "万相营造",
+            "url": "https://agi.taobao.com/",
+            "iconUrl": "https://img.alicdn.com/imgextra/i1/O1CN01vtUJjz1Mej9c3oLuP_!!6000000001460-73-tps-16-16.ico",
+            "description": "万相营造，原名万相实验室，是阿里妈妈旗下专注商业经营领域的AI创意生产工具，基于生成式AI智能技术进行创新孵化的实验专项，致力于围绕商业经营探索新应用、新能力、新工具，为商业经营提供更智能、更高效、更降本、更具创造性的服务。提供智慧营销、增强分析，创意生产等系列能力建设。“万相融绘”是AI智能创意生成工具，为品牌推广、运营、设计提供多维丰富的商品创意生成的服务。尝试提供商品数字分身训练、高保真品牌还原、创造性融合背景、模特拿商品等商品创意生成能力，并提供自定义模特、场景风格的AI快速换装服务。未来将逐步研发品牌风格定制、套图生成、微动效等能力。"
+          },
+          {
+            "name": "灵动AI",
+            "url": "https://www.redoon.cn/",
+            "iconUrl": "https://s3.taihuoniao.com/redoon/img/icons/favicon-32x32.png",
+            "description": "灵动AI，超级好用的在线设计工具，商家或者设计小白都能轻松上手快速出图。提供海量精美模板和素材，适用于美妆、快消、3C、家电、家装等产品品类。可以输出电商主图、电商海报、商品视频等营销物料，拥有横版、竖版和方形尺寸，适配各种用途。"
+          },
+          {
+            "name": "PhotoStudio AI",
+            "url": "https://psai.cn/",
+            "iconUrl": "https://psai.cn/favicon-32x32.png",
+            "description": "PSAI智能商拍云工作室是虹软科技旗下的智能商拍在线设计平台，psai是一款简洁好用的电商图片创作生成平台图片，并且拥有海量虚拟模特可选择。在psai，你可训练自己的模特模型。psai是一款平面设计工具、在线平面设计软件及AI设计工具,提供海量模特,场景模板,跨境电商模板,跨境电商banner,电商主图等免费设计素材和模板，可在线智能生成海报,一键换色,一键换装,一键去水印,AI扩图,ai海报生成,ai视频 ,AI商品图,ai模特,画质修复,抠图拼图，3秒完成专业设计！"
+          }
+        ],
+        "AI 数字人": [
+          {
+            "name": "Kreado AI",
+            "url": "https://www.kreadoai.com/zh",
+            "iconUrl": "https://www.kreadoai.com/favicon.png?v=1",
+            "description": "使用KreadoAI，仅需1分钟即可生成专业级视频。从1000+多种AI虚拟形象和1600种声音中任选，支持140多种语言，你甚至可以克隆自己的 AI 头像和声音！"
+          },
+          {
+            "name": "魔珐有言",
+            "url": "https://www.youyan3d.com/",
+            "iconUrl": "https://www.youyan3d.com/favicon.icos",
+            "description": "魔珐有言是一款零门槛、易上手的3D数字人AI视频生成工具，只需输入文字，即可一键生成高质量的3D数字人视频。无需出镜、拍摄或后期制作，AI自动生成场景、灯光、人物形象、表现和运镜，效果媲美专业团队。不论企业还是个人，均可轻松满足各种视频需求，快速提升制作效率。"
+          },
+          {
+            "name": "硅基智能",
+            "url": "https://www.guiji.ai/",
+            "iconUrl": "https://www.guiji.ai/favicon.ico",
+            "description": "数字人|ai数字人|数字化虚拟人|VPPT数字"
+          },
+          {
+            "name": "奇妙元",
+            "url": "https://www.weta365.com/",
+            "iconUrl": "https://www.weta365.com/favicon.ico",
+            "description": "奇妙元一站式数字人视频制作和直播平台"
+          },
+          {
+            "name": "小冰公司",
+            "url": "https://www.xiaoice.com/",
+            "iconUrl": "https://www.xiaoice.com/static/favicon.ico",
+            "description": ""
+          }
+        ]
+      },
+      "AI 文娱": {
+        "AI 陪伴": [
+          {
+            "name": "X Eva",
+            "url": "https://xeva.xiaoice.com/h5/",
+            "iconUrl": "https://prodaf-image.xiaoice.com/publicresource/AppStatic/XEva/xeva_card_icon.png",
+            "description": "X Eva是由北京红棉小冰科技有限公司开发的一款虚拟人类休闲娱乐平台该产品旨在为用户提供一个与AI虚拟人类互动的全新体验"
+          },
+          {
+            "name": "名人朋友圈",
+            "url": "https://www.mrpyq.com/",
+            "iconUrl": "https://www.mrpyq.com/static/favicon.ico",
+            "description": "语C手机APP。面具社交，让人人认识你的另一面。以假乱真的朋友圈，演绎名人，过一把名人瘾。各种以名人身份发布的状态和回复，人人都是段子手，逗比满天飞。"
+          },
+          {
+            "name": "星野",
+            "url": "https://www.xingyeai.com/",
+            "iconUrl": "https://filecdn-other.xingyeai.com/xingye-h5/app-logo-xingye.png",
+            "description": "星野是 MiniMax 基于通用大模型打造的 AI 原生应用，致力于为用户打造一个沉浸式AI内容社区。用技术为用户创造沉浸的对话体验、逼真的智能体、解锁有趣的开放剧情。用户可以定制形象,性格,音色等,有趣开放的剧情,让你体验逼真的聊天互动,欢迎进入星野APP官方网站下载,体验!"
+          },
+          {
+            "name": "猫箱",
+            "url": "https://maoxiangai.com/",
+            "iconUrl": "https://lf-flow-web-cdn.myparallelstory.com/obj/parallel-bucket-cn/maoxiangv1-logo/box-logo@2x.png",
+            "description": "猫箱带你体验多样化的 AI 角色，开启你的 AI 奇遇之旅。立即下载猫箱应用，与这些智能角色展开深度对话，感受他们独特的个性和故事背景。你可以创作 AI 角色，拥有自己的情感和记忆，让你的互动更加真实和有趣。"
+          },
+          {
+            "name": "ChatBird",
+            "url": "https://sj.qq.com/appdetail/com.tcl.chatbird",
+            "iconUrl": "https://pp.myapp.com/ma_icon/0/icon_54430375_1752390428/256",
+            "description": "ChatBird是一款AI虚拟人陪伴类应用，通过先进的人工智能技术，模拟真实的人际交互体验，为用户提供全面的情感支持和陪伴服务。"
+          },
+          {
+            "name": "筑梦岛",
+            "url": "https://www.zhumengdao.com/",
+            "iconUrl": "https://h5.zhumengdao.com/h5/favicon.ico",
+            "description": "筑梦岛app是一款功能强大的AI聊天机器人和智能对话工具，有趣的开放剧情和逼真的AI聊天，让你体验真正的聊天互动。无论是日常闲聊或语音聊天，筑梦岛ai都能满足你的需求。快来官网免费下载试用吧！"
+          },
+          {
+            "name": "造梦次元",
+            "url": "https://ciyuan.ideaflow.pro/",
+            "iconUrl": "https://ciyuan.ideaflow.pro/favicon.ico",
+            "description": "造梦次元是一个AI虚拟世界，造梦师们会创造各种AI角色、场景，来陪伴用户消灭不开心。"
+          },
+          {
+            "name": "Talkmaker",
+            "url": "https://sj.qq.com/appdetail/cn.talkmaker",
+            "iconUrl": "https://pp.myapp.com/ma_icon/0/icon_54409967_1751963465/256",
+            "description": "TalkmakerAI是一款专注于虚拟角色互动与智能对话的安卓应用,支持用户自定义角色外观及性格,并具备多场景应用功能。"
+          },
+          {
+            "name": "我在AI",
+            "url": "https://www.truth-ai.cn/",
+            "iconUrl": "https://www.truth-ai.cn/favicon.ico",
+            "description": "我在AI，免费国内版AIGC人工智能助手。我们拥有丰富的AI智能体，例如AI恋人，万能回复神器，AI文案生成，AI翻译等等。用户还可以创建个性化的AI智能体，满足定制化需求。点击下载，了解更多你感兴趣的内容！"
+          },
+          {
+            "name": "点点穿书",
+            "url": "https://www.ddcsai.com/",
+            "iconUrl": "点点穿书，一款互动小说app"
+          },
+          {
+            "name": "WoW",
+            "url": "https://www.wow.fun/",
+            "iconUrl": "https://www.wow.fun/assets/icon_logo_wow.png",
+            "description": "Wow APP是一款基于通用大模型的 AI 聊天陪伴类应用产品，致力于为用户打造沉浸且私密的 AI 内容社区。用技术为用户提供逼真的对话体验和沉浸式的互动效果，随时随地可以解锁丰富多彩的开放剧情。用户可以自由定制角色形象、性格和音色，享受真实而有趣的聊天互动。欢迎访问 Wow APP 官方网站下载，开始体验吧"
+          },
+          {
+            "name": "Cos Love",
+            "url": "https://sj.qq.com/appdetail/com.black.coslove",
+            "iconUrl": "https://pp.myapp.com/ma_icon/0/icon_54329542_1748604083/256",
+            "description": "虚拟恋爱聊天APP，24小时陪伴在线互动。"
+          },
+          {
+            "name": "冒泡鸭",
+            "url": "https://maopaoya.com/",
+            "iconUrl": "https://maopaoya.com/favicon.ico",
+            "description": "冒泡鸭 AI 是由阶跃星辰基于自研多模态大模型开发的面向个人用户的 AI 互动平台。它提供了覆盖拟人、工具、内容、游戏、娱乐等多个领域的海量智能体。用户可以在平台上找到满足各种需求的智能体，体验到丰富的剧情故事，参与到自由多样的互动玩法中。冒泡鸭 AI 依靠超长的上下文记忆能力和实时联网搜索的能力，能够深度理解用户意图，并提供即时、准确、个性化的回复和选择。用户还可以根据个人喜好和需求，定制更加个性化的 AI 智能体，使得互动体验更符合用户个性化的期待和偏好。"
+          },
+          {
+            "name": "彩云小梦",
+            "url": "https://www.xiaomengai.com/",
+            "iconUrl": "https://cdn-web.caiyunapp.com/dreamily/public/images/logo.png",
+            "description": "彩云小梦是一个智能写作AI,你只需开个头,AI 就会帮你创作故事。你可以自由定义故事的世界设定,并扮演其中的角色,与其他角色聊天。"
+          },
+          {
+            "name": "逗逗游戏伙伴",
+            "url": "https://www.magicneko.com/",
+            "iconUrl": "https://www.magicneko.com/favicon.ico",
+            "description": "逗逗游戏伙伴是一款陪你一起玩游戏的AI桌宠软件，在这里有着各种个性的二次元人物，他们会在游戏过程中陪你聊天，还会讲笑话、唱歌等各种惊喜能力；他们懂游戏，更懂你，和为你定制的AI伙伴们一起快乐游戏吧"
+          },
+          {
+            "name": "Cos AI",
+            "url": "https://tensormatrix.cn/",
+            "iconUrl": "https://tensormatrix.cn/app/icons/cosai/favicon-128x128.png",
+            "description": "COSAI，AI角色扮演聊天的家园，拥有众多原创角色。您可以尽情沉浸在各种对话场景中，并体验到我们创新的AI技术如何赋予每一次独特交互生命力。"
+          },
+          {
+            "name": "异世界回响",
+            "url": "https://sj.qq.com/appdetail/cn.soulapp.anotherworld",
+            "iconUrl": "https://pp.myapp.com/ma_icon/0/icon_54350717_1751287456/256",
+            "description": "异世界回响是一款创新的乙女类应用,它超越了传统的界限,让你在虚拟世界中找到无与伦比的陪伴。"
+          },
+          {
+            "name": "纸飞机AI",
+            "url": "",
+            "iconUrl": "https://xxx.com/favicon.ico",
+            "description": "找不到了"
+          },
+          {
+            "name": "桌面喵",
+            "url": "https://sj.qq.com/appdetail/com.example.desktopmeow",
+            "iconUrl": "https://pp.myapp.com/ma_icon/0/icon_54316100_1745828204/256",
+            "description": "一款由北京华夏乐游科技股份有限公司推出的桌面宠物互动APP,让你的手机桌面充满个性与生机。"
+          },
+          {
+            "name": "友达提问箱",
+            "url": "https://sj.qq.com/appdetail/tape.love",
+            "iconUrl": "https://pp.myapp.com/ma_icon/0/icon_54320672_1734427266/256",
+            "description": "友达提问箱app是一款简单新颖的社交软件,其主要玩法就是通过提问来实现陌生人的交流"
+          },
+          {
+            "name": "捏TA",
+            "url": "https://nieta.art/",
+            "iconUrl": "https://oss.talesofai.cn/static/talesofai-h5/favicon.ico",
+            "description": "看见概念(上海)智能科技有限公司是一家生成式人工智能技术公司。致力于打造生成式人工智能内容引擎 ——用AI释放人们的创造力,并解决其在数据、效果、版权、商业利用上的问题,重塑AI世代的内容生产关系。"
+          },
+          {
+            "name": "闪令",
+            "url": "https://www.vmuse.fun/",
+            "iconUrl": "https://www.vmuse.fun/favicon.svg",
+            "description": "闪令是一款AI原生应用，为用户打造充满故事的AI互动剧情社区"
+          }
+        ],
+        "AI 教育": [
+          {
+            "name": "快对",
+            "url": "https://www.kuaiduizuoye.com/",
+            "iconUrl": "https://static.kuaiduizuoye.com/product/kdzy/favicon.ico",
+            "description": "快对-在线搜索答疑软件，家长课外辅导神器，检查作业，获取题目答案与解析。下载快对，陪孩子一起作业，帮助学生快速掌握重点、难点及易错点，提升学习效率"
+          },
+          {
+            "name": "豆包爱学",
+            "url": "https://sj.qq.com/appdetail/com.aitutor.hippo",
+            "iconUrl": "https://pp.myapp.com/ma_icon/0/icon_54357708_1751417699/256",
+            "description": "提供全方位学习帮助"
+          },
+          {
+            "name": "斑马AI学",
+            "url": "https://banmaapp.com/",
+            "iconUrl": "https://static-nginx-online.fbcontent.cn/h5/zebra-ai-page/EnglishFavicon.png",
+            "description": "斑马AI学，通过趣味的动画互动内容，帮助孩子在认识世界、探索世界的同时，打好全方位能力基础，陪伴孩子共同成长。"
+          },
+          {
+            "name": "随时问",
+            "url": "https://www.mathcn.cn/",
+            "iconUrl": "https://static0.xesimg.com/ssw-app/prod/ssw-logo.png",
+            "description": "小思AI（原“随时问APP”）是学而思旗下一款全能AI学习助手，致力于为全国中小学生提供专业的学习辅导服务。"
+          },
+          {
+            "name": "AI音乐学园",
+            "url": "https://s.immusician.com/",
+            "iconUrl": "http://s.immusician.com/static/website/imgs/nav-logo.png",
+            "description": "迄今为止先进的在线学琴方式，智能互动教学模式+经验丰富教研团队+乐音识别技术，让学生边学边练，还原线下一对一手把手教学效果和体验。轻松上手吉他、尤克里里弹唱，就是这么简单 "
+          },
+          {
+            "name": "有道纵横棋院",
+            "url": "https://c.youdao.com/youdaoqiyuan/home.html",
+            "iconUrl": "https://ydschool-video.nosdn.127.net/1637920978128icon.png",
+            "description": "围棋、国际象棋、中国象棋三棋任选，精准匹配、智能推题、线上比赛等你来玩!"
+          },
+          {
+            "name": "海豚AI学",
+            "url": "https://www.haitunaixue.com/",
+            "iconUrl": "https://conan-online.fbcontent.cn/aries-oss-resource/web-assets/1093628_o3k.ico",
+            "description": "海豚AI学是猿辅导集团自研大模型的首款落地应用，为1-9年级学生提供语文、数学、物理、英语四科的自主学习内容，以趣味动画互动内容和AI个性化学练方案，培养孩子从被动学到主动学。"
+          },
+          {
+            "name": "粉笔AI刷题系统班",
+            "url": "https://www.fenbi.com/ai-course",
+            "iconUrl": "https://nodestatic.fbstatic.cn/weblts_spa_online/page/assets/fenbi32.ico",
+            "description": "【粉笔公考】国家公务员、事业单位、研究生、四六级、建造、法考、医疗、军队文职、公安招警、银行等招考信息,岗位查询,备考指导,笔试面试辅导资料,课程培训,历年试题及答案下载,模考大赛"
+          },
+          {
+            "name": "Hi Echo",
+            "url": "https://hiecho.youdao.com/",
+            "iconUrl": "https://ydlunacommon-cdn.nosdn.127.net/532259bd4e6a9f7d7db777f3bf882d84.png",
+            "description": "Hi Echo 专业AI虚拟人口语私教。为您提供随时随地的一对一口语练习，覆盖多个对话场景和话题，比真人口语教练更专业地道;提供对话分数及完整对话报告，帮助快速提升口语分数，且价格远低于一对一口语私教。)"
+          },
+          {
+            "name": "快问 AI",
+            "url": "https://quickai.polyspeak.cn/",
+            "iconUrl": "https://quickai.polyspeak.cn/favicon.ico",
+            "description": "快问AI作为一款智能AI学习伴侣APP，具有广泛的知识，包括但不仅限于科学、历史地理、文化、娱乐、运动等领域。"
+          },
+          {
+            "name": "有道小P",
+            "url": "https://xiaop.youdao.com/",
+            "iconUrl": "https://ydlunacommon-cdn.nosdn.127.net/3526e7dafe900c2eb430880b7dc23a62.png",
+            "description": "有道小P，新一代AI全科学习助手，在学习中遇到任何问题都可以问我。有道小P通过拍题答疑、AI查词和翻译等工具提升学习能力，提供用户在学习或者工作中，不同细分场景下需求的解决方案。"
+          },
+          {
+            "name": "EF Hello",
+            "url": "https://hello.ef.com/",
+            "iconUrl": "https://hello.ef.com/images/favicon.png",
+            "description": "AI 导师 Addi 帮你流利开口说英语。"
+          },
+          {
+            "name": "适趣AI中文",
+            "url": "https://sj.qq.com/appdetail/com.zhilehuo.sqertongshizi",
+            "iconUrl": "https://pp.myapp.com/ma_icon/0/icon_53989013_1751795701/256",
+            "description": "适趣AI中文是一款面向国内外用户中文水平提升，拓展视野的互动软件。"
+          },
+          {
+            "name": "九章答疑",
+            "url": "https://www.xueersi1v1.com/",
+            "iconUrl": "https://www.xueersi1v1.com/assets/images/favicon.png",
+            "description": "学而思出品最新数学搜索答疑工具，以生成式人工智能技术为基础，通过启发引导的方式讲解数学题目，旨在培养解题思维，提升数学学习能力。"
+          },
+          {
+            "name": "Talk AI练口语",
+            "url": "https://ttalkai.com/",
+            "iconUrl": "https://ttalkai.com/logo.ico",
+            "description": "TalkAI通过视频通话和语音对答的方式，激发，鼓励，刺激学生开口说，用心讲！作为提升学生口语的工具，TalkAI也能实时追踪学习进度，帮助我完善教学指标和教学任务，是不可多得的一款AI学习工具！"
+          },
+          {
+            "name": "可栗口语",
+            "url": "https://www.oral-craft.com/",
+            "iconUrl": "AI外教学习英语talkai练口语,零基础学英语",
+            "description": "AI外教学习英语talkai练口语,零基础学英语"
+          },
+          {
+            "name": "新述口语",
+            "url": "https://www.newsay.com/",
+            "iconUrl": "https://www.newsay.com/favicon.ico",
+            "description": "新述智能AI免费口语练习工具，提供多种对话场景、多种对话类型，是一个通过AI机器人进行聊天来提升英语口语技能的的软件，支持学习英语、练习口语、AI智能对话、英语跟读、雅思陪练、作文批改、语法纠错等多种功能，使你更沉浸式进行口语练习。"
+          }
+        ],
+        "AI 写真": [
+          {
+            "name": "快剪辑",
+            "url": "https://www.kuaijianji.com/",
+            "iconUrl": "https://www.kuaijianji.com/favicon.ico",
+            "description": "快剪辑SaaS是国内领先的视频剪辑软件,拥有强大的云端剪辑能力,支持在线去水印,录屏,录音,视频文字互转,添加字幕,拥有海量版权视频模板,音乐,特效,贴纸,适用于个人和中小企业定制,支持手机APP和电脑PC下载"
+          },
+          {
+            "name": "星绘",
+            "url": "https://www.butterflyai.cn/",
+            "iconUrl": "VM99:10 https://lf-bf.butterflyai.cn/obj/butterfly-scm/flow/butterfly/official-website/favicon_cn.svg",
+            "description": "星绘提供丰富的AI生图能力，你可以创建AI世界的你，并且为你的分身定制多样的效果，体验各种虚拟人生。"
+          },
+          {
+            "name": "脸猫",
+            "url": "https://sj.qq.com/appdetail/com.windandrain.facecat",
+            "iconUrl": "https://pp.myapp.com/ma_icon/0/icon_54230793_1752137686/256",
+            "description": "脸猫 - 一键换装，多种风格写真大片等你来拍，新年烟花，氛围美女，绝美婚纱，古风汉服，证件照，经典角色等"
+          },
+          {
+            "name": "剪同款",
+            "url": "https://sj.qq.com/appdetail/com.stds.shot",
+            "iconUrl": "https://pp.myapp.com/ma_icon/0/icon_54224320_1725854361/256",
+            "description": "剪同款—绝美神仙滤镜让你的照片美出圈！这里有全网爆火的粘土滤镜、PS2像素风、莫奈花园、宫崎骏动漫风等滤镜效果，无需繁琐操作，轻轻一按照片秒变艺术品。"
+          },
+          {
+            "name": "妙鸭相机",
+            "url": "https://www.miaoya.cn/",
+            "iconUrl": "https://gw.alicdn.com/imgextra/i2/O1CN015zc06r1CJz1T7dJNK_!!6000000000061-2-tps-204-204.png",
+            "description": "妙鸭相机是一款在线生成专业质感大片的AI相机，拥有时尚、好玩的风格模板，让你快速拥有百变照片，掌握引爆社交圈的流量密码！"
+          },
+          {
+            "name": "美影",
+            "url": "https://sj.qq.com/appdetail/com.myxtxj.fxm",
+            "iconUrl": "https://pp.myapp.com/ma_icon/0/icon_54412469_1735028444/256",
+            "description": "（建议到正规应用商城搜索下载）一款图片美化编辑软件。"
+          },
+          {
+            "name": "乐拍",
+            "url": "https://sj.qq.com/appdetail/gzqf.akjd.asijdks",
+            "iconUrl": "https://pp.myapp.com/ma_icon/0/icon_54372020_1750302563/256",
+            "description": "（建议到正规应用商城搜索下载）乐拍是一款功能强大且多样化的相机与图片编辑应用，为用户提供了全方位的摄影和图像处理体验。"
+          },
+          {
+            "name": "必拍",
+            "url": "https://sj.qq.com/appdetail/com.visual.bipai.camera",
+            "iconUrl": "https://pp.myapp.com/ma_icon/0/icon_54374452_1737900110/256",
+            "description": "（建议到正规应用商城搜索下载）必拍相机是一款备受喜欢的摄影软件，助力你轻松拍摄出画质卓越的照片"
+          }
+        ],
+        "AI 心理": [
+          {
+            "name": "Quin",
+            "url": "https://askquin.cn/cn",
+            "iconUrl": "https://askquin.cn/favicon.ico",
+            "description": "在爱情、学业、事业与生活中，为你带来精准且有温度的塔罗指引。"
+          },
+          {
+            "name": "预见塔塔",
+            "url": "https://aigc-star.gaotu.cn/",
+            "iconUrl": "https://aigc-star.gaotu.cn/logo.png",
+            "description": "（建议到正规应用商城搜索下载）预见塔塔是一款AIGC氵乏心理应用，致力于将科技和心理学相结合"
+          },
+          {
+            "name": "月见",
+            "url": "https://static.moon-insight.com/baidu/",
+            "iconUrl": "https://static.moon-insight.com/baidu/static/favicon.ico",
+            "description": "（建议到正规应用商城搜索下载）月见是一款基于AI的智能塔罗占卜应用，提供精准分析、实时牌阵，帮助你洞察内心与未来。"
+          },
+          {
+            "name": "测测",
+            "url": "https://www.cece.com/",
+            "iconUrl": "https://www.cece.com/favicon.ico",
+            "description": "Cece Group成立于2011年，2013年起陆续发布测测、测测心理师、快乐测测、Lingomate、测测达人等多款App，已获得远瞻资本、腾讯双百、复星资本等多轮融资，为亚洲泛心理在线社区的引领者，通过AI系统和在线人工结合为1700万用户提供服务。"
+          },
+          {
+            "name": "觅我",
+            "url": "",
+            "iconUrl": "https://xxx.com/img/y.png",
+            "description": "(建议到正规应用商城搜索下载)觅我是一款创新的APP,巧妙融合了情绪焦点疗法、AI技术与古老的塔罗牌智慧,打造了一个独特的塔罗与心灵树洞空间。"
+          }
+        ]
+      },
+      "AI 生活": {
+        "AI 健康": [
+          {
+            "name": "轻松问医",
+            "url": "https://www.qshealth.com/",
+            "iconUrl": "hhttps://www.qshealth.com/qshealth-icon.png",
+            "description": "轻松问医DoctorGPT健康大模型算法是北京轻松健康网络科技有限公司旗下的深度合成服务算法。"
+          },
+          {
+            "name": "讯飞晓医",
+            "url": "https://www.xunfeihealthcare.com/",
+            "iconUrl": "https://www.xunfeihealthcare.com/upload/20240304/57797b2b86eedb838c3010c64132aec0.png",
+            "description": " 讯飞医疗科技股份有限公司（以下简称讯飞医疗）是科大讯飞的子公司，成立于2016年。讯飞医疗坚持“用人工智能服务健康中国”，致力于将人工智能技术与医疗行业深度融合，打造人工智能+医疗的新蓝海，推动健康医疗产业发展，助力国家医改政策的落实。"
+          },
+          {
+            "name": "轻牛健康",
+            "url": "https://www.qnniu.com/",
+            "iconUrl": "https://www.qnniu.com/assets/logo.png",
+            "description": "轻牛健康app是一款健康生活管理软件,专注于科学减脂,身材管理,支持心率、心脏指数、BMI、体脂率等功能的检测,致力于为用户提供精准健康数据检测服务"
+          }
+        ],
+        "AI 运动": [
+          {
+            "name": "天天跳绳",
+            "url": "https://www.tiantiantiaosheng.com/",
+            "iconUrl": "https://www.tiantiantiaosheng.com/favicon.ico",
+            "description": "天天跳绳包含多种体育运动及趣味运动项目,覆盖体能,AI跳绳,篮球,足球,广播操，舞蹈,AR运动等,全自动AI计数，精准高效，随时随地可运动训练。AR运动游戏、双人pk、班级场、超级赛场等,提高学生运动积极性。更有专项直播训练课，如长高课、体态课、跳绳课等，帮助学生提高运动技能，校园配套教学系统,可线上做体育作业、参加线上运动会等"
+          },
+          {
+            "name": "乐动力",
+            "url": "https://www.ledongli.cn/",
+            "iconUrl": "https://img.alicdn.com/imgextra/i2/O1CN01TBpvrE1DC1eDijclA_!!6000000000179-73-tps-16-16.ico",
+            "description": "乐动力是一款能够全天候自动记录用户运动行为的健康类应用。"
+          },
+          {
+            "name": "小小运动家",
+            "url": "",
+            "iconUrl": "https://xxx.com/favicon.ico",
+            "description": "（建议到正规应用商城搜索下载）小小运动家是一款非常实用的智能运动软件,通过该软件能够将用户每一次的运动轨迹以及运动姿势进行分析,当发生错误动作时能够即时的进行纠正,让每一位小伙伴都能够进行健康科学的运动"
+          }
+        ],
+        "AI 日记": [
+          {
+            "name": "心岛日记",
+            "url": "https://www.xindaoapp.cn/",
+            "iconUrl": "https://www.xindaoapp.cn/pc/mindera_logo.png",
+            "description": "温暖的情绪治愈社区"
+          },
+          {
+            "name": "心光",
+            "url": "",
+            "iconUrl": "https://www.xxx.com/favicon.ico",
+            "description": "一款日记app，建议到正规应用商城搜索下载"
+          },
+          {
+            "name": "独响",
+            "url": "https://www.duxiangai.com/",
+            "iconUrl": "https://www.duxiangai.com/icon.png?d60e13746082202e",
+            "description": "你的 AI 朋友圈"
+          }
+        ],
+        "AI 记账": [
+          {
+            "name": "小乖记账",
+            "url": "",
+            "iconUrl": "https://xxx.com/favicon.ico",
+            "description": "一款记账app，建议到正规应用商城搜索下载"
+          },
+          {
+            "name": "叨叨",
+            "url": "https://www.daodao.cn",
+            "iconUrl": "https://cdn003.qeeniao.com/backend/upload/1532951617/favicon.ico",
+            "description": "叨叨,懂得心疼你的记账本,才是好的记账本,智能AI聊天机器人"
+          },
+          {
+            "name": "咔皮记账",
+            "url": "https://heylumi.cn/",
+            "iconUrl": "https://heylumi.cn/favicon.ico",
+            "description": "一句话记账，智能识别金额和分类，一键完成记录，快捷高效，账目清晰，告别繁琐输入，且支持语音输入。（建议通过应用商城下载）"
+          }
+        ],
+        "AI 输入法": [
+          {
+            "name": "微信输入法",
+            "url": "https://z.weixin.qq.com/",
+            "iconUrl": "https://cdn.weread.qq.com/web/wetype/favicon/favicon.ico",
+            "description": "微信输入法是微信官方出品的中文输入法，提供高效的输入体验、精准的推荐策略、多元的创新玩法。"
+          },
+          {
+            "name": "微脉输入法",
+            "url": "https://www.iweimai.cn/",
+            "iconUrl": "https://www.iweimai.cn/image/logo.png",
+            "description": "脉输入法是北京助梦工场科技有限公司旗下产品，特色是解决文案折叠、共享话术、吸睛字体、字符模板、逐条发送、键盘计算器等。公司专注私域和自媒体运营工具，旗下产品有微脉输入法，微脉水印相机，微脉素材库，微脉圈等，累计用户超过1.5亿。"
+          },
+          {
+            "name": "搜狗输入法",
+            "url": "https://pinyin.sogou.com/",
+            "iconUrl": "https://ife.gtimg.com/build/client/fromcc/official-website/assets/favicon_8dbb2ea.ico",
+            "description": "搜狗拼音输入法官网下载，荣获多个国内软件大奖的搜狗拼音输入法是一款打字更准、词库更大、速度更快、外观漂亮、用了让您爱不释手的输入法，是您装机输入的好选择。享受输入，从搜狗开始！"
+          },
+          {
+            "name": "百度输入法",
+            "url": "https://shurufa.baidu.com/default",
+            "iconUrl": "https://shurufa.baidu.com/default/favicon.ico",
+            "description": ""
+          },
+          {
+            "name": "讯飞输入法",
+            "url": "https://srf.xunfei.cn/",
+            "iconUrl": "https://srf.xunfei.cn/favicon.ico",
+            "description": ""
+          },
+          {
+            "name": "Lovekey键盘",
+            "url": "https://www.lovekeyboard.com/",
+            "iconUrl": "https://www.lovekeyboard.com/assets/logo-66081f2d.png",
+            "description": "lovekey键盘"
+          },
+          {
+            "name": "爱键盘",
+            "url": "",
+            "iconUrl": "https://www.xxx.com/favicon.ico",
+            "description": "一款App，推荐在正规应用商城下载"
+          },
+          {
+            "name": "爱帮主",
+            "url": "",
+            "iconUrl": "https://app.ibangzhu.cn/favicon.ico",
+            "description": "一款App，推荐在正规应用商城下载"
+          },
+          {
+            "name": "恋小助",
+            "url": "https://www.paomob.com/",
+            "iconUrl": "https://www.paomob.com/favicon.ico",
+            "description": "恋小助是一款拥有海量的恋爱聊天话术平台，专注为年轻人如何与心仪的Ta聊天，恋爱就用恋小助，年轻人的恋爱聊天小帮手。"
+          }
+        ]
+      }
+    },
+    "AI 硬件产品": {
+      "AI PC": [
+        {
+          "name": "联想",
+          "url": "https://www.lenovo.com/",
+          "iconUrl": "https://www.lenovo.com/favicon.ico",
+          "description": "Get the latest Lenovo products at our computer store. Explore our range of laptops, PCs, and accessories from Lenovo and enjoy special discounts."
+        },
+        {
+          "name": "机械革命",
+          "url": "https://www.mechrevo.com/",
+          "iconUrl": "https://www.mechrevo.com/images/favicon.ico",
+          "description": "机械革命"
+        },
+        {
+          "name": "华硕",
+          "url": "https://www.asus.com/",
+          "iconUrl": "https://www.asus.com/new_asus_ico_256x256.png",
+          "description": "Driven by innovation & committed to quality, ASUS has a wide selection of best in class products. Find & buy a laptop, phone, router, monitor, motherboard & more"
+        },
+        {
+          "name": "小米",
+          "url": "https://www.mi.com/",
+          "iconUrl": "https://s01.mifile.cn/favicon.ico",
+          "description": "让全球每个人都能享受科技带来的美好生活"
+        },
+        {
+          "name": "华为",
+          "url": "https://www.huawei.com/",
+          "iconUrl": "https://www.huawei.com/Assets/corp/v2/img/apple-touch-icon-180.png",
+          "description": "Huawei is a leading global provider of information and communications technology (ICT) infrastructure and smart devices."
+        },
+        {
+          "name": "荣耀",
+          "url": "https://www.honor.com/cn/",
+          "iconUrl": "https://www.honor.com/etc/designs/honor-site/assets/favicon.ico",
+          "description": "欢迎访问荣耀官方网站,荣耀官网提供最新荣耀手机(荣耀GT Pro、荣耀X60 GT、荣耀X70i、荣耀Power、荣耀Magic7 RSR 保时捷设计等)，以及最新荣耀笔记本、平板电脑、穿戴、音频等产品及相关参数详细介绍。"
+        },
+        {
+          "name": "宏碁",
+          "url": "https://www.acer.com",
+          "iconUrl": "https://www.acer.com/favicon.ico",
+          "description": "Shop the latest Acer products, from Chromebooks, laptops, monitors, desktop PCs, and projectors for office, home, and entertainment use."
+        },
+        {
+          "name": "惠普",
+          "url": "https://www.hp.com",
+          "iconUrl": "https://www.hp.com/content/dam/sites/worldwide/dems/favicons/hp-blue-favicon.png",
+          "description": "购买，了解更多惠普打印机，笔记本，台式机 等相关信息。"
+        },
+        {
+          "name": "戴尔",
+          "url": "https://www.dell.com/zh-cn",
+          "iconUrl": "https://www.dell.com/favicon.ico",
+          "description": ""
+        }
+      ],
+      "AI 手机": [
+        {
+          "name": "华为",
+          "url": "https://www.huawei.com/",
+          "iconUrl": "https://www.huawei.com/Assets/corp/v2/img/apple-touch-icon-180.png",
+          "description": "Huawei is a leading global provider of information and communications technology (ICT) infrastructure and smart devices."
+        },
+        {
+          "name": "小米",
+          "url": "https://www.mi.com/",
+          "iconUrl": "https://s01.mifile.cn/favicon.ico",
+          "description": "让全球每个人都能享受科技带来的美好生活"
+        },
+        {
+          "name": "vivo",
+          "url": "https://www.vivo.com/",
+          "iconUrl": "https://wwwresstatic.vivo.com.cn/vivoportal/web/dist/img/common/favicon_ecf768e.ico",
+          "description": "手机领域的国际化品牌，vivo官网提供手机资讯、售前咨询、在线购买、售后服务等功能；vivo当季明星机型有X200系列、S20系列、X Fold3、iQOO 13、vivo Pad5 Pro等。"
+        },
+        {
+          "name": "荣耀",
+          "url": "https://www.honor.com/cn/",
+          "iconUrl": "https://www.honor.com/etc/designs/honor-site/assets/favicon.ico",
+          "description": "欢迎访问荣耀官方网站,荣耀官网提供最新荣耀手机(荣耀GT Pro、荣耀X60 GT、荣耀X70i、荣耀Power、荣耀Magic7 RSR 保时捷设计等)，以及最新荣耀笔记本、平板电脑、穿戴、音频等产品及相关参数详细介绍。"
+        },
+        {
+          "name": "OPPO",
+          "url": "https://www.oppo.com/cn/",
+          "iconUrl": "https://www.oppo.com/etc.clientlibs/global-site/clientlibs/clientlib-design/resources/icons/favicon.ico",
+          "description": "OPPO 是全球领先的智能设备创新者。在 OPPO 官网您可以浏览Find N 系列、Find X8 系列、 Reno14系列和OPPO Pad 系列等产品具体信息，并获得相关服务与支持。"
+        },
+        {
+          "name": "魅族",
+          "url": "https://www.meizu.com/",
+          "iconUrl": "https://www.meizu.com/static/global/images/xjmz.ico",
+          "description": "魅族官网是魅族官方提供的电子商务平台，提供包括魅族手机/魅蓝手机/数码配件/生活周边等产品在线购物、产品资讯、售前售后服务、在线社区交流一站式服务."
+        }
+      ],
+      "AI 耳机": [
+        {
+          "name": "未来智能",
+          "url": "https://www.wlzni.com/",
+          "iconUrl": "https://12824838.s21i.faimallusr.com/5/ABUIABAFGAAgyf67ywUo34ubdDBAOEA.ico",
+          "description": "北京未来智能科技有限公司专注于无人机领域多年，也是DJI大疆无人机北京金牌代理，为各行业用户提供无人机行业解决方案以及无人机执照培训和技术支持。"
+        },
+        {
+          "name": "字节跳动",
+          "url": "https://www.bytedance.com/",
+          "iconUrl": "data:image/vnd.microsoft.icon;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAACFlBMVEUAAACp3f8yW7U8jf8zW7U/3vJA5P8AydMzW7VPlP955908jP8AydM8jf8yWrV5590yWrV45908jf8yW7UyW7UyW7V55909jf88jf8yW7UzW7V56N49jf80XLY+j/80XbY/lf8zZr5Ilf9GXbkA2+RCY70zZsx459x5590AydI8jP8AydN4590AydM8jf8AydM8jf88jf94590AyNM8jf8AydN5590AydM8jf8AyNIAytR5594zW7V56N09jf955948jf8AydMAytN65948jf956N56594AytMAy9Q9jv976d8AytYAy9Z66N566uE/jv8AztUAy9cAytV56OSD798A0NYAydM8jP95590yW7R45twAydN45909jP8yWrU8jf945t0AydIyWrV5590AydIyW7UzWrU8jf8AydIzW7UzWrV459145908jf8yW7UAydM8jP8AydM8jf9459155909jf8zW7UAydQAytMAydN56N0AydMzXLYAydM0W7UAydQ8jv8+jv8Ay9QzW7Y9jf965t176N80W7YAydN56N156d4yW7U0XLc+jv8+kP8Ay9VAj/81XbgAzNQ1XbY5XbZAkf9+7eQ7Yrp96+FDlv+F6emI/+4AydN55t15594AydM+jf8+jf8+jv8AydQ1W7QzW7UAydR75942XbUyWrR86OCA8uYAztqA8eN45twyWrQAyNI8jP8bed+KAAAArnRSTlMAAfb9+wUD8HMJ/fr59+jb1dTLt6eamY+Jg3xXTkhHOhIRDQsJBwX59vbr4+Dc1tXRxcC7ubSqoJuak5CKiIN+enlyb21lXVFEQj09NzAnJiQdGBUPDvzx8O/s6Obl397OzsvIyMXEwcG/vbiysbGuqqeknZSTkI2Gf3ZraGViX15YWFVTUk9OS0pEQUA8MzAtLSomHx4bGhkXCwfApKCAdGdjXlxaWTY0MyEUFBKNTPVmAAAFHElEQVR42uzX105UYRSG4YUyiCgqKvbeK3ZFsaCCXUHE3kvU2FvU2EussfcSY2KiiSUDc4fuTcl/xr8/ZuZk7/e9g/UcfcuIiIiIiIiIiIiIiMhf7wFDPxlFKx1UdunBX6NoWGEHqp40GnmwXCWHlzz9YuTBck2cvWzdVyMPlmtSAJYy8mE5sJPXNhYYebBcO06tBMyP5do1v3aTkcPytedb7R8jh+Vr2sVVHyzxpaMXfEZbLNGltcqqHjba8LGWzNJyJdZUeHTws/GWvNJ61hTW5cSQkRMsWXUWqxWsX/HvJC2xTmK5dp4pfp0UsCywXL3633hrCShrLAd2653FvBxgufaV//xoMS5HWK4+5fdHW0zLJZYDu/wolmC5xXIVHlocv6GfcyxX/IZ+HrHiN/TziuWGvsWiLLCULBaBBVZLYAmBJQSWEFhCYAmBJQSWEFhCYAmBJQSWEFhCYAmBJQSWEFhCYAmBJQSWEFhCYAmBJQSWEFhCYAmBJQSWEFhCYAmBJQSWEFhCYAmBJQSWEFhCYAmBJQSWEFhCYAmBJQSWEFhCYAmBJQSWEFhCYAmBJQSWEFhCYOW1erCitfn2gqnNYPlruLdwenMQWJ7+rV40I3QCy9PWx1cOhkZgeRq35uqRbYEPWD6o9d+P9wxxwOq41IblcyaHMGB1XNHLFfO6hShgeXpz/WwLFFie6m+e3x1igBVlmgeB5anhV+s0B8tX2zQHK0rB8WCBZQYWWGCBBRZYYIEFFlhggQUWWGCBBRZYYIGVZKyKgcNGmYEVCSuTyXTtO2jEGLCiYYX1mLV0bXewfFiu0mPVz1NgebEc2NzqF0Vg+bBc20/XvCoAy4flmnKupg4sL5Zr74UfdWB5sVz7K++8B8theauovPsZLIflbWYw9MGKiNU+9MGKlBv6YEWvFCwhsMACCyywwAILLLDAAgsssMACCyywwAILLLDAAgsssMACCyywwAILLLDAAgsssMACCyywwAILLLDAAgsssMACCyywwAILLLDAAgsssMD6325d7cQVhWEY/ocWn9JSoO5GhTqlSo2Wurt72qbu3lRwgruEQCCBE+6RHQ7YR7DWP8OeWSHvewnPwZcPLLDAAgsssMACCyywwAILLLDAAgsssMACCyywwAILLLCmGtbhHclg+Vimkk4f2r4OLLEu8dS3Z2Gw7Ft1/OvjMFj2Xan48uAqWAqwY3s2g6Xo4r/dG8FSdKF/5wawFJ3/9e4WWIoaf7xJBsu+UJ139MHyszr6YKmOfncYLM3RB0sRWGDZBBZYYIEFFlhggQUWWGBFgpWQBZYd1PMFS9cIWMamP5lfvVq8wDJAPdy3eKV4gWVo1ufy5eIFlhigcv6PQoFlwLqbM9AmXmAZsDKyfzeLX6BY6U/FJjexMrJ/NolfoFjTZs9bkipWuYd143VKQ0iiyh5qy9xFK8Q6t7ASslKGfKiAsTZ9KlkmqtzB8q95DLDu7frbIXEvIiz/mscC6877Py3iRJFg+dc8cKz1b/vOiTPprdJk0hsH6tWRenEqpVTmx9JhkeCxruX31obEtRRQM+csvCTq9Fgz8g/WJImLWULl9RS3ijo9VvrW/SdSxdUsoG4XHD0rgRb3az45WDcLitRQ+uJ+zaPHuv6y6ExsRjbu1zw6rLUvvg+6ObKqgsfK3XbgZKKQESv3UWFVl5ARK+1+YWWnkBkrc2/ZZaGJG7vmZC7vQ3G7EBERERERERERERER0dRtBK5Q857p1uutAAAAAElFTkSuQmCC",
+          "description": "字节跳动成立于2012年3月，目前公司的产品和服务已覆盖全球150个国家和地区、75个语种，曾在40多个国家和地区位居应用商店总榜前列。"
+        },
+        {
+          "name": "小度",
+          "url": "https://dumall.baidu.com/",
+          "iconUrl": "https://dumall.baidu.com/favicon.ico",
+          "description": ""
+        },
+        {
+          "name": "华为",
+          "url": "https://www.huawei.com/",
+          "iconUrl": "https://www.huawei.com/Assets/corp/v2/img/apple-touch-icon-180.png",
+          "description": "Huawei is a leading global provider of information and communications technology (ICT) infrastructure and smart devices."
+        },
+        {
+          "name": "Cleer",
+          "url": "https://www.cleeraudio.cn/",
+          "iconUrl": "https://www.cleeraudio.cn/favicon.ico",
+          "description": "Cleer是全球领先的高端声学品牌,旗下拥有运动蓝牙耳机,时尚降噪耳机,强降噪蓝牙耳机,长续航降噪耳机,高端智能音响,同时Cleer还承接耳机定制服务,免费提供批发报价信息."
+        }
+      ],
+      "AI 眼镜": [
+        {
+          "name": "Rokid",
+          "url": "https://www.rokid.com/",
+          "iconUrl": "https://static.rokidcdn.com/brand/r-black-overlab.png",
+          "description": "Rokid是一家专注于人机交互技术的产品平台公司，目前致力于AR眼镜等软硬件产品的研发及以YodaOS操作系统为载体的生态构建。公司通过语音识别、自然语言处理、计算机视觉、光学显示、芯片平台、硬件设计等多领域研究，将前沿的Al和AR技术与行业应用相结合，为不同垂直领域的客户提供全栈式解决方案。"
+        },
+        {
+          "name": "李未可",
+          "url": "https://www.lawaken.com/",
+          "iconUrl": "https://global.lawaken.com/cdn/shop/files/logo-new_737053fd-6dcf-443e-bf92-d474e09356f6.png?crop=center&height=32&v=1749020905&width=32",
+          "description": ""
+        },
+        {
+          "name": "雷鸟创新",
+          "url": "https://rayneo.cn/",
+          "iconUrl": "https://www.rayneo.cn/fileResources/upload/2023/05/10/favicon.ico",
+          "description": "雷鸟创新致力于打造全球顶级消费级AR生态，为用户提供高品质AR产品及服务，致力成为引领新一代交互变革的引路人。"
+        },
+        {
+          "name": "小度",
+          "url": "https://dumall.baidu.com/",
+          "iconUrl": "https://dumall.baidu.com/favicon.ico",
+          "description": ""
+        },
+        {
+          "name": "华为",
+          "url": "https://www.huawei.com/en/",
+          "iconUrl": "https://www.huawei.com/Assets/corp/v2/img/apple-touch-icon-180.png",
+          "description": "Huawei is a leading global provider of information and communications technology (ICT) infrastructure and smart devices."
+        },
+        {
+          "name": "蜂巢科技",
+          "url": "https://www.superhexa.com/",
+          "iconUrl": "https://www.superhexa.com/favicon.ico",
+          "description": ""
+        },
+        {
+          "name": "逸文科技",
+          "url": "https://www.evenrealities.com/",
+          "iconUrl": "https://cdn.shopify.com/oxygen-v2/31720/20699/42814/1798771/assets/favicon-DDW1XnT1.ico",
+          "description": "Discover Even G1, the best smart glasses with display. AR glasses with prescription options, HUD, and translation. Experience AI-powered intelligent eyewear."
+        },
+        {
+          "name": "INAIR",
+          "url": "https://inair.cn/",
+          "iconUrl": "https://28725942.s21i.faiusr.com/5/2/ABUIABAEGAAg3pSmqwYoksuwwQMwQDhA.ico",
+          "description": "AR眼镜和INAIR眼镜的品牌、型号、价格、功能以及使用体验都可以在我们的网站上找到。"
+        },
+        {
+          "name": "影目科技",
+          "url": "https://inmolens.com/",
+          "iconUrl": "https://inmolens.com/wp-content/uploads/2022/01/cropped-%E5%AE%98%E7%BD%91-2-32x32.jpg",
+          "description": "INMO 以消费级AR眼镜这一产品终端为业务核心，是国内最早实现量产的无线消费级AR眼镜的厂商，是无线AR眼镜品类的开创者和引领者。"
+        },
+        {
+          "name": "闪极科技",
+          "url": "https://www.shargetech.com/",
+          "iconUrl": "https://nwzimg.wezhan.cn/sitefiles10207/10207092/%E8%B5%84%E6%BA%90%202.png",
+          "description": "SHARGE闪极科技，目前已经上线氮化镓充电器 65W (2C1A)、氮化镓充电器 90W (2C1A)、氮化镓充电器 100W (3C1A)。"
+        }
+      ],
+      "AI 学习机": [
+        {
+          "name": "学而思",
+          "url": "https://www.xueersi.com/",
+          "iconUrl": "https://static0.xesimg.com/platform-fe/website/home/favicon.ico",
+          "description": "学而思品牌成立于2003年，隶属科技教育企业好未来（NYSE：TAL）。学而思凭借优秀的科技能力和内容能力，助力人的终身学习和成长。目前，学而思品牌旗下业务覆盖素质教育、成人教育、智能图书、智能硬件以及AI大模型等领域。"
+        },
+        {
+          "name": "科大讯飞",
+          "url": "https://www.iflytek.com/",
+          "iconUrl": "https://www.iflytek.com/static/favicon.ico",
+          "description": "科大讯飞是亚太地区知名的智能语音和人工智能上市企业，致力于让机器能听会说，能理解会思考，用人工智能建设美好世界"
+        },
+        {
+          "name": "步步高",
+          "url": "https://www.eebbk.com/",
+          "iconUrl": "https://static.eebbk.com/static/pc/public/img/favicon.ico",
+          "description": "步步高教育电子官网提供步步高家教机、步步高点读机、步步高学习机、步步高学习电脑、视频外语通等步步高教育电子产品资料下载，同时还 提供在线服务与支持，论坛交流与互动的便捷服务。"
+        },
+        {
+          "name": "猿辅导",
+          "url": "https://www.yuanfudao.com/",
+          "iconUrl": "https://yfdpc.fbcontent.cn/s/favicon-73be9d0a91.ico",
+          "description": "公司旗下拥有猿辅导、斑马AI学、小猿口算、猿题库等多款在线教育产品及数字内容产品，为用户提供网课、智能练习、难题解析等多元化的智能教育服务，帮助学生系统性、高效率的完成学习闭环。猿辅导在线教育正在为更多中国学生提供智能、便捷、有趣的在线学习体验。以科技推动大规模因材施教，致力于让中国的每一位学生，都能享有高品质、个性化的教育。"
+        }
+      ],
+      "AI 玩具": [
+        {
+          "name": "跃然创新",
+          "url": "https://www.haivivi.cn/",
+          "iconUrl": "https://www.haivivi.cn/assets/icon.svg",
+          "description": "不仅是一个玩具挂件,它更是陪伴着你共同成长的魔法伙伴"
+        },
+        {
+          "name": "Folo Toy",
+          "url": "https://www.folotoy.com/",
+          "iconUrl": "https://www.folotoy.com/favicon.svg",
+          "description": "FoloToys are conversational AI Toys for Everyone. Built with the latest AI technologies and Love."
+        }
+      ],
+      "具身智能机器人": [
+        {
+          "name": "云深处",
+          "url": "https://www.deeprobotics.cn/",
+          "iconUrl": "https://www.deeprobotics.cn/public/static/robot/images/logo_.png",
+          "description": "杭州云深处科技(DEEP Robotics)是具身智能技术创新与行业应用引领者，也是全球首家围绕电力巡检行业应用的智能四足机器人企业，在中国率先实现四足机器人全自主巡检变电站。"
+        },
+        {
+          "name": "智元机器人",
+          "url": "https://www.zhiyuan-robot.com/",
+          "iconUrl": "https://www.zhiyuan-robot.com/favicon.ico",
+          "description": ""
+        },
+        {
+          "name": "智平方",
+          "url": "https://ai2robotics.com/",
+          "iconUrl": "https://ai2robotics.com/wp-content/uploads/2023/11/cropped-fav-32x32.png",
+          "description": "智平方科技自研多模态感知与交互大模型，聚焦智能终端应用。智平方的大模型让智能终端可以更好的感知物理世界，与人交互，完成任务。为千行百业，千家万户提供全场景，高可靠的服务。"
+        },
+        {
+          "name": "宇树科技",
+          "url": "https://www.unitree.com/",
+          "iconUrl": "https://www.unitree.com/unitree-favicon.svg",
+          "description": "Unitree Robotics is the global high-performance quadrupedal robot industry pioneer, the global quadrupedal robot industry applications of the leader. It has been invited to participate in the 2021 CCTV Spring Festival Gala of the Year of the Ox and the opening ceremony of the 2022 Winter Olympics. It also accepted interviews from well-known media such as CCTV. Unitree Robotics is the first company in the world to publicly retail high-performance quadruped , and has led the world in sales over the years."
+        }
+      ]
+    }
+  },
+  "To B 类": {
+    "AI+ 全行业": [
+      {
+        "name": "阿里云",
+        "url": "https://www.aliyun.com/",
+        "iconUrl": "https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico",
+        "description": "阿里云——阿里巴巴集团旗下公司，是全球领先的云计算及人工智能科技公司之一。提供免费试用、云服务器、云数据库、云安全、云企业应用等云计算服务，以及大数据、人工智能服务、精准定制基于场景的行业解决方案。免费备案，7x24小时售后支持，助企业无忧上云。"
+      },
+      {
+        "name": "百度智能云",
+        "url": "https://cloud.baidu.com/",
+        "iconUrl": "https://bce.bdstatic.com/img/favicon.ico",
+        "description": "百度智能云致力于为企业和开发者提供全球领先的人工智能、大数据和云计算服务，加速产业智能化转型升级"
+      },
+      {
+        "name": "火山引擎",
+        "url": "https://www.volcengine.com/",
+        "iconUrl": "https://portal.volccdn.com/obj/volcfe/misc/favicon.png",
+        "description": "火山引擎是字节跳动旗下的云服务平台，将字节跳动快速发展过程中积累的增长方法、技术能力和应用工具开放给外部企业，提供云基础、视频与内容分发、数智平台VeDI、人工智能、开发与运维等服务，帮助企业在数字化升级中实现持续增长。"
+      },
+      {
+        "name": "腾讯云",
+        "url": "https://cloud.tencent.com/",
+        "iconUrl": "https://cloudcache.tencent-cloud.com/qcloud/favicon.ico?t=201902181234",
+        "description": "腾讯云(tencent cloud)为数百万的企业和开发者提供安全稳定的云计算服务，涵盖云服务器、云数据库、云存储、视频与CDN、域名注册等全方位云服务和各行业解决方案。"
+      },
+      {
+        "name": "智谱",
+        "url": "https://www.zhipuai.cn/",
+        "iconUrl": "https://www.zhipuai.cn/assets/images/logo_icon.jpeg",
+        "description": "智谱是由清华大学计算机系技术成果转化而来的公司，致力于打造新一代认知智能通用模型。公司合作研发了双语千亿级超大规模预训练模型GLM-130B，并构建了高精度通用知识图谱，形成数据与知识双轮驱动的认知引擎，基于此模型打造了ChatGLM（chatglm.cn）。此外，智谱还推出了认知大模型平台Bigmodel.ai，包括CodeGeeX和CogView等产品，提供智能API服务，链接物理世界的亿级用户、赋能元宇宙数字人、成为具身机器人的基座，赋予机器像人一样“思考”的能力。"
+      },
+      {
+        "name": "京东云",
+        "url": "https://www.jdcloud.com/",
+        "iconUrl": "https://img1.jcloudcs.com/portal/favicon.ico",
+        "description": "销售热线：4000988505转1,京东云是京东科技集团旗下领先的云计算品牌，依托于京东科技集团在人工智能、大数据、云计算、物联网领域的前沿科技能力，提供包含公有云、专有云、混合云在内的多云、安全、可信赖的基础云服"
+      },
+      {
+        "name": "华为云",
+        "url": "https://www.huaweicloud.com",
+        "iconUrl": "https://www.huaweicloud.com/favicon.ico",
+        "description": "华为云提供稳定可靠、安全可信、可持续发展的云服务，致力于让云无处不在，让智能无所不及，共建智能世界云底座。助力企业降本增效，全球300万客户的共同选择。7x24小时专业服务支持，5天内无理由退订，免费快速备案。"
+      },
+      {
+        "name": "科大讯飞",
+        "url": "https://www.iflytek.com/",
+        "iconUrl": "https://www.iflytek.com/static/favicon.ico",
+        "description": "科大讯飞是亚太地区知名的智能语音和人工智能上市企业，致力于让机器能听会说，能理解会思考，用人工智能建设美好世界"
+      },
+      {
+        "name": "商汤",
+        "url": "https://www.sensetime.com/cn",
+        "iconUrl": "https://static.sensetime.com/images/st_logo_ico.png",
+        "description": "作为人工智能软件公司，商汤科技以“坚持原创，让AI引领人类进步”为使命，旨在持续引领人工智能前沿研究，持续打造更具拓展性更普惠的人工智能软件平台，推动经济、社会和人类的发展，并持续吸引及培养顶尖人才，共同塑造未来。"
+      },
+      {
+        "name": "天翼AI",
+        "url": "https://www.teleai.com.cn/",
+        "iconUrl": "https://www.teleai.com.cn/teleAI.ico",
+        "description": "中电信人工智能科技有限公司是中国电信旗下开展人工智能业务的科技型、能力型、平台型专业公司，致力于成为通用人工智能服务提供商。依托完全自主研发的星辰基础大模型，构建层次分明的标准能力、行业应用、平台管理和智能硬件的产品体系，全方面满足个人、家庭、政企客户多样化需求，以全栈式人工智能服务助推社会智能化变革。"
+      },
+      {
+        "name": "昆仑万维",
+        "url": "https://www.kunlun.com/",
+        "iconUrl": "https://www.kunlun.com/favicon.ico",
+        "description": "作为一家全球领先的互联网平台型公司，昆仑万维逐渐在全球范围内形成了语音社交平台StarX、社交信息分发平台Opera、UGC游戏平台Ark Games、竞技娱乐平台闲徕互娱、投资板块等五大业务，市场遍及中国、东南亚、非洲、中东、北美、南美、欧洲等地，为全球互联网用户提供社交、资讯、娱乐等信息化服务。截至2021年6月末，昆仑万维整体月活跃用户近4.5亿，其中九成以上用户来自于海外。昆仑万维于2015年登陆创业板，全球员工数已增至4000多人，集团旗下的业务和子公司已先后拓展至美国、俄罗斯、日本、韩国、印度"
+      },
+      {
+        "name": "面壁智能",
+        "url": "https://www.modelbest.cn/",
+        "iconUrl": "https://www.modelbest.cn/favicon.ico",
+        "description": "⾯壁智能是一家人工智能大模型技术创新与应用落地企业，愿景为“智周万物”，致力于创造安全、普惠的通用人工智能，让AI技术惠及千万家企业。 "
+      },
+      {
+        "name": "声网",
+        "url": "https://www.shengwang.cn/",
+        "iconUrl": "https://www.shengwang.cn/wp-content/uploads/2025/02/cropped-favicon-32x32.png",
+        "description": "声网是全球实时音视频云服务开创者，为人与人、人与智能体的音视频互动提供最佳体验。开发者只需简单调用声网 API，即可在应用内快速构建诸如对话式 AI、音视频通话、直播等多种实时互动场景。"
+      },
+      {
+        "name": "深度求索",
+        "url": "https://www.deepseek.com/",
+        "iconUrl": "https://www.deepseek.com/favicon.ico",
+        "description": "深度求索（DeepSeek），成立于2023年，专注于研究世界领先的通用人工智能底层模型与技术，挑战人工智能前沿性难题。基于自研训练框架、自建智算集群和万卡算力等资源，深度求索团队仅用半年时间便已发布并开源多个百亿级参数大模型，如DeepSeek-LLM通用大语言模型、DeepSeek-Coder代码大模型，并在2024年1月率先开源国内首个MoE大模型（DeepSeek-MoE），各大模型在公开评测榜单及真实样本外的泛化效果均有超越同级别模型的出色表现。和 DeepSeek AI 对话，轻松接入 API。"
+      },
+      {
+        "name": "第四范式",
+        "url": "https://www.4paradigm.com/",
+        "iconUrl": "https://www.4paradigm.com/images/favicon.ico",
+        "description": "第四范式成立于2014年9月，是企业级人工智能领域的行业先驱者与领导者。第四范式提供以平台为中心的人工智能解决方案，并运用核心技术开发了端到端的企业级人工智能产品，致力于解决企业智能化转型中面临的效率、成本、价值问题，提升企业的决策水平。现已广泛应用于金融、零售、制造、能源与电力、电信及医疗保健等领域，在中国所有以平台为中心的决策型企业级AI市场中排名第一。"
+      },
+      {
+        "name": "中关村科金",
+        "url": "https://www.zkj.com/",
+        "iconUrl": "https://www.zkj.com/favicon.png",
+        "description": "中关村科金是领先的大模型技术与应用公司，人工智能领域垂类大模型领导者。中关村科金打造了得助大模型平台、云呼叫中心、知识助手、智能客服、智能外呼、智能陪练、智能质检、智能音视频、海外全语种客服系统等系列产品矩阵。公司已服务超2000余家各行业头部企业，包括50%中国百强银行、70%省市级公安机构等，客户覆盖金融、政务、制造、交通、汽车及企业出海等十余个重点行业与场景，规模与口碑均处于行业领先地位。"
+      }
+    ],
+    "AI+ 营销": [
+      {
+        "name": "易点天下",
+        "url": "https://www.eclicktech.com.cn/",
+        "iconUrl": "https://www.eclicktech.com.cn/static/style/pc/2022/i/favicon.png",
+        "description": "全球领先的企业国际化智能营销服务商，致力于为客户提供全球营销推广服务。截至目前，公司为超过5000个广告主提供全面、优质、高效的互联网广告服务，业务范围遍及全球200余个国家和地区"
+      },
+      {
+        "name": "特赞",
+        "url": "https://www.tezign.com/",
+        "iconUrl": "https://static-cdn.tezign.com/page/wp-content/uploads/2019/09/tezign-favicon.ico",
+        "description": "特赞提供从内容生产到内容流转的一站式服务，帮助品牌搭建内容中台，升级内容战略，助力企业打造特赞的内容体验，驱动品牌智能化增长"
+      },
+      {
+        "name": "FancyTech",
+        "url": "https://cn.fancy.tech/",
+        "iconUrl": "https://cn.fancy.tech/logo.png",
+        "description": "FancyTech（时代涌现）致⼒于通过⾃主研发的AIGC技术在商业领域实现更⼴泛的商业价值。作为国内AIGC商业领域的先⾏者和重要推动者，我们始终追求技术创新和商业落地的双轨策略，在消费场景中落地AIGC解决⽅案。我们为⼤量消费⾏业客户提供⾼效稳定的AIGC解决⽅案，实现成本降低和效率提升。"
+      },
+      {
+        "name": "蓝色光标",
+        "url": "https://www.bluefocusgroup.com/",
+        "iconUrl": "https://www.bluefocusgroup.com/favicon.ico",
+        "description": "涵盖品牌管理、消费者管理、数字营销、社会化营销、移动营销、效果评估、广告投放、客户关系管理、电子商务、策略咨询在内的整合营销服务品牌。"
+      },
+      {
+        "name": "容联云",
+        "url": "https://www.cloopen.com/",
+        "iconUrl": "https://www.cloopen.com/favicon.ico",
+        "description": "Cloopen provides cloud communication services for individual developers and enterprises, call center/IVR, VoIP telephony, reporting, monitoring, customer behavior analysis, etc., to connect with customers around the world through customers' preferred channels."
+      },
+      {
+        "name": "句子互动",
+        "url": "https://www.juzibot.com/zh",
+        "iconUrl": "https://www.juzibot.com/favicon.ico",
+        "description": "句子互动打造企业级 Agentic 数字员工平台，融合大模型与企业全域数据，并打通微信生态、抖音、钉钉、飞书、WhatsApp 等主流社交媒体平台，打造具备自主决策能力的智能 Agent，重塑人机协作模式，定义下一代企业智能生产力，已在千余家大型企业成功落地。"
+      },
+      {
+        "name": "省广集团",
+        "url": "https://www.gimc.cn/",
+        "iconUrl": "https://www.gimc.cn/img/logo.png",
+        "description": "省广集团拥有全产业链服务能力，为全球超300家客户提供涵盖品牌管理、媒介代理、数字营销、出海营销等一站式全营销解决方案，打造了GIMC云、灵犀AI、鲸鹏投放等数智营销产品矩阵，提供更加智能、个性化的大数据产品及营销解决方案，满足客户的多元化营销需求。"
+      },
+      {
+        "name": "浙文互联",
+        "url": "http://www.zwhlgroup.com/",
+        "iconUrl": "http://www.zwhlgroup.com/favicon.ico?v=1",
+        "description": "浙文互联集团股份有限公司（600986.SH）于2004年在A股主板上市，公司致力于通过内容、数据和技术驱动流量运营，深度挖掘流量价值，以客户需求为中心，为品牌提供智能营销解决方案。"
+      },
+      {
+        "name": "探迹科技",
+        "url": "https://www.tungee.com/",
+        "iconUrl": "https://www.tungee.com/favicon.ico",
+        "description": "探迹科技专注于销售业务全流程管理，为您提供快速获客的找客户方法，提供长期稳定的外呼系统，支持查询企业工商信息、证书信息、经营情况信息，帮您的销售提升话术、销售技巧，从制度、团队、规划等要素帮您搭建销售团队。用探迹，涨业绩!"
+      },
+      {
+        "name": "深擎科技",
+        "url": "https://www.shenqingtech.com/",
+        "iconUrl": "https://web-st.oss-cn-shanghai.aliyuncs.com/www/static/icon/bitbug_favicon.ico",
+        "description": ""
+      }
+    ],
+    "AI+ 教育": [
+      {
+        "name": "科大讯飞",
+        "url": "https://www.iflytek.com/",
+        "iconUrl": "https://www.iflytek.com/static/favicon.ico",
+        "description": "科大讯飞是亚太地区知名的智能语音和人工智能上市企业，致力于让机器能听会说，能理解会思考，用人工智能建设美好世界"
+      },
+      {
+        "name": "松鼠AI",
+        "url": "https://www.squirrelai.com",
+        "iconUrl": "https://squirrelai.com/wp-content/uploads/Squirrel.svg",
+        "description": "Personalized learning for all students. The most advanced learning technology in the world is finally coming to a city near you."
+      },
+      {
+        "name": "作业帮",
+        "url": "https://www.zybang.com/error.html?status=404",
+        "iconUrl": "https://www.zybang.com/favicon.ico",
+        "description": "作业帮，在线教育引领者。老师有大招，解题更高效。公司旗下拥有作业帮、作业帮口算等多款在线教育产品，我们致力于让优质教育触手可及，成为受尊敬的教育科技公司。"
+      },
+      {
+        "name": "网易有道",
+        "url": "https://www.youdao.com/",
+        "iconUrl": "https://shared-https.ydstatic.com/images/favicon.ico",
+        "description": "网易有道是中国领先的智能学习公司，致力于提供100%以用户为导向的学习产品和服务。有道成立于2006年，打造了一系列深受用户喜欢的口碑型大众学习工具产品，例如：网易有道词典、有道精品课、有道翻译官、有道云笔记等。2014年，网易有道宣布正式进军互联网教育行业。2018年4月，网易有道完成首次战略融资，投后估值11.2亿美金，跻身独角兽阵营。2019年10月，网易有道成功登陆纽交所，股票代码为“DAO”，成为网易集团首个独立上市的公司。"
+      },
+      {
+        "name": "粉笔",
+        "url": "https://www.fenbi.com/",
+        "iconUrl": "https://nodestatic.fbstatic.cn/weblts_spa_online/page/assets/fenbi32.ico",
+        "description": "【粉笔公考】国家公务员、事业单位、研究生、四六级、建造、法考、医疗、军队文职、公安招警、银行等招考信息,岗位查询,备考指导,笔试面试辅导资料,课程培训,历年试题及答案下载,模考大赛"
+      },
+      {
+        "name": "猿辅导",
+        "url": "https://www.yuanfudao.com/",
+        "iconUrl": "https://yfdpc.fbcontent.cn/s/favicon-73be9d0a91.ico",
+        "description": "公司旗下拥有猿辅导、斑马AI学、小猿口算、猿题库等多款在线教育产品及数字内容产品，为用户提供网课、智能练习、难题解析等多元化的智能教育服务，帮助学生系统性、高效率的完成学习闭环。猿辅导在线教育正在为更多中国学生提供智能、便捷、有趣的在线学习体验。以科技推动大规模因材施教，致力于让中国的每一位学生，都能享有高品质、个性化的教育。"
+      },
+      {
+        "name": "好未来",
+        "url": "https://www.100tal.com/",
+        "iconUrl": "https://www.100tal.com/favicon.ico",
+        "description": "好未来（NYSE：TAL）是一家以内容能力与科技能力为基础，以科教、科创、科普为战略方向，助力人的终身成长，并持续探索创新的科技公司。"
+      },
+      {
+        "name": "世纪天鸿",
+        "url": "https://www.sjthedu.com/",
+        "iconUrl": "https://www.sjthedu.com/favicon.ico",
+        "description": "世纪天鸿教育科技股份有限公司成立于2004年，专注于K12基础教育领域，为中小学师生提供线上线下学习和备考解决方案，以“志鸿优化”为代表的教辅图书知名品牌，覆盖30多个省市..."
+      }
+    ],
+    "AI+ 数据智能": [
+      {
+        "name": "数势科技",
+        "url": "https://www.digitforce.com/",
+        "iconUrl": "https://www.digitforce.com/favicon.ico",
+        "description": "数势科技是行业领先的数据智能产品提供商"
+      },
+      {
+        "name": "明略科技",
+        "url": "https://www.mininglamp.com/",
+        "iconUrl": "https://www.mininglamp.com/favicon.ico",
+        "description": "明略科技是中国企业级数据智能应用软件的提供者，深耕企业服务领域18年，通过充分挖掘数据价值，帮助组织在智能化转型中挖掘营销和营运场景的商业价值。依托行业领先的多模态数据智能、企业知识图谱和数据隐私技术，明略科技提供了一系列创新的应用软件。"
+      },
+      {
+        "name": "网易数帆",
+        "url": "https://sf.163.com/",
+        "iconUrl": "https://sf.163.com/avicon.ico",
+        "description": "网易数帆是网易旗下 ToB 企业服务品牌，定位于数智软件生产引领者，推出自研无绑定的云原生、大数据、人工智能、智能开发等产品，并通过打造开放的产业链生态体系，为客户提供数智化全流程服务，帮助客户打造专属数智竞争力。"
+      },
+      {
+        "name": "北极九章",
+        "url": "https://datarc.cn/",
+        "iconUrl": "https://datarc.cn/wp-content/uploads/2022/07/cropped-ArcticData-logo-square-transparent-32x32.png",
+        "description": "北极九章官网,北极九章DataGPT,自然语言对话式数据分析软件ChatBI,用AI数据智能问答,实现AI+BI的增强型分析,助力智能决策.已为汽车,制造,金融,零售,快消等行业数十家领先企业提供AI+Data智能应用,满足业务人员自助分析数据,智能生成报表等需求.数据驱动决策."
+      },
+      {
+        "name": "跬智信息",
+        "url": "https://cn.kyligence.io/",
+        "iconUrl": "https://siteprod-s3-cdn.kyligence.io/2022/01/cropped-1642473052-favicon-32x32.png",
+        "description": "跬智信息（Kyligence）由 Apache Kylin 创始团队于 2016 年创办，领先的 Data+AI 公司，为企业客戶提供大数据、指标平台、AI 智能体等产品和解决方案，以 AI 赋能企业充分利用数据价值，加速数智化转型，提升运营及管理效能。"
+      }
+    ],
+    "AI+ 游戏": [
+      {
+        "name": "网易游戏",
+        "url": "https://game.163.com/",
+        "iconUrl": "https://game.163.com/favicon.ico",
+        "description": "我和你一样，我们都是游戏热爱者。网易在线游戏自主研发运营多款在线游戏，包括《大话西游Ⅱ》、《梦幻西游2》、《新大话西游3 》、《武魂》、《天下3》、《大唐无双2》、《倩女幽魂2》、《新飞飞》等。网易游戏 在中国MMORPG游戏市场保持领先地位。"
+      },
+      {
+        "name": "行者AI",
+        "url": "https://www.xingzheai.cn/",
+        "iconUrl": "https://www.xingzheai.cn/favicon.ico",
+        "description": "以先进的AI技术促进教育、文娱数字化转型的创新示范，自主研发有AI音乐、AI美术、AI智能体、AI安全等产品"
+      },
+      {
+        "name": "巨人网络",
+        "url": "https://www.ga-me.com/",
+        "iconUrl": "https://www.ga-me.com/images/logo.png",
+        "description": ""
+      },
+      {
+        "name": "掌趣科技",
+        "url": "https://www.ourpalm.com/",
+        "iconUrl": "https://content.gamebean.com/image/ourpalmcn/2019portal/favicon.png",
+        "description": "北京掌趣科技股份有限公司（简称掌趣科技）于2004年成立。2012年在深交所创业板上市（股票代码300315），是国内A股第一家上市移动游戏公司。公司位于北京，在香港、日本、韩国、新加坡等地设有子公司。"
+      },
+      {
+        "name": "三七互娱",
+        "url": "https://www.37wan.net/",
+        "iconUrl": "https://qixinweb.37.com/assets/logo/icon/32.ico?2505",
+        "description": "三七互娱是全球知名的文娱上市公司(股票代码:002555),业务涵盖游戏、在线教育等。旗下拥有知名的游戏研发品牌三七游戏，专业的游戏运营品牌37网游、37手游、37GAMES，以及优质在线教育品牌妙小程。"
+      },
+      {
+        "name": "腾讯游戏",
+        "url": "https://game.qq.com/",
+        "iconUrl": "https://game.qq.com/favicon.ico",
+        "description": "腾讯游戏成立于2003年，是全球领先的游戏研发和运营商。作为“超级数字场景”理念的倡导者和实践者，腾讯游戏致力于为用户创造高品质数字生活体验，为产业和社会发展创造更多建设性的价值。"
+      }
+    ],
+    "AI+ 法律": [
+      {
+        "name": "秘塔科技",
+        "url": "https://metasota.ai/",
+        "iconUrl": "https://metasota.ai/favicon.ico",
+        "description": ""
+      },
+      {
+        "name": "得理AI",
+        "url": "https://www.delilegal.com/",
+        "iconUrl": "https://www.delilegal.com/favicon.ico",
+        "description": "得理门户网站,得理,法律AI,得理律助,得理法搜,法律科技,律师平台,DLS律师数字化平台,案例检索"
+      },
+      {
+        "name": "幂律智能",
+        "url": "https://www.powerlaw.ai/",
+        "iconUrl": "https://www.powerlaw.ai/favicon.ico",
+        "description": "幂律智能（PowerLaw AI）是一家专注于法律领域的初创人工智能公司，旨在利用人工智能技术为法律服务行业赋能。"
+      },
+      {
+        "name": "案牍AI",
+        "url": "https://www.anduai.com/",
+        "iconUrl": "https://www.anduai.com/favicon.png",
+        "description": "案牍 AI 致力于通过LLM再造法律服务，案牍 AI 通过提供LLM驱动的复杂法律文件自动生成和审查自动化解决方案，帮助律师及法务等专业用户提升在合同审查及尽职调查等领域的工作表现。"
+      }
+    ],
+    "AI+ 医疗": [
+      {
+        "name": "百川智能",
+        "url": "https://www.baichuan-ai.com/home",
+        "iconUrl": "https://cdn.baichuan-ai.com/build/_next/static/media/favicon-96x96.b3239d19.png",
+        "description": "百川智能以帮助大众轻松、普惠地获取世界知识和专业服务为使命，致力于通过语言AI的突破，构建中国最优秀的大模型底座。百川大模型，融合了意图理解、信息检索以及强化学习技术，结合有监督微调与人类意图对齐，在知识问答、文本创作领域表现突出。"
+      },
+      {
+        "name": "医联科技",
+        "url": "https://www.medlinker.com/",
+        "iconUrl": "https://www.medlinker.com/favicon.ico",
+        "description": "医联依托于自研大模型MedGPT，率先进入进入大规模AI医疗临床应用实验，成为行业领先的AI医疗服务机构,医疗ai智能诊断系统为用户提供未来医生服务端、为医生提供未来医生工作室、医疗行业智能化解决方案、保险行业解决方案等AI医生服务。"
+      },
+      {
+        "name": "蚂蚁集团",
+        "url": "https://www.antgroup.com/",
+        "iconUrl": "https://gw.alipayobjects.com/mdn/rms/afts/img/A*BAhDQLCn3-wAAAAAAAAAAAAAARQnAQ",
+        "description": "我们通过科技创新，助力合作伙伴，为消费者和小微企业提供普惠便捷的数字生活及数字金融服务；持续开放产品与技术，助力企业的数字化升级与协作；在全球广泛合作，服务当地商家和消费者实现“全球收”、“全球付”和“全球汇”。"
+      },
+      {
+        "name": "润达医疗",
+        "url": "http://www.rundamedical.com/",
+        "iconUrl": "http://www.rundamedical.com/themes/basic/skin/images/favicon.ico",
+        "description": ""
+      }
+    ],
+    "AI+ 企服": [
+      {
+        "name": "钉钉",
+        "url": "https://www.dingtalk.com/",
+        "iconUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01eMicSg1GVD4uXMWGv_!!6000000000627-73-tps-32-32.ico",
+        "description": "钉钉（Ding Talk）是阿里巴巴集团打造的企业级智能移动办公平台，引领未来新一代工作方式，将陪伴每一个企业成长，是数字经济时代的企业组织协同办公和应用开发平台，是新生产力工具。"
+      },
+      {
+        "name": "用友",
+        "url": "https://www.yonyou.com/",
+        "iconUrl": "https://www.yonyou.com/favicon.png",
+        "description": ""
+      },
+      {
+        "name": "金蝶云",
+        "url": "https://www.kingdee.com/",
+        "iconUrl": "https://www.kingdee.com/r/cms/www/default/v0.1/images/favicon.ico",
+        "description": "金蝶软件官方热线：4008-830-830，金蝶软件是专业的ERP管理系统及SaaS云服务商，通过金蝶云构建EBC平台，提供金蝶财务云、云ERP、供应链云、制造云、全渠道云、协同办公云、HR云等产品，助力企业数字化转型，推动产业升级。"
+      },
+      {
+        "name": "容联云",
+        "url": "https://www.cloopen.com/",
+        "iconUrl": "https://www.cloopen.com/favicon.ico",
+        "description": "Cloopen provides cloud communication services for individual developers and enterprises, call center/IVR, VoIP telephony, reporting, monitoring, customer behavior analysis, etc., to connect with customers around the world through customers' preferred channels."
+      }
+    ],
+    "AI+ 金融": [
+      {
+        "name": "蚂蚁集团",
+        "url": "https://www.antgroup.com/",
+        "iconUrl": "https://gw.alipayobjects.com/mdn/rms/afts/img/A*BAhDQLCn3-wAAAAAAAAAAAAAARQnAQ",
+        "description": "我们通过科技创新，助力合作伙伴，为消费者和小微企业提供普惠便捷的数字生活及数字金融服务；持续开放产品与技术，助力企业的数字化升级与协作；在全球广泛合作，服务当地商家和消费者实现“全球收”、“全球付”和“全球汇”。"
+      },
+      {
+        "name": "度小满",
+        "url": "https://www.duxiaoman.com/",
+        "iconUrl": "https://www.duxiaoman.com/static/fe-duxiaoman/favicon.ico",
+        "description": "度小满，原百度金融。2018年4月，百度宣布旗下金融服务事业群组正式完成拆分融资协议签署，实现独立运营。度小满作为一家金融科技公司，在智能金融时代，将充分发挥百度的AI优势和技术实力，携手金融机构合作伙伴，用科技为更多人提供值得信赖的金融服务。"
+      },
+      {
+        "name": "同花顺",
+        "url": "https://www.10jqka.com.cn",
+        "iconUrl": "https://www.10jqka.com.cn/favicon.ico",
+        "description": "核新同花顺网络信息股份有限公司（同花顺）成立于1995年，是一家专业的互联网金融数据服务商，为您全方位提供财经资讯及全球金融市场行情，覆盖股票、基金、期货、外汇、债券、银行、黄金等多种面向个人和企业的服务。"
+      },
+      {
+        "name": "东方财富",
+        "url": "https://www.eastmoney.com/",
+        "iconUrl": "https://g1.dfcfw.com/g1/special/Apple_ico.png",
+        "description": "东方财富网，专业的互联网财经媒体，提供7*24小时财经资讯及全球金融市场报价，汇聚全方位的综合财经资讯和金融市场资讯，覆盖股票、财经、证券、金融、美股、港股、行情、基金、债券、期货、外汇、科创板、保险、信托、黄金、理财、商业、银行、博客、股吧、财迷、论坛等财经综合信息"
+      },
+      {
+        "name": "中电金信",
+        "url": "https://www.gientech.com/",
+        "iconUrl": "https://www.gientech.com/favicon.ico",
+        "description": "中电金信，中国电子旗下成员企业，通过持续研发创新，参与国家重大工程，依托行业场景，打造全栈全域解决方案，提供领先的咨询、软件产品及开发、质量安全保障及运营服务，为金融及重点行业数字化转型及安全发展提供强大动能，并以中国数字化转型最佳实践服务全球。"
+      }
+    ],
+    "AI+ 工业": [
+      {
+        "name": "创新奇智",
+        "url": "https://www.ainnovation.com/",
+        "iconUrl": "https://www.ainnovation.com/static/images/favicon.ico",
+        "description": "创新奇智（AInnovation）成立于2018年2月，是中国快速发展的企业AI解决方案提供商。"
+      },
+      {
+        "name": "卡奥斯",
+        "url": "https://www.cosmoplat.com/",
+        "iconUrl": "https://www.cosmoplat.com/favicon.ico",
+        "description": "卡奥斯COSMOPlat是具有中国自主知识产权，全球首家引入用户全流程参与体验的工业互联网平台。以用户体验为中心，致力于推动大数据、物联网、云计算、人工智能等新一代信息技术与制造业的深度融合，助力企业建立高度灵活的数字化、智能化生产运维模式，为企业数字化转型提供智能制造和大规模定制等解决方案。"
+      },
+      {
+        "name": "思谋科技",
+        "url": "https://cn.smartmore.com/",
+        "iconUrl": "https://cn.smartmore.com/upload/sysconfigs/2022-11/637c8a2a25f6a.png",
+        "description": "思谋(SmartMore)，专注先进技术赋能智能制造与数智创新，旨在引领制造产业优化、机器视觉等前沿技术研究，持续打造更具拓展性和普惠价值的智能工业和数智创新平台，推动探索数字化转型和智能化升级的创新未来。"
+      },
+      {
+        "name": "百度智能云一见",
+        "url": "https://cloud.baidu.com/product-s/yijian_home",
+        "iconUrl": "https://bce.bdstatic.com/img/favicon.ico",
+        "description": "百度智能云一见视觉大模型平台，基于多模态大模型全新升级，提供视觉AI技能生产、效果调优到应用的全栈能力。一见支持“一句话生产专业级视觉AI应用”，面向连锁、制造、能源、教育等行业，解决企业生产运行过程中的安全、合规及品控问题，帮助企业实现全视觉管理数字化，让专业级视觉AI应用触手可及"
+      }
+    ],
+    "AI+ 人力": [
+      {
+        "name": "海纳AI",
+        "url": "https://www.hina.com/",
+        "iconUrl": "https://www.hina.com/favicon.ico",
+        "description": "海纳AI(hina),AI面试测评平台致力于用AI技术赋能人力资源行业,提供AI面试,招聘考试系统,视频面试和在线考试平台等产品帮助千万人才与企业做好人岗匹配,科学高效招聘面试「免费试用」"
+      },
+      {
+        "name": "必优科技",
+        "url": "https://www.yoo-ai.com/",
+        "iconUrl": "https://www.yoo-ai.com/favicon.ico",
+        "description": "必优科技致力于智能文档创作领域,首推韦尼克智能辅写系统,通过强大的自然语言处理能力(AI神经网络,非伪原创）,快速生成如原创营销文案、SEO内容、问答科普对话等写作机器人,让内容创作变的更加简单高效！"
+      },
+      {
+        "name": "猎聘",
+        "url": "https://www.liepin.com/",
+        "iconUrl": "https://concat.lietou-static.com/fe-www-pc/v6/images/logo_header-liepin.25163087.png",
+        "description": "猎聘是专业高效的招聘求职平台，为求职者提供海量高薪职位，在线沟通，快速反馈！为企业招聘方提供免费招人服务，优质人才，精准推荐，招人找工作就用猎聘聊！"
+      }
+    ]
+  },
+  "底层开发": {
+    "AI Agent": {
+      "侧重C端": [
+        {
+          "name": "扣子Coze",
+          "url": "https://www.coze.cn/",
+          "iconUrl": "https://lf-coze-web-cdn.coze.cn/obj/coze-web-cn/obric/coze/favicon.1970.png",
+          "description": "扣子是新一代 AI 大模型智能体开发平台。整合了插件、长短期记忆、工作流、卡片等丰富能力，扣子能帮你低门槛、快速搭建个性化或具备商业价值的智能体，并发布到豆包、飞书等各个平台。"
+        },
+        {
+          "name": "文心智能体平台",
+          "url": "https://agents.baidu.com/",
+          "iconUrl": "https://now.bdstatic.com/store/v2/43bbe5a/lingjing-fe/73fe9b3/favicon.ico",
+          "description": "文心智能体平台AgentBuilder，是百度推出的基于文心大模型的智能体平台，支持广大开发者根据自身行业领域、应用场景，选取不同类型的开发方式，打造大模型时代的产品能力。开发者可以通过prompt编排的方式低成本开发智能体（Agent），同时文心智能体平台还将为智能体（Agent）开发者提供相应的流量分发路径，完成商业闭环。"
+        },
+        {
+          "name": "智谱AI开放平台",
+          "url": "https://www.bigmodel.cn/",
+          "iconUrl": "https://bigmodel.cn/img/icons/favicon-32x32.png",
+          "description": "智谱大模型开放平台-新一代国产自主通用AI大模型开放平台，是国内大模型排名前列的大模型网站，研发了多款LLM模型，多模态视觉模型产品，致力于将AI产品技术与行业场景双轮驱动的中国先进的认知智能技术和千行百业应用相结合，构建更高精度、高效率、通用化的AI开发新模式和企业级解决方案，实现智谱大模型的产业化，将AI的好处带给每个人。"
+        },
+        {
+          "name": "Gnomic智能体平台",
+          "url": "https://www.gnomic.cn/",
+          "iconUrl": "https://buff8.oss-cn-shanghai.aliyuncs.com/sublime_words/logo_1.png",
+          "description": "Gnomic智能体平台，基于汇智智能自主研发的Carrot AI大模型和专利的“数字生命”技术，致力于提供最先进的人工智能交互体验；面向个人开发者，提供丰富的函数插件调用能力、自定义工作流RPA自动化工具、强大的知识库处理；提供深度定制化的无代码智能体创建服务。"
+        },
+        {
+          "name": "腾讯元器",
+          "url": "https://yuanqi.tencent.com/",
+          "iconUrl": "https://open-agents-web-cdn-prd.hunyuan.tencent.com/public/bf6b0f00a2e660e0e35d.png",
+          "description": "腾讯元器是腾讯混元大模型团队推出的智能体开放平台，开发者可以通过插件、知识库、工作流等方式快速、低门槛打造高质量的智能体，支持发布到QQ、微信等平台，同时也支持API调用。"
+        },
+        {
+          "name": "星火智能体平台",
+          "url": "https://agent.xfyun.cn/",
+          "iconUrl": "https://agent.xfyun.cn/agent-icon.ico",
+          "description": "新一代智能体Agent开发平台，支持通过提示词Prompt、工作流Workflow灵活创建专业智能体。平台已整合丰富的模型、插件、MCP Server，支持一站式效果测评，助力开发者快速搭建生产级智能体。创建后可发布到讯飞星火App、微信公众号，或发布成API、MCP Server。"
+        }
+      ],
+      "侧重B端": [
+        {
+          "name": "BetterYeah AI",
+          "url": "https://www.btyai.com/",
+          "iconUrl": "https://www.btyai.com/favicon.png",
+          "description": "BetterYeah国内顶尖的企业级AI智能体（Agent）开发平台，集成最全最新大模型与多模态知识库，支持零代码工作流编排与插件扩展。企业可快速构建私有化部署的生产级Agent应用，轻松实现客服、营销、销售等场景智能化升级。API/SDK无缝对接现有系统，显著提升效率降低成本，已为100+企业提供AI落地全链路服务。立即免费获取适合您行业的专属解决方案！"
+        },
+        {
+          "name": "支付宝百宝箱",
+          "url": "https://mdn.alipayobjects.com/huamei_6d8et6/afts/img/A*6SahT5YI5fYAAAAAAAAAAAAADk_5AQ/original",
+          "description": "百宝箱平台是一款可以提供一站式 AI 原生应用的开发平台，您无需具有任何代码基础，只需通过自然语言即可三步完成应用的创建与发布。百宝箱平台不仅可以帮助您轻松创建各类智能体，一键发布到支付宝小程序，释放无限可能，快来登录百宝箱平台开启您的 AI 应用创作之旅吧！"
+        },
+        {
+          "name": "实在智能",
+          "url": "https://www.ai-indeed.com/",
+          "iconUrl": "https://www.ai-indeed.com/images/shizai_logo_old.png",
+          "description": "实在智能是AI准独角兽科技公司，中国AI+RPA行业引领者.实在RPA是领先的机器人流程自动化软件,模拟人工零代码完美,自动化操作各类PC及手机软件,实现跨平台跨系统数据同步,支持信创国产操作系统,助力政企降本增效"
+        },
+        {
+          "name": "逻辑智能",
+          "url": "https://luoji.cn/",
+          "iconUrl": "https://luoji.cn/favicon_140.png",
+          "description": "逻辑智能专注于提供先进的AI解决方案，帮助企业提升效率和创新能力。了解更多关于我们的产品和服务。"
+        },
+        {
+          "name": "Vanus",
+          "url": "https://www.vanus.ai/",
+          "iconUrl": "https://www.vanus.ai/images/favicon/vanus-icon.svg",
+          "description": "Vanus is a Serverless, event streaming system with processing capabilities. It connects SaaS, Cloud Services, and Databases to help users build next-gen event-driven Apps."
+        },
+        {
+          "name": "OmAI",
+          "url": "https://www.hzlh.com/",
+          "iconUrl": "https://www.hzlh.com/_nuxt/linker-logo.7dd93a3a.png",
+          "description": "联汇科技自研Om多模态大模型、iBase向量数据库与中国首个OmBot自主智能体等平台与软件，打造MaaS与AaaS商业模式为行业客户者提供高效率、低成本、全栈式的AI2.0解决方案，加速普惠AI赋能千行百业，推动新一代智能经济形态建设。"
+        },
+        {
+          "name": "来也科技",
+          "url": "https://laiye.com/",
+          "iconUrl": "https://laiye.com/favicon.ico",
+          "description": "来也科技提供全球领先的智能自动化服务,业务遍布全球多个国家地区,拥有10年行业经验.来也独立研发的数字员工平台致力于让每位员工拥有智能体(AI Agent),提升企业和个人的生产力和创造力."
+        },
+        {
+          "name": "汇智智能",
+          "url": "https://www.huizhihuyuai.com/",
+          "iconUrl": "https://static.buff8.com/agent_sass_b/logo.png",
+          "description": "汇智智能数字科技有限公司是一家人工智能创新企业，隶属于南京汇智互娱集团。公司以“让AI力量成为每个人的天赋”为使命，专注于利用人工智能赋能个人与企业。汇智智能作为国内Agent产品创新引领者，已累计深度合作垂直行业生态伙伴数十个，服务了数千个B端中小企业，在利用Agent+大模型，赋能各行各业"
+        },
+        {
+          "name": "AutoAgents",
+          "url": "https://autoagents.ai/",
+          "iconUrl": "https://autoagents.ai/favicon.ico",
+          "description": "北京未来式智能科技有限公司，致力于为全球企业提供自主智能体（AI Agents）以及智能助理（Copilot）软件服务，打造人与AI智能混合工作新范式。"
+        },
+        {
+          "name": "联想百应",
+          "url": "https://baiying.lenovo.com/",
+          "iconUrl": "https://baiying.lenovo.com/_nuxt/logo.CnDcdALX.png",
+          "description": "联想百应平台全新升级为一站式企业IT服务智能体，以AI驱动订阅式服务（智能IT服务，SaaS应用，DaaS<设备即服务>）及方案，助力中小企业轻松实现智能化转型。"
+        }
+      ]
+    },
+    "AI 大模型开发平台": [
+      {
+        "name": "阿里云PAI",
+        "url": "https://www.aliyun.com/product/pai",
+        "iconUrl": "https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico",
+        "description": "阿里云人工智能平台PAI（原机器学习平台PAI）是AI Native的大模型与AIGC工程平台，提供算力管理、模型工具链、模型开发、模型训练、模型部署等功能，提供高性能、高稳定、企业级的大模型工程化能力。"
+      },
+      {
+        "name": "百度智能云千帆大模型平台",
+        "url": "https://cloud.baidu.com/product-s/qianfan_home",
+        "iconUrl": "https://bce.bdstatic.com/img/favicon.ico",
+        "description": "企业级一站式大模型与AI原生应用开发及服务平台，百度智能云千帆大模型平台提供最全面易用的生成式人工智能模型开发、微调、应用开发全流程工具链"
+      },
+      {
+        "name": "火山方舟",
+        "url": "https://www.volcengine.com/product/ark",
+        "iconUrl": "https://portal.volccdn.com/obj/volcfe/misc/favicon.png",
+        "description": "火山方舟提供模型训练、推理、评测、精调等全方位功能与服务，并重点支撑大模型生态。"
+      },
+      {
+        "name": "腾讯云TI平台",
+        "url": "https://cloud.tencent.com/product/ti",
+        "iconUrl": "https://cloudcache.tencent-cloud.com/qcloud/favicon.ico",
+        "description": "腾讯云TI平台是基于腾讯云强大计算能力的一站式机器学习生态服务平台。它能够对各种数据源、组件、算法、模型和评估模块进行组合，使得算法工程师和数据科学家在其之上能够方便地进行模型训练、评估和预测……"
+      },
+      {
+        "name": "智谱AI大模型开放平台",
+        "url": "https://www.bigmodel.cn/",
+        "iconUrl": "https://www.bigmodel.cn/img/icons/favicon-32x32.png",
+        "description": "智谱大模型开放平台-新一代国产自主通用AI大模型开放平台，是国内大模型排名前列的大模型网站，研发了多款LLM模型，多模态视觉模型产品，致力于将AI产品技术与行业场景双轮驱动的中国先进的认知智能技术和千行百业应用相结合，构建更高精度、高效率、通用化的AI开发新模式和企业级解决方案，实现智谱大模型的产业化，将AI的好处带给每个人。"
+      },
+      {
+        "name": "华为云AI开发平台ModelArts",
+        "url": "https://www.huaweicloud.com/product/modelarts.html",
+        "iconUrl": "https://www.huaweicloud.com/favicon.ico",
+        "description": "ModelArts是面向开发者的一站式AI开发平台，可快速创建和部署模型，管理全周期AI工作流。为机器学习与深度学习提供海量数据预处理及半自动化标注、大规模分布式Training、自动化模型生成。"
+      },
+      {
+        "name": "PPIO派欧云",
+        "url": "https://ppio.com/",
+        "iconUrl": "https://ppio.com/logo/logo.svg",
+        "description": "PPIO秉承“汇聚全球计算资源，服务全球客户”的使命，致⼒于为⼈⼯智能、⾳视频、元宇宙等新⼀代场景提供⾼性价⽐、超弹性、低延迟的⼀站式智算、模型及边缘计算服务。"
+      },
+      {
+        "name": "Silicon Cloud",
+        "url": "https://siliconflow.cn/",
+        "iconUrl": "https://siliconflow.cn/favicon.ico",
+        "description": "硅基流动（SiliconFlow）专注于提供高效能、低成本的多品类 AI 模型服务，助力开发者和企业聚焦产品创新。"
+      },
+     {
+        "name": "RealCenter",
+        "url": "https://www.real-ai.cn/",
+        "iconUrl": "https://www.real-ai.cn/themes/cn/default/assets/images/vi-logo.svg",
+        "description": "人机协同AI平台RealCenter"
+      },
+      {
+        "name": "无问芯穹大模型服务平台",
+        "url": "https://cloud.infini-ai.com/",
+        "iconUrl": "https://content.cloud.infini-ai.com/platform-web-dev/infini.ico",
+        "description": "无问芯穹（Infinigence AI，简称“无穹”）依托行业领先且经过验证的AI计算优化能力与算力解决方案，追求大模型落地的极致能效。打造 “M 种模型” 和 “N 种芯片” 间的“M×N”中间层产品，实现多种大模型算法在多元芯片上的高效、统一部署。链接上下游，共建AGI时代大模型基础设施，加速AGI落地千行百业。"
+      },
+      {
+        "name": "魔搭社区ModelScope",
+        "url": "https://modelscope.cn/",
+        "iconUrl": "https://g.alicdn.com/sail-web/maas/2.7.49/favicon/128.ico",
+        "description": "汇聚各领域最先进的机器学习模型，提供模型探索体验、推理、训练、部署和应用的一站式服务。"
+      }
+    ],
+    "低代码开发平台": [
+      {
+        "name": "Dify",
+        "url": "https://dify.ai/",
+        "iconUrl": "https://framerusercontent.com/images/5DjvEqzd8wAijK6D0yeFokYMteE.svg",
+        "description": "Get your AI applications production-ready from day one. Dify offers a complete platform to build, test, and deploy reliable AI solutions for teams at any scale."
+      },
+      {
+        "name": "影刀AI Power",
+        "url": "https://www.yingdao.com/",
+        "iconUrl": "https://winrobot-pub-a-oss.winrobot360.com/static/home/favicon.ico",
+        "description": "影刀是杭州分叉智能科技有限公司研发的RPA自动化软件，影刀RPA致力于为各行业客户提供RPA自动化机器人产品与解决方案。影刀RPA能实现PC、手机上的任何软件自动化操作。积木式流程搭建，0编程基础快速入门，人人都能轻松上手，是上万家企业信赖之选。"
+      },
+      {
+        "name": "Zion",
+        "url": "https://www.functorz.com/",
+        "iconUrl": "https://fz-zion-static.functorz.com/212409110645/25e131007aa2f58b23ca37131dbd18cf/project/2000000000202504/images/Us1mHdIwJpSUqQ3ITr1ATg==.png",
+        "description": "Zion是一个强大的无代码开发平台，可以快速灵活搭建网站、微信小程序。无需写代码就可以完成网页设计、产品开发、部署以及迭代。广泛覆盖业务场景，例如AI应用、企业官网、电商平台、SaaS、博客等。"
+      },
+      {
+        "name": "网易Codewave",
+        "url": "https://codewave.163.com/",
+        "iconUrl": "https://codewave.163.com/favicon.ico",
+        "description": "CodeWave智能低代码开发平台基于网易智能模型底座产品架构,为企业级应用提供更加智能化研发的软件生产方式,IT人员可以轻易实现从 智能生成 到 可视化拖拽调整 的全栈低代码应用搭建,让复杂应用开发更加高效,加快企业数字化与智能化进程。"
+      },
+      {
+        "name": "阿里云百炼",
+        "url": "https://bailian.console.aliyun.com/",
+        "iconUrl": "https://g.alicdn.com/isipfe/efm-fe/3.2.195/assets/product_name-9188a1f6.png",
+        "description": "全链路大模型服务与应用开发平台"
+      },
+      {
+        "name": "百度秒哒",
+        "url": "https://cloud.baidu.com/product-s/miaoda_home",
+        "iconUrl": "https://resource-static.cdn.bcebos.com/img/favicon.png",
+        "description": "百度秒哒，由百度倾力打造的无代码工具，不用写代码，就能实现任意想法，让每个人具备程序员能力。"
+      },
+      {
+        "name": "面壁ChatDev",
+        "url": "https://chatdev.modelbest.cn/",
+        "iconUrl": "https://modelbest-fe.oss-cn-beijing.aliyuncs.com/images/chatdev/login/small.png",
+        "description": ""
+      }
+    ],
+    "AI 代码": [
+      {
+        "name": "豆包MarsCode",
+        "url": "https://www.marscode.com/extension",
+        "iconUrl": "https://www.marscode.com/favicon.ico",
+        "description": "Built-in AI programming assistant with capabilities like code completion, explanation, and debugging for faster development."
+      },
+      {
+        "name": "通义灵码",
+        "url": "https://lingma.aliyun.com/",
+        "iconUrl": "https://img.alicdn.com/imgextra/i1/O1CN01BN6Jtc1lCfJNviV7H_!!6000000004783-2-tps-134-133.png",
+        "description": "结合最新大模型、智能体、MCP 等能力，开发者与通义灵码可以共同围绕研发任务进行协同编程，完成一个编码任务"
+      },
+      {
+        "name": "星火飞码",
+        "url": "https://iflycode.xfyun.cn/",
+        "iconUrl": "https://iflycode.xfyun.cn/assets/logoUp-2293b3a6.png",
+        "description": "星火飞码 iFlyCode 懂你的智能编程助手"
+      },
+      {
+        "name": "Trae",
+        "url": "https://www.trae.ai/",
+        "iconUrl": "https://lf-cdn.trae.ai/obj/trae-ai-sg/trae_website_prod/favicon.png",
+        "description": "Trae IDE integrates seamlessly into your workflow, collaborating with you to maximize performance and efficiency."
+      },
+      {
+        "name": "WeaveFox",
+        "url": "https://weavefox.alipay.com/",
+        "iconUrl": "https://mdn.alipayobjects.com/huamei_4qpv3u/afts/img/iH6wQKX4WCYAAAAAAAAAAAAAeocTAQFr/original",
+        "description": "WeaveFox 一个前端大模型的智能研发平台，基于蚂蚁自研的百灵多模态模型训练，具备将设计图生成前端源代码的能力，旨在大幅提升研发效率。该平台已支持多种主流应用类型，如中后台、移动端 H5、小程序、以及移动端卡片应用等，并兼容 React、Vue 等多种前端技术栈，助力开发者快速完成代码生成与项目管理。"
+      },
+      {
+        "name": "驭码CodeRider",
+        "url": "https://coderider.gitlab.cn/",
+        "iconUrl": "https://coderider.gitlab.cn/ico/favicon.ico",
+        "description": "驭码CodeRider，与 GitLab DevOps 无缝集成。助力您构建企业专属 AI DevOps 平台，用 AI 赋能软件研发！"
+      },
+      {
+        "name": "Fitten Code",
+        "url": "https://code.fittentech.com/",
+        "iconUrl": "https://code.fittentech.com/favicon.ico",
+        "description": "AI编程加速器，Fitten Code用户中，平均每天有超过50%补全代码字符被最终采纳。"
+      },
+      {
+        "name": "CodeGeeX",
+        "url": "https://codegeex.cn/",
+        "iconUrl": "https://codegeex.cn/assets/images/only_logo_dark.png",
+        "description": "CodeGeeX is an AI-based coding assistant, which can suggest code in the current or following lines. It is powered by a large-scale multilingual code generation model with 13 billion parameters, pretrained on a large code corpus of more than 20 programming languages. CodeGeeX是一个基于AI大模型的编程辅助工具，可以实现自动代码生成、代码翻译、自动编写注释等功能，支持20多种编程语言。"
+      },
+      {
+        "name": "文心快码",
+        "url": "https://comate.baidu.com/",
+        "iconUrl": "https://comate.baidu.com/favicon.ico",
+        "description": "文心快码（Baidu Comate）是由百度基于文心大模型研发的编程辅助工具，可提供自动代码生成、单元测试生成、注释生成以及智能问答等功能。支持上百种编程语言，旨在帮助开发者大幅提升编码效率。使用Comate，让编程更加高效和便捷。"
+      },
+      {
+        "name": "AIXCoder",
+        "url": "https://aixcoder.com/",
+        "iconUrl": "https://aixcoder.com/favicon.ico",
+        "description": "aiXcoder：国内首款基于深度学习的智能化软件开发工具，利用AI技术实现代码⾃动⽣成、代码⾃动补全、代码智能搜索等功能，提升开发者开发效率与代码质量。"
+      },
+      {
+        "name": "腾讯云AI代码助手",
+        "url": "https://copilot.tencent.com/",
+        "iconUrl": "https://acc-1258344699.cos.accelerate.myqcloud.com/web/website/0c0e21b6dc6b047ab66be09ddc683530a0264a5b/assets/favicon.ico",
+        "description": "CodeBuddy，AI 时代的智能编程伙伴。从此用自然语言编程，AI 自主完成多文件代码生成和改写，让灵感即刻落地"
+      },
+      {
+        "name": "CodeFuse",
+        "url": "https://codefuse.ai/",
+        "iconUrl": "https://mdn.alipayobjects.com/huamei_v98cj4/afts/img/A*EfwQTpYQfq4AAAAAAAAAAAAADo6VAQ/original",
+        "description": ""
+      },
+      {
+        "name": "SKYCODE",
+        "url": "https://github.com/SkyWorkAIGC/SkyCode-AI-CodeX-GPT3",
+        "iconUrl": "sky-code.singularity-ai.com/favicon.ico",
+        "description": "找不到了"
+      },
+      {
+        "name": "imgcook",
+        "url": "https://www.imgcook.com/",
+        "iconUrl": "https://img.alicdn.com/tfs/TB1bbwkzY2pK1RjSZFsXXaNlXXa-128-128.png",
+        "description": "由设计稿一键智能生成代码的大厨 | An intelligent tool turning designs to code"
+      },
+      {
+        "name": "码上飞",
+        "url": "https://www.codeflying.net/",
+        "iconUrl": "https://www.codeflying.net/fe-views/logo.ico",
+        "description": ""
+      }
+    ]
+  }
+}
