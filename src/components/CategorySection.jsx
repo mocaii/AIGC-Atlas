@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import ApplicationCard from "./ApplicationCard";
 
-function CategorySection({ title, applications }) {
+function CategorySection({ title, metaPath, applications }) {
   if (!applications || applications.length === 0) {
     return null;
   }
@@ -10,7 +10,10 @@ function CategorySection({ title, applications }) {
   return (
     <div className="category-section">
       <div className="category-header">
-        <h3 className="category-title">{title}</h3>
+        <div className="category-heading">
+          {metaPath.length > 0 && <div className="category-path">{metaPath.join(' / ')}</div>}
+          <h3 className="category-title">{title}</h3>
+        </div>
         <span className="app-count">{applications.length}</span>
       </div>
       <div className="applications-grid">
@@ -30,6 +33,7 @@ function CategorySection({ title, applications }) {
 
 CategorySection.propTypes = {
   title: PropTypes.string.isRequired,
+  metaPath: PropTypes.arrayOf(PropTypes.string),
   applications: PropTypes.arrayOf(
     PropTypes.shape({
       name: PropTypes.string.isRequired,
@@ -37,6 +41,10 @@ CategorySection.propTypes = {
       url: PropTypes.string.isRequired,
     })
   ).isRequired,
+};
+
+CategorySection.defaultProps = {
+  metaPath: [],
 };
 
 export default CategorySection;

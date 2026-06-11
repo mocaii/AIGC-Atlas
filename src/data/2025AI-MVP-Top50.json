@@ -1,0 +1,266 @@
+[
+  {
+    "name": "夸克",
+    "website": "https://www.quark.cn/",
+    "description": "夸克是一款由阿里巴巴推出的智能搜索和浏览器应用，主打极简设计和AI智能搜索，支持文档扫描、拍照识别、AI助手等功能。",
+    "icon": "https://www.quark.cn/favicon.ico"
+  },
+  {
+    "name": "纳米AI搜索",
+    "website": "https://www.nami.ai/",
+    "description": "纳米AI搜索是一款基于人工智能技术的搜索引擎，致力于为用户提供更智能、更精准的搜索体验。",
+    "icon": "https://www.nami.ai/favicon.ico"
+  },
+  {
+    "name": "讯飞星火",
+    "website": "https://xinghuo.xfyun.cn/",
+    "description": "讯飞星火是科大讯飞推出的大模型AI平台，提供智能对话、文本生成、知识问答等多种AI能力。",
+    "icon": "https://xinghuo.xfyun.cn/favicon.ico"
+  },
+  {
+    "name": "RayNeo",
+    "website": "https://www.rayneo.com/",
+    "description": "RayNeo专注于AR眼镜和空间计算，致力于打造下一代智能穿戴设备。",
+    "icon": "https://www.rayneo.com/favicon.ico"
+  },
+  {
+    "name": "Skywork",
+    "website": "https://skywork.ai/",
+    "description": "Skywork是一家专注于AI办公和智能协作的公司，提供AI助理、文档处理等服务。",
+    "icon": "https://skywork.ai/favicon.ico"
+  },
+  {
+    "name": "百度网盘",
+    "website": "https://pan.baidu.com/",
+    "description": "百度网盘是百度推出的云存储服务，支持文件存储、同步、分享和AI智能管理。",
+    "icon": "https://pan.baidu.com/favicon.ico"
+  },
+  {
+    "name": "讯飞绘文",
+    "website": "https://www.xfyun.cn/services/ai-painting",
+    "description": "讯飞绘文是科大讯飞推出的AI绘画平台，支持文本生成图片、风格转换等多种AI绘画能力，适用于创意设计、教育等场景。",
+    "icon": "https://www.xfyun.cn/favicon.ico"
+  },
+  {
+    "name": "PHOTOG",
+    "website": "https://photog.art/",
+    "description": "PhotoG是一款AI驱动的电商营销内容生成平台，支持AI图片编辑、视频生成、SEO内容优化等，帮助商家提升流量和转化率。",
+    "icon": "https://photog.art/favicon.ico"
+  },
+  {
+    "name": "扣子空间",
+    "website": "https://www.tudingai.com/",
+    "description": "扣子空间是新一代AI应用开发平台，提供AI对话、文档写作、图片生成等多种AI能力，助力开发者和企业快速搭建AI应用。",
+    "icon": "https://www.tudingai.com/favicon.ico"
+  },
+  {
+    "name": "万兴天幕AI",
+    "website": "https://wanx-ai.net/",
+    "description": "万兴天幕AI是万兴科技推出的AI视频创作平台，支持AI视频生成、剪辑、配音、字幕等多种功能，适用于内容创作、教育培训等场景。",
+    "icon": "https://wanx-ai.net/favicon.ico"
+  },
+  {
+    "name": "硅基流动",
+    "website": "https://www.siliconflow.com/",
+    "description": "硅基流动是一家专注于AI芯片和智能硬件研发的科技公司，致力于推动AI算力和智能终端的创新应用。",
+    "icon": "https://www.siliconflow.com/favicon.ico"
+  },
+  {
+    "name": "AiPPT.cn",
+    "website": "https://aippt.cn/",
+    "description": "AiPPT.cn是一款AI驱动的PPT自动生成工具，支持智能文档分析、内容生成、设计美化等功能，提升办公效率。",
+    "icon": "https://aippt.cn/favicon.ico"
+  },
+  {
+    "name": "Dr.Look AI",
+    "website": "https://lookfashion.ai/",
+    "description": "LOOK是一款AI驱动的时尚设计工具，支持实时AI服装设计、动态试衣、智能场景切换、AI一键抠图、局部微调等功能，帮助设计师和爱好者高效创作服装设计。",
+    "icon": "https://lookfashion.ai/favicon.ico"
+  },
+  {
+    "name": "松应科技 ORCA",
+    "website": "https://orca-tech.cn/",
+    "description": "松应科技（ORCA）专注于无人船、智能水域运维和智慧文旅产品，提供无人清洁船、智能巡游船等多场景水面无人驾驶解决方案。",
+    "icon": "https://orca-tech.cn/favicon.ico"
+  },
+  {
+    "name": "OpenArt.ai",
+    "website": "https://openart.ai/",
+    "description": "OpenArt.ai是一个AI艺术生成与编辑平台，支持文本生成图片、图片风格迁移、AI修图、AI视频生成等多种功能，适合创意设计、内容创作等场景。",
+    "icon": "https://openart.ai/favicon.ico"
+  },
+  {
+    "name": "HailuoAI",
+    "website": "https://hailuoai.video/",
+    "description": "HailuoAI是一款AI驱动的视频生成与编辑平台，支持AI视频创作、剪辑、配音等多种功能，适用于内容创作、教育等领域。",
+    "icon": "https://hailuoai.video/favicon.ico"
+  },
+  {
+    "name": "CHIMER AI",
+    "website": "https://chimer.cn/",
+    "description": "CHIMER AI是一家专注于AI大模型和智能体研发的科技公司，致力于推动AI在各行业的创新应用。",
+    "icon": "https://chimer.cn/favicon.ico"
+  },
+  {
+    "name": "拍我AI",
+    "website": "https://paiwo.ai/",
+    "description": "拍我AI是一款AI驱动的智能拍照和图像处理平台，支持AI美颜、抠图、修图等多种功能，提升用户的拍照体验。",
+    "icon": "https://paiwo.ai/favicon.ico"
+  },
+  {
+    "name": "灵心巧手 LINKERBOT",
+    "website": "https://www.laihua.com/",
+    "description": "灵心巧手（LINKERBOT）是来画AI旗下的AI智能体平台，支持AI动画视频、AI数字人、AI智能体、AI生成PPT等多种内容创作和办公自动化能力。",
+    "icon": "https://www.laihua.com/favicon.ico"
+  },
+  {
+    "name": "AI ElevenLabs",
+    "website": "https://aibang.run/",
+    "description": "AI帮个忙（AI ElevenLabs）是一款多功能AI助手平台，支持AI写作、短视频脚本生成、PPT大纲、文案润色、周报生成等多种办公与内容创作场景。",
+    "icon": "https://aibang.run/favicon.ico"
+  },
+  {
+    "name": "腾讯元宝",
+    "website": "https://www.aifun.cc/en/sites/tengxunyuanbao.html",
+    "description": "腾讯元宝是腾讯推出的智能AI助手，集成AI搜索、阅读、创作、图片处理等多项功能，支持多模态内容生成和个性化服务，提升办公、学习和生活效率。",
+    "icon": "https://www.aifun.cc/favicon.ico"
+  },
+  {
+    "name": "百度文库",
+    "website": "https://wenku.baidu.com/",
+    "description": "百度文库是百度推出的在线文档分享与学习平台，支持文档上传、下载、在线阅读和AI辅助学习等功能，覆盖教育、办公等多领域。",
+    "icon": "https://wenku.baidu.com/favicon.ico"
+  },
+  {
+    "name": "c.ai",
+    "website": "https://crypto-ai.io/",
+    "description": "CryptoAI（c.ai）是一个专注于加密货币领域的AI项目，提供多种基于AI的加密货币投资、分析、自动化交易和社区管理工具，涵盖买卖机器人、钱包分析、社交媒体跟踪等功能。",
+    "icon": "https://crypto-ai.io/favicon.ico"
+  },
+  {
+    "name": "众智机器人 ENGINE",
+    "website": "https://www.engineai.com.cn/",
+    "description": "众智机器人（ENGINEAI）致力于打造全球领先的通用人形机器人，产品涵盖SE01、PM01、SA01等多款智能机器人，广泛应用于服务、教育、工业等领域，推动智能体技术创新。",
+    "icon": "https://www.engineai.com.cn/favicon.ico"
+  },
+  {
+    "name": "小浣熊家族 Raccoon",
+    "website": "https://github.com/SenseTime-Copilot/Raccoon",
+    "description": "Raccoon是商汤科技推出的AI代码助手插件，支持VS Code和JetBrains等主流IDE，基于大模型为开发者提供智能代码补全、自动化建议和开发效率提升。",
+    "icon": "https://github.com/fluidicon.png"
+  },
+  {
+    "name": "IMO",
+    "website": "https://aimoprize.com/",
+    "description": "AIMO Prize（IMO）是由XTX Markets发起的人工智能数学奥林匹克大奖赛，旨在推动AI在数学推理领域的突破，奖励能够在国际数学奥林匹克竞赛中获得金牌水平的AI模型。",
+    "icon": "https://aimoprize.com/favicon.ico"
+  },
+  {
+    "name": "稳定 AI",
+    "website": "https://stability.ai/",
+    "description": "Stability AI 是全球领先的开源生成式人工智能公司，旗下 Stable Diffusion、Stable Audio 等多模态生成模型广泛应用于图像、音频、视频、3D内容的创作，赋能创意、娱乐、营销等行业。",
+    "icon": "https://stability.ai/favicon.ico"
+  },
+  {
+    "name": "问小白",
+    "website": "https://minibai.com/",
+    "description": "小白浏览器是一款集成AI助手、AI绘画、AI办公、AI语音等多种智能功能的安全浏览器，支持虚拟伙伴、个性化定制和多场景高效协作，提升用户的智能办公与创作体验。",
+    "icon": "https://minibai.com/favicon.ico"
+  },
+  {
+    "name": "码上飞",
+    "website": "https://lingma.aliyun.com/",
+    "description": "通义灵码（码上飞）是阿里云推出的AI编程助手，基于大模型为开发者提供智能代码生成、自动补全、代码优化、注释生成、调试排查等功能，支持多种主流IDE和编程语言。",
+    "icon": "https://lingma.aliyun.com/favicon.ico"
+  },
+  {
+    "name": "出门问问 mobvoi",
+    "website": "https://www.mobvoi.com/",
+    "description": "出门问问（Mobvoi）是一家以生成式AI和语音交互为核心的人工智能公司，拥有自研大语言模型和AI CoPilot产品，服务于内容创作者、企业和消费者，代表产品包括TicWatch智能手表、AI语音助手等。",
+    "icon": "https://www.mobvoi.com/favicon.ico"
+  },
+  {
+    "name": "YouMind",
+    "website": "https://youmio.ai/",
+    "description": "YouMind是一款AI创作工作室，致力于帮助内容创作者高效管理和检索文章、视频、播客等多模态素材，提供AI驱动的灵感激发、自动转录、内容整理与创作辅助。",
+    "icon": "https://youmio.ai/favicon.ico"
+  },
+  {
+    "name": "UNITREE",
+    "website": "https://www.unitree.com/",
+    "description": "宇树科技（UNITREE）是全球领先的高性能四足机器人和人形机器人研发企业，产品广泛应用于教育、工业、安防、救援等领域，代表产品有Go1、Go2、B2、H1等。",
+    "icon": "https://www.unitree.com/favicon.ico"
+  },
+  {
+    "name": "Rokid",
+    "website": "https://global.rokid.com/",
+    "description": "Rokid是一家专注于增强现实（AR）和AI交互技术的创新公司，推出了Rokid Max、Rokid Station等AR眼镜和空间计算产品，广泛应用于娱乐、办公、教育等场景。",
+    "icon": "https://global.rokid.com/favicon.ico"
+  },
+  {
+    "name": "Lawaken",
+    "website": "https://legalnowai.com/",
+    "description": "Lawaken（LegalNow AI）是一款AI法律助手平台，支持合同起草、审查、法律咨询、条款解释等功能，致力于提升法律服务效率和普惠性。",
+    "icon": "https://legalnowai.com/favicon.ico"
+  },
+  {
+    "name": "稿定",
+    "website": "https://www.gaoding.com/",
+    "description": "稿定是一款在线设计工具，提供AI海报、AI商品图、AI营销文案等功能，帮助用户快速创建高质量的设计。",
+    "icon": "https://www.gaoding.com/favicon.ico"
+  },
+  {
+    "name": "Poe",
+    "website": "https://poe.com/",
+    "description": "Poe 是 Quora 旗下的一个平台，允许用户与各种由不同公司开发的AI聊天机器人进行对话。",
+    "icon": "https://poe.com/favicon.ico"
+  },
+  {
+    "name": "Perplexity AI",
+    "website": "https://www.perplexity.ai/",
+    "description": "Perplexity AI 是一款对话式AI搜索引擎，它通过提供直接的、有来源引用的答案来革新搜索方式。",
+    "icon": "https://www.perplexity.ai/favicon.ico"
+  },
+  {
+    "name": "Brevian",
+    "website": "https://www.brevian.ai/",
+    "description": "Brevian 是一个无代码平台，用于构建和部署能够自动执行重复性任务、回答问题并与公司现有系统集成的AI代理。",
+    "icon": "https://www.brevian.ai/favicon.ico"
+  },
+  {
+    "name": "Notion",
+    "website": "https://www.notion.so/",
+    "description": "Notion是一款集成了AI功能的协同办公软件，可以帮助用户创建、组织和分享笔记、任务、数据库等。",
+    "icon": "https://www.notion.so/favicon.ico"
+  },
+  {
+    "name": "Luma AI",
+    "website": "https://lumalabs.ai/",
+    "description": "Luma AI 是一家专注于多模态人工智能的公司，致力于生成和理解视觉数据，特别是3D内容和视频。",
+    "icon": "https://lumalabs.ai/favicon.ico"
+  },
+  {
+    "name": "Artifact",
+    "website": "https://artifact.news/",
+    "description": "Artifact 是一款由 Instagram 联合创始人打造的AI驱动的个性化新闻阅读应用。",
+    "icon": "https://artifact.news/favicon.ico"
+  },
+  {
+    "name": "Opus",
+    "website": "https://www.opus.pro/",
+    "description": "Opus Clip 是一款AI视频剪辑工具，可将长视频自动剪辑成适合社交媒体发布的短视频。",
+    "icon": "https://www.opus.pro/favicon.ico"
+  },
+  {
+    "name": "SUNO",
+    "website": "https://suno.com/",
+    "description": "Suno AI 是一个音乐生成平台，可以根据文本提示创作出包含人声和器乐的歌曲。",
+    "icon": "https://suno.com/favicon.ico"
+  },
+  {
+    "name": "GAMMA",
+    "website": "https://gamma.app/",
+    "description": "Gamma 是一款AI驱动的演示文稿和文档创建工具，可以帮助用户快速生成精美的演示文稿和文档。",
+    "icon": "https://gamma.app/favicon.ico"
+  }
+]

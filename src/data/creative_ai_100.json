@@ -1,0 +1,430 @@
+{
+  "创意AI类": {
+    "AI创作工具": {
+      "AI绘画": [
+        {
+          "name": "Midjourney",
+          "url": "https://www.midjourney.com/",
+          "iconUrl": "https://www.midjourney.com/favicon.ico",
+          "description": "Midjourney是一款基于人工智能的图像生成工具，能够根据文本描述创造出高质量的艺术作品和插图。"
+        },
+        {
+          "name": "DALL-E 3",
+          "url": "https://openai.com/dall-e-3",
+          "iconUrl": "https://openai.com/favicon.ico",
+          "description": "DALL-E 3是OpenAI开发的最新AI图像生成模型，能够根据详细的文本提示创建高质量、准确的图像。"
+        },
+        {
+          "name": "Stable Diffusion",
+          "url": "https://stability.ai/",
+          "iconUrl": "https://stability.ai/favicon.ico",
+          "description": "Stable Diffusion是一个开源的文本到图像生成模型，能够创建高质量的图像，支持多种艺术风格。"
+        },
+        {
+          "name": "Adobe Firefly",
+          "url": "https://www.adobe.com/products/firefly.html",
+          "iconUrl": "https://www.adobe.com/favicon.ico",
+          "description": "Adobe Firefly是Adobe推出的创意生成AI工具，集成在Creative Cloud中，提供文本生成图像、图像编辑等功能。"
+        },
+        {
+          "name": "Leonardo AI",
+          "url": "https://leonardo.ai/",
+          "iconUrl": "https://leonardo.ai/favicon.ico",
+          "description": "Leonardo AI是一个专业的AI艺术生成平台，提供高质量的图像生成、编辑和训练功能。"
+        },
+        {
+          "name": "Artbreeder",
+          "url": "https://www.artbreeder.com/",
+          "iconUrl": "https://www.artbreeder.com/favicon.ico",
+          "description": "Artbreeder是一个协作式AI艺术平台，用户可以通过混合和变异图像来创建独特的艺术作品。"
+        },
+        {
+          "name": "NightCafe",
+          "url": "https://nightcafe.studio/",
+          "iconUrl": "https://nightcafe.studio/favicon.ico",
+          "description": "NightCafe是一个AI艺术生成器，提供多种AI算法和艺术风格，让用户轻松创建数字艺术作品。"
+        },
+        {
+          "name": "DeepAI",
+          "url": "https://deepai.org/",
+          "iconUrl": "https://deepai.org/favicon.ico",
+          "description": "DeepAI提供多种AI工具，包括图像生成、风格转换和图像增强等功能。"
+        }
+      ],
+      "AI视频": [
+        {
+          "name": "Runway",
+          "url": "https://runwayml.com/",
+          "iconUrl": "https://runwayml.com/favicon.ico",
+          "description": "Runway是一个AI驱动的创意工具套件，提供视频生成、编辑、特效制作等功能，专为创作者设计。"
+        },
+        {
+          "name": "Pika Labs",
+          "url": "https://www.pika.art/",
+          "iconUrl": "https://www.pika.art/favicon.ico",
+          "description": "Pika Labs是一个AI视频生成平台，能够将文本和图像转换为高质量的视频内容。"
+        },
+        {
+          "name": "Synthesia",
+          "url": "https://www.synthesia.io/",
+          "iconUrl": "https://www.synthesia.io/favicon.ico",
+          "description": "Synthesia是一个AI视频生成平台，能够创建具有虚拟主播的专业视频内容。"
+        },
+        {
+          "name": "D-ID",
+          "url": "https://www.d-id.com/",
+          "iconUrl": "https://www.d-id.com/favicon.ico",
+          "description": "D-ID是一个AI视频生成工具，专注于创建会说话的头像和虚拟演示者。"
+        },
+        {
+          "name": "Luma AI",
+          "url": "https://lumalabs.ai/",
+          "iconUrl": "https://lumalabs.ai/favicon.ico",
+          "description": "Luma AI提供3D捕获和AI视频生成技术，能够创建高质量的3D内容和视频。"
+        }
+      ],
+      "AI音乐": [
+        {
+          "name": "Suno AI",
+          "url": "https://www.suno.ai/",
+          "iconUrl": "https://www.suno.ai/favicon.ico",
+          "description": "Suno AI是一个AI音乐创作平台，能够根据文本提示生成完整的歌曲，包括歌词、旋律和人声。"
+        },
+        {
+          "name": "Udio",
+          "url": "https://www.udio.com/",
+          "iconUrl": "https://www.udio.com/favicon.ico",
+          "description": "Udio是一个AI音乐生成工具，专注于创建高质量的音乐作品，支持多种音乐风格和流派。"
+        },
+        {
+          "name": "AIVA",
+          "url": "https://www.aiva.ai/",
+          "iconUrl": "https://www.aiva.ai/favicon.ico",
+          "description": "AIVA是一个AI作曲家，能够创作各种风格的音乐，从古典到现代流行音乐。"
+        },
+        {
+          "name": "Mubert",
+          "url": "https://mubert.com/",
+          "iconUrl": "https://mubert.com/favicon.ico",
+          "description": "Mubert是一个AI音乐生成平台，提供实时音乐生成和个性化音乐流服务。"
+        },
+        {
+          "name": "Boomy",
+          "url": "https://boomy.com/",
+          "iconUrl": "https://boomy.com/favicon.ico",
+          "description": "Boomy是一个AI音乐创作平台，让用户无需音乐经验即可创作和发布原创歌曲。"
+        }
+      ],
+      "AI写作": [
+        {
+          "name": "Jasper",
+          "url": "https://www.jasper.ai/",
+          "iconUrl": "https://www.jasper.ai/favicon.ico",
+          "description": "Jasper是一个AI写作助手，专为营销人员和内容创作者设计，能够生成高质量的营销文案和内容。"
+        },
+        {
+          "name": "Copy.ai",
+          "url": "https://www.copy.ai/",
+          "iconUrl": "https://www.copy.ai/favicon.ico",
+          "description": "Copy.ai是一个AI驱动的文案写作工具，帮助用户快速创建营销文案、博客文章和社交媒体内容。"
+        },
+        {
+          "name": "Writesonic",
+          "url": "https://writesonic.com/",
+          "iconUrl": "https://writesonic.com/favicon.ico",
+          "description": "Writesonic是一个AI写作平台，提供文章写作、广告文案、产品描述等多种内容创作功能。"
+        },
+        {
+          "name": "Rytr",
+          "url": "https://rytr.me/",
+          "iconUrl": "https://rytr.me/favicon.ico",
+          "description": "Rytr是一个AI写作助手，帮助用户快速生成高质量的内容，支持多种写作风格和语调。"
+        },
+        {
+          "name": "Wordtune",
+          "url": "https://www.wordtune.com/",
+          "iconUrl": "https://www.wordtune.com/favicon.ico",
+          "description": "Wordtune是一个AI写作工具，专注于改善和重写文本，提供更好的表达方式和语言优化。"
+        }
+      ]
+    },
+    "AI设计工具": {
+      "AI平面设计": [
+        {
+          "name": "Canva AI",
+          "url": "https://www.canva.com/",
+          "iconUrl": "https://www.canva.com/favicon.ico",
+          "description": "Canva AI集成了人工智能功能的在线设计平台，提供智能设计建议、自动布局和内容生成功能。"
+        },
+        {
+          "name": "Figma AI",
+          "url": "https://www.figma.com/",
+          "iconUrl": "https://www.figma.com/favicon.ico",
+          "description": "Figma集成AI功能的协作设计工具，提供智能设计建议、自动化设计流程和AI辅助原型制作。"
+        },
+        {
+          "name": "Looka",
+          "url": "https://looka.com/",
+          "iconUrl": "https://looka.com/favicon.ico",
+          "description": "Looka是一个AI驱动的品牌设计平台，能够自动生成logo、品牌标识和营销材料。"
+        },
+        {
+          "name": "Designs.ai",
+          "url": "https://designs.ai/",
+          "iconUrl": "https://designs.ai/favicon.ico",
+          "description": "Designs.ai是一个综合性AI设计平台，提供logo设计、视频制作、语音合成等多种创意工具。"
+        },
+        {
+          "name": "Brandmark",
+          "url": "https://brandmark.io/",
+          "iconUrl": "https://brandmark.io/favicon.ico",
+          "description": "Brandmark是一个AI logo设计工具，能够快速生成专业的品牌标识和视觉识别系统。"
+        }
+      ],
+      "AI UI/UX设计": [
+        {
+          "name": "Uizard",
+          "url": "https://uizard.io/",
+          "iconUrl": "https://uizard.io/favicon.ico",
+          "description": "Uizard是一个AI驱动的设计工具，能够将手绘草图转换为数字设计，并提供智能UI/UX设计功能。"
+        },
+        {
+          "name": "Framer AI",
+          "url": "https://www.framer.com/",
+          "iconUrl": "https://www.framer.com/favicon.ico",
+          "description": "Framer AI是一个集成AI功能的网站设计和原型制作工具，提供智能设计生成和交互设计功能。"
+        },
+        {
+          "name": "Galileo AI",
+          "url": "https://www.usegalileo.ai/",
+          "iconUrl": "https://www.usegalileo.ai/favicon.ico",
+          "description": "Galileo AI是一个AI驱动的UI设计工具，能够根据文本描述快速生成高保真的界面设计。"
+        },
+        {
+          "name": "Mockup AI",
+          "url": "https://mockup.ai/",
+          "iconUrl": "https://mockup.ai/favicon.ico",
+          "description": "Mockup AI是一个AI驱动的原型设计工具，帮助设计师快速创建和迭代产品原型。"
+        }
+      ]
+    },
+    "AI开发工具": {
+      "AI编程助手": [
+        {
+          "name": "GitHub Copilot",
+          "url": "https://github.com/features/copilot",
+          "iconUrl": "https://github.com/favicon.ico",
+          "description": "GitHub Copilot是由GitHub和OpenAI合作开发的AI编程助手，能够根据注释和代码上下文自动生成代码。"
+        },
+        {
+          "name": "Cursor",
+          "url": "https://cursor.sh/",
+          "iconUrl": "https://cursor.sh/favicon.ico",
+          "description": "Cursor是一个AI驱动的代码编辑器，集成了强大的AI编程助手功能，提供智能代码生成和编辑。"
+        },
+        {
+          "name": "Tabnine",
+          "url": "https://www.tabnine.com/",
+          "iconUrl": "https://www.tabnine.com/favicon.ico",
+          "description": "Tabnine是一个AI代码补全工具，支持多种编程语言，提供智能代码建议和自动补全功能。"
+        },
+        {
+          "name": "CodeT5",
+          "url": "https://github.com/salesforce/CodeT5",
+          "iconUrl": "https://github.com/favicon.ico",
+          "description": "CodeT5是Salesforce开发的AI代码生成模型，支持代码理解、生成和翻译等多种编程任务。"
+        },
+        {
+          "name": "Replit AI",
+          "url": "https://replit.com/",
+          "iconUrl": "https://replit.com/favicon.ico",
+          "description": "Replit AI是集成在Replit平台中的AI编程助手，提供代码生成、调试和解释功能。"
+        }
+      ],
+      "AI低代码平台": [
+        {
+          "name": "Bubble",
+          "url": "https://bubble.io/",
+          "iconUrl": "https://bubble.io/favicon.ico",
+          "description": "Bubble是一个可视化编程平台，集成AI功能，让用户无需编写代码即可构建复杂的Web应用程序。"
+        },
+        {
+          "name": "Zapier",
+          "url": "https://zapier.com/",
+          "iconUrl": "https://zapier.com/favicon.ico",
+          "description": "Zapier是一个自动化平台，集成AI功能，帮助用户连接不同的应用程序并自动化工作流程。"
+        },
+        {
+          "name": "Webflow AI",
+          "url": "https://webflow.com/",
+          "iconUrl": "https://webflow.com/favicon.ico",
+          "description": "Webflow集成AI功能的网站建设平台，提供可视化设计和智能代码生成功能。"
+        },
+        {
+          "name": "Adalo",
+          "url": "https://www.adalo.com/",
+          "iconUrl": "https://www.adalo.com/favicon.ico",
+          "description": "Adalo是一个无代码移动应用开发平台，集成AI功能，帮助用户快速构建原生移动应用。"
+        }
+      ]
+    }
+  },
+  "AI生产力工具": {
+    "AI办公助手": {
+      "AI文档处理": [
+        {
+          "name": "Notion AI",
+          "url": "https://www.notion.so/",
+          "iconUrl": "https://www.notion.so/favicon.ico",
+          "description": "Notion AI是集成在Notion中的AI助手，提供智能写作、内容生成、数据分析等功能。"
+        },
+        {
+          "name": "Grammarly",
+          "url": "https://www.grammarly.com/",
+          "iconUrl": "https://www.grammarly.com/favicon.ico",
+          "description": "Grammarly是一个AI驱动的写作助手，提供语法检查、拼写纠正、写作建议和风格优化功能。"
+        },
+        {
+          "name": "Otter.ai",
+          "url": "https://otter.ai/",
+          "iconUrl": "https://otter.ai/favicon.ico",
+          "description": "Otter.ai是一个AI语音转文字工具，能够实时转录会议、讲座和对话，并提供智能摘要功能。"
+        },
+        {
+          "name": "Krisp",
+          "url": "https://krisp.ai/",
+          "iconUrl": "https://krisp.ai/favicon.ico",
+          "description": "Krisp是一个AI噪音消除工具，能够在通话和会议中实时消除背景噪音，提升音频质量。"
+        },
+        {
+          "name": "Fireflies.ai",
+          "url": "https://fireflies.ai/",
+          "iconUrl": "https://fireflies.ai/favicon.ico",
+          "description": "Fireflies.ai是一个AI会议助手，能够自动记录、转录和分析会议内容，生成智能摘要。"
+        }
+      ],
+      "AI数据分析": [
+        {
+          "name": "Tableau AI",
+          "url": "https://www.tableau.com/",
+          "iconUrl": "https://www.tableau.com/favicon.ico",
+          "description": "Tableau集成AI功能的数据可视化平台，提供智能数据分析、自动洞察发现和预测分析功能。"
+        },
+        {
+          "name": "Power BI AI",
+          "url": "https://powerbi.microsoft.com/",
+          "iconUrl": "https://powerbi.microsoft.com/favicon.ico",
+          "description": "Microsoft Power BI集成AI功能的商业智能工具，提供智能数据分析、自然语言查询和预测建模。"
+        },
+        {
+          "name": "MonkeyLearn",
+          "url": "https://monkeylearn.com/",
+          "iconUrl": "https://monkeylearn.com/favicon.ico",
+          "description": "MonkeyLearn是一个AI文本分析平台，提供情感分析、关键词提取和文本分类等功能。"
+        },
+        {
+          "name": "DataSeer",
+          "url": "https://dataseer.ai/",
+          "iconUrl": "https://dataseer.ai/favicon.ico",
+          "description": "DataSeer是一个AI驱动的数据分析工具，帮助研究人员和分析师快速理解和处理复杂数据。"
+        }
+      ]
+    },
+    "AI营销工具": {
+      "AI内容营销": [
+        {
+          "name": "HubSpot AI",
+          "url": "https://www.hubspot.com/",
+          "iconUrl": "https://www.hubspot.com/favicon.ico",
+          "description": "HubSpot集成AI功能的营销自动化平台，提供智能内容创建、客户分析和营销优化功能。"
+        },
+        {
+          "name": "Mailchimp AI",
+          "url": "https://mailchimp.com/",
+          "iconUrl": "https://mailchimp.com/favicon.ico",
+          "description": "Mailchimp集成AI功能的邮件营销平台，提供智能邮件设计、受众分析和营销自动化功能。"
+        },
+        {
+          "name": "Persado",
+          "url": "https://www.persado.com/",
+          "iconUrl": "https://www.persado.com/favicon.ico",
+          "description": "Persado是一个AI驱动的营销语言平台，能够生成高转化率的营销文案和广告内容。"
+        },
+        {
+          "name": "Phrasee",
+          "url": "https://phrasee.co/",
+          "iconUrl": "https://phrasee.co/favicon.ico",
+          "description": "Phrasee是一个AI营销文案工具，专注于生成优化的邮件主题行和营销消息。"
+        }
+      ],
+      "AI社交媒体": [
+        {
+          "name": "Hootsuite AI",
+          "url": "https://hootsuite.com/",
+          "iconUrl": "https://hootsuite.com/favicon.ico",
+          "description": "Hootsuite集成AI功能的社交媒体管理平台，提供智能内容调度、受众分析和社交媒体优化。"
+        },
+        {
+          "name": "Buffer AI",
+          "url": "https://buffer.com/",
+          "iconUrl": "https://buffer.com/favicon.ico",
+          "description": "Buffer集成AI功能的社交媒体管理工具，提供智能发布时间优化、内容建议和分析功能。"
+        },
+        {
+          "name": "Lately",
+          "url": "https://www.lately.ai/",
+          "iconUrl": "https://www.lately.ai/favicon.ico",
+          "description": "Lately是一个AI社交媒体内容生成工具，能够将长篇内容转换为多个社交媒体帖子。"
+        },
+        {
+          "name": "Socialbakers AI",
+          "url": "https://www.socialbakers.com/",
+          "iconUrl": "https://www.socialbakers.com/favicon.ico",
+          "description": "Socialbakers AI是一个社交媒体分析平台，提供AI驱动的内容优化和受众洞察功能。"
+        }
+      ]
+    },
+    "AI客服工具": {
+      "AI聊天机器人": [
+        {
+          "name": "Intercom AI",
+          "url": "https://www.intercom.com/",
+          "iconUrl": "https://www.intercom.com/favicon.ico",
+          "description": "Intercom集成AI功能的客服平台，提供智能聊天机器人、自动回复和客户支持优化功能。"
+        },
+        {
+          "name": "Zendesk AI",
+          "url": "https://www.zendesk.com/",
+          "iconUrl": "https://www.zendesk.com/favicon.ico",
+          "description": "Zendesk集成AI功能的客服解决方案，提供智能工单处理、客户情感分析和自动化支持。"
+        },
+        {
+          "name": "Drift",
+          "url": "https://www.drift.com/",
+          "iconUrl": "https://www.drift.com/favicon.ico",
+          "description": "Drift是一个对话式营销平台，集成AI聊天机器人，提供智能客户互动和销售自动化功能。"
+        },
+        {
+          "name": "Ada",
+          "url": "https://ada.cx/",
+          "iconUrl": "https://ada.cx/favicon.ico",
+          "description": "Ada是一个AI客服平台，提供智能聊天机器人和自动化客户支持解决方案。"
+        }
+      ],
+      "AI语音助手": [
+        {
+          "name": "Voiceflow",
+          "url": "https://www.voiceflow.com/",
+          "iconUrl": "https://www.voiceflow.com/favicon.ico",
+          "description": "Voiceflow是一个对话式AI设计平台，帮助团队构建、测试和部署语音和聊天助手。"
+        },
+        {
+          "name": "Rasa",
+          "url": "https://rasa.com/",
+          "iconUrl": "https://rasa.com/favicon.ico",
+          "description": "Rasa是一个开源对话式AI平台，提供构建智能聊天机器人和语音助手的工具和框架。"
+        }
+      ]
+    }
+  }
+}

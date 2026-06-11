@@ -1,0 +1,648 @@
+[
+  {
+    "category": "助手类",
+    "apps": [
+      {
+        "name": "TRAE",
+        "website": "https://trae.ai",
+        "description": "AI-powered coding assistant",
+        "icon": "icons/TRAE.ico"
+      },
+      {
+        "name": "CodeArts Doer",
+        "website": "https://codearts.com",
+        "description": "Intelligent code generation tool",
+        "icon": "icons/CodeArts_Doer.ico"
+      },
+      {
+        "name": "CODEFUSE",
+        "website": "https://codefuse.ai",
+        "description": "AI code fusion platform",
+        "icon": "icons/CODEFUSE.ico"
+      },
+      {
+        "name": "天工智码",
+        "website": "https://tiangong.cn",
+        "description": "天工智能编程助手",
+        "icon": "icons/天工智码.ico"
+      },
+      {
+        "name": "CodeGeeX",
+        "website": "https://codegeex.cn",
+        "description": "多语言代码生成模型",
+        "icon": "icons/CodeGeeX.ico"
+      },
+      {
+        "name": "码上",
+        "website": "https://mashang.com",
+        "description": "智能编程平台",
+        "icon": "icons/码上.ico"
+      },
+      {
+        "name": "Lightly",
+        "website": "https://lightly.ai",
+        "description": "轻量级AI编程工具",
+        "icon": "icons/Lightly.ico"
+      },
+      {
+        "name": "厦大飞码",
+        "website": "https://flycode.xmu.edu.cn",
+        "description": "厦门大学飞码项目",
+        "icon": "icons/厦大飞码.ico"
+      }
+    ]
+  },
+  {
+    "category": "代理类",
+    "apps": [
+      {
+        "name": "腾讯云代码助手",
+        "website": "https://cloud.tencent.com",
+        "description": "腾讯云智能代码助手",
+        "icon": "icons/腾讯云代码助手.ico"
+      },
+      {
+        "name": "极狐GitLab",
+        "website": "https://jihulab.com",
+        "description": "极狐GitLab代码托管平台",
+        "icon": "icons/极狐GitLab.ico"
+      },
+      {
+        "name": "代码小流氓",
+        "website": "https://codegeex.cn",
+        "description": "智能代码生成工具",
+        "icon": "icons/代码小流氓.ico"
+      },
+      {
+        "name": "TuringCoder",
+        "website": "https://turingcoder.com",
+        "description": "图灵智能编程",
+        "icon": "icons/TuringCoder.ico"
+      },
+      {
+        "name": "取码CodeRider",
+        "website": "https://coderider.com",
+        "description": "智能取码工具",
+        "icon": "icons/取码CodeRider.ico"
+      },
+      {
+        "name": "FITTEN CODE",
+        "website": "https://code.fittentech.com",
+        "description": "非十科技代码助手",
+        "icon": "icons/FITTEN_CODE.ico"
+      },
+      {
+        "name": "通义灵码",
+        "website": "https://tongyi.aliyun.com",
+        "description": "阿里云通义灵码",
+        "icon": "icons/通义灵码.ico"
+      },
+      {
+        "name": "文心快码",
+        "website": "https://comate.baidu.com",
+        "description": "百度文心快码",
+        "icon": "icons/文心快码.ico"
+      },
+      {
+        "name": "WeaveFox",
+        "website": "https://weavefox.ai",
+        "description": "智能代码编织工具",
+        "icon": "icons/WeaveFox.ico"
+      },
+      {
+        "name": "CodeBuddy Craft",
+        "website": "https://codebuddy.ai",
+        "description": "代码伙伴工艺",
+        "icon": "icons/CodeBuddy_Craft.ico"
+      },
+      {
+        "name": "VINSOO",
+        "website": "https://vinsoo.com",
+        "description": "智能代码助手",
+        "icon": "icons/VINSOO.ico"
+      },
+      {
+        "name": "AiXCoder",
+        "website": "https://aixcoder.com",
+        "description": "智能代码补全工具",
+        "icon": "icons/AiXCoder.ico"
+      },
+      {
+        "name": "CHATDEV",
+        "website": "https://chatdev.ai",
+        "description": "对话式开发工具",
+        "icon": "icons/CHATDEV.ico"
+      }
+    ]
+  },
+  {
+    "category": "低代码平台",
+    "apps": [
+      {
+        "name": "网易C dewave",
+        "website": "https://dewave.163.com",
+        "description": "网易低代码开发平台",
+        "icon": "icons/网易C_dewave.ico"
+      },
+      {
+        "name": "Dify",
+        "website": "https://dify.ai",
+        "description": "Unlock agentic AI with Dify. Develop, deploy, and manage autonomous agents, RAG pipelines, and more for teams at any scale, effortlessly.",
+        "icon": "icons/Dify.ico"
+      },
+      {
+        "name": "微搭WeDa",
+        "website": "https://weda.cloud.tencent.com",
+        "description": "腾讯云微搭低代码平台",
+        "icon": "icons/微搭WeDa.ico"
+      }
+    ]
+  },
+  {
+    "category": "模型能力",
+    "apps": [
+      {
+        "name": "Qwen5-Coder",
+        "website": "https://qwen.alibaba.com",
+        "description": "阿里巴巴通义千问代码模型",
+        "icon": "icons/Qwen5-Coder.ico"
+      },
+      {
+        "name": "纳米AI Agent",
+        "website": "https://nanomi.ai",
+        "description": "纳米级AI智能体",
+        "icon": "icons/纳米AI_Agent.ico"
+      },
+      {
+        "name": "Zread",
+        "website": "https://zread.ai",
+        "description": "智能代码阅读工具",
+        "icon": "icons/Zread.ico"
+      },
+      {
+        "name": "deepseek-coder",
+        "website": "https://deepseek.com",
+        "description": "DeepSeek代码生成模型",
+        "icon": "icons/deepseek-coder.ico"
+      },
+      {
+        "name": "KIMI-K2",
+        "website": "https://kimi.moonshot.cn",
+        "description": "月之暗面KIMI代码模型",
+        "icon": "icons/KIMI-K2.ico"
+      },
+      {
+        "name": "Step",
+        "website": "https://step.ai",
+        "description": "步进式AI编程",
+        "icon": "icons/Step.ico"
+      },
+      {
+        "name": "BetterVeoh AI Agent",
+        "website": "https://betterveoh.ai",
+        "description": "增强型AI代理",
+        "icon": "icons/BetterVeoh_AI_Agent.ico"
+      }
+    ]
+  },
+  {
+    "category": "Copilot",
+    "apps": [
+      {
+        "name": "CodeComplete",
+        "website": "https://codecomplete.ai",
+        "description": "AI-powered code completion",
+        "icon": "icons/CodeComplete.ico"
+      },
+      {
+        "name": "CODER",
+        "website": "https://coder.com",
+        "description": "Remote development environments",
+        "icon": "icons/CODER.ico"
+      },
+      {
+        "name": "CURSOR",
+        "website": "https://cursor.com",
+        "description": "Built to make you extraordinarily productive, Cursor is the best way to code with AI.",
+        "icon": "icons/CURSOR.ico"
+      },
+      {
+        "name": "Gitwit",
+        "website": "https://gitwit.dev",
+        "description": "Git-powered development tool",
+        "icon": "icons/Gitwit.ico"
+      },
+      {
+        "name": "iTerm2",
+        "website": "https://iterm2.com",
+        "description": "Terminal emulator for macOS",
+        "icon": "icons/iTerm2.ico"
+      },
+      {
+        "name": "Kodezi",
+        "website": "https://kodezi.com",
+        "description": "AI code debugging and optimization",
+        "icon": "icons/Kodezi.ico"
+      },
+      {
+        "name": "PIECES",
+        "website": "https://pieces.app",
+        "description": "AI-powered code snippet manager",
+        "icon": "icons/PIECES.ico"
+      },
+      {
+        "name": "Pretzel AI",
+        "website": "https://pretzel.ai",
+        "description": "AI coding assistant",
+        "icon": "icons/Pretzel_AI.ico"
+      },
+      {
+        "name": "Refraction",
+        "website": "https://refraction.dev",
+        "description": "AI-powered code refactoring",
+        "icon": "icons/Refraction.ico"
+      },
+      {
+        "name": "SourceAI",
+        "website": "https://sourceai.dev",
+        "description": "AI code generation platform",
+        "icon": "icons/SourceAI.ico"
+      },
+      {
+        "name": "Tabby",
+        "website": "https://tabby.tabbyml.com",
+        "description": "Self-hosted AI coding assistant. An opensource / on-prem alternative to GitHub Copilot.",
+        "icon": "icons/Tabby.ico"
+      },
+      {
+        "name": "TRAE",
+        "website": "https://trae.ai",
+        "description": "AI-powered development assistant",
+        "icon": "icons/TRAE2.ico"
+      },
+      {
+        "name": "typo",
+        "website": "https://typo.ai",
+        "description": "AI-powered typing assistant",
+        "icon": "icons/typo.ico"
+      },
+      {
+        "name": "Voirflow",
+        "website": "https://voirflow.com",
+        "description": "Visual workflow automation",
+        "icon": "icons/Voirflow.ico"
+      },
+      {
+        "name": "Zed",
+        "website": "https://zed.dev",
+        "description": "Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+        "icon": "icons/Zed.ico"
+      },
+      {
+        "name": "bloop",
+        "website": "https://bloop.ai",
+        "description": "AI-powered code search",
+        "icon": "icons/bloop.ico"
+      }
+    ]
+  },
+  {
+    "category": "Big Tech",
+    "apps": [
+      {
+        "name": "GitHub Copilot Agent",
+        "website": "https://github.com/features/copilot",
+        "description": "GitHub Copilot works alongside you directly in your editor, suggesting whole lines or entire functions for you.",
+        "icon": "icons/GitHub_Copilot_Agent.ico"
+      },
+      {
+        "name": "Gemini CLI",
+        "website": "https://ai.google.dev",
+        "description": "Google Gemini command line interface",
+        "icon": "icons/Gemini_CLI.ico"
+      },
+      {
+        "name": "Claude Code",
+        "website": "https://claude.ai",
+        "description": "Anthropic Claude for coding",
+        "icon": "icons/Claude_Code.ico"
+      },
+      {
+        "name": "Code Llama",
+        "website": "https://ai.meta.com/code-llama",
+        "description": "Meta's Code Llama model",
+        "icon": "icons/Code_Llama.ico"
+      },
+      {
+        "name": "Grok 4",
+        "website": "https://grok.x.ai",
+        "description": "xAI Grok coding model",
+        "icon": "icons/Grok_4.ico"
+      },
+      {
+        "name": "GPT-5",
+        "website": "https://openai.com",
+        "description": "OpenAI GPT-5 model",
+        "icon": "icons/GPT-5.ico"
+      },
+      {
+        "name": "CodeWhisperer",
+        "website": "https://aws.amazon.com/codewhisperer",
+        "description": "Amazon CodeWhisperer AI coding companion",
+        "icon": "icons/CodeWhisperer.ico"
+      },
+      {
+        "name": "Copilot",
+        "website": "https://github.com/features/copilot",
+        "description": "GitHub Copilot AI pair programmer",
+        "icon": "icons/Copilot.ico"
+      }
+    ]
+  },
+  {
+    "category": "Agentic",
+    "apps": [
+      {
+        "name": "Magic",
+        "website": "https://magic.dev",
+        "description": "AI software engineer",
+        "icon": "icons/Magic.ico"
+      },
+      {
+        "name": "BLACKBOXAI",
+        "website": "https://blackbox.ai",
+        "description": "AI-powered coding assistant",
+        "icon": "icons/BLACKBOXAI.ico"
+      },
+      {
+        "name": "CODEGPT",
+        "website": "https://codegpt.co",
+        "description": "AI Agents for Software Development",
+        "icon": "icons/CODEGPT.ico"
+      },
+      {
+        "name": "CodeMate.ai",
+        "website": "https://codemate.ai",
+        "description": "AI coding companion",
+        "icon": "icons/CodeMate_ai.ico"
+      },
+      {
+        "name": "AgentFarm",
+        "website": "https://agentfarm.ai",
+        "description": "AI agent development platform",
+        "icon": "icons/AgentFarm.ico"
+      },
+      {
+        "name": "Continue",
+        "website": "https://continue.dev",
+        "description": "The leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains.",
+        "icon": "icons/Continue.ico"
+      },
+      {
+        "name": "SOLVR",
+        "website": "https://solvr.ai",
+        "description": "AI problem solver",
+        "icon": "icons/SOLVR.ico"
+      },
+      {
+        "name": "augment code",
+        "website": "https://augmentcode.com",
+        "description": "Code augmentation platform",
+        "icon": "icons/augment_code.ico"
+      },
+      {
+        "name": "warp",
+        "website": "https://warp.dev",
+        "description": "The terminal for the 21st century",
+        "icon": "icons/warp.ico"
+      },
+      {
+        "name": "Zerve",
+        "website": "https://zerve.ai",
+        "description": "Data science collaboration platform",
+        "icon": "icons/Zerve.ico"
+      },
+      {
+        "name": "Gitpod",
+        "website": "https://gitpod.io",
+        "description": "Always ready-to-code dev environments",
+        "icon": "icons/Gitpod.ico"
+      },
+      {
+        "name": "AI Query",
+        "website": "https://aiquery.co",
+        "description": "AI-powered SQL query generator",
+        "icon": "icons/AI_Query.ico"
+      },
+      {
+        "name": "Bito",
+        "website": "https://bito.ai",
+        "description": "AI assistant for developers",
+        "icon": "icons/Bito.ico"
+      },
+      {
+        "name": "Cline",
+        "website": "https://cline.ai",
+        "description": "AI coding assistant",
+        "icon": "icons/Cline.ico"
+      },
+      {
+        "name": "Codegen",
+        "website": "https://codegen.com",
+        "description": "Automated code generation",
+        "icon": "icons/Codegen.ico"
+      },
+      {
+        "name": "Windsurf",
+        "website": "https://codeium.com/windsurf",
+        "description": "The first agentic IDE. Windsurf Editor brings the flow of copilot chat and agentic AI capabilities.",
+        "icon": "icons/Windsurf.ico"
+      },
+      {
+        "name": "CodeWP",
+        "website": "https://codewp.ai",
+        "description": "AI WordPress code generator",
+        "icon": "icons/CodeWP.ico"
+      },
+      {
+        "name": "Coframe",
+        "website": "https://coframe.ai",
+        "description": "AI-powered frontend optimization",
+        "icon": "icons/Coframe.ico"
+      },
+      {
+        "name": "Devin",
+        "website": "https://devin.ai",
+        "description": "AI software engineer",
+        "icon": "icons/Devin.ico"
+      },
+      {
+        "name": "FACTORY",
+        "website": "https://factory.ai",
+        "description": "AI development factory",
+        "icon": "icons/FACTORY.ico"
+      },
+      {
+        "name": "million",
+        "website": "https://million.dev",
+        "description": "Fast virtual DOM library",
+        "icon": "icons/million.ico"
+      },
+      {
+        "name": "Neuralogics",
+        "website": "https://neuralogics.ai",
+        "description": "Neural logic programming",
+        "icon": "icons/Neuralogics.ico"
+      },
+      {
+        "name": "perplexity",
+        "website": "https://perplexity.ai",
+        "description": "AI-powered search and answer engine",
+        "icon": "icons/perplexity.ico"
+      },
+      {
+        "name": "Poolside",
+        "website": "https://poolside.ai",
+        "description": "AI coding assistant",
+        "icon": "icons/Poolside.ico"
+      },
+      {
+        "name": "savery",
+        "website": "https://savery.ai",
+        "description": "AI development tool",
+        "icon": "icons/savery.ico"
+      },
+      {
+        "name": "Sudocode",
+        "website": "https://sudocode.ai",
+        "description": "AI code execution platform",
+        "icon": "icons/Sudocode.ico"
+      },
+      {
+        "name": "Tusk",
+        "website": "https://tusk.ai",
+        "description": "AI task automation",
+        "icon": "icons/Tusk.ico"
+      },
+      {
+        "name": "Vanna.AI",
+        "website": "https://vanna.ai",
+        "description": "AI SQL assistant",
+        "icon": "icons/Vanna_AI.ico"
+      }
+    ]
+  },
+  {
+    "category": "Low code / No code",
+    "apps": [
+      {
+        "name": "anima",
+        "website": "https://anima.app",
+        "description": "Design to code platform",
+        "icon": "icons/anima.ico"
+      },
+      {
+        "name": "Fine",
+        "website": "https://fine.dev",
+        "description": "AI-powered development tool",
+        "icon": "icons/Fine.ico"
+      },
+      {
+        "name": "metatab.io",
+        "website": "https://metatab.io",
+        "description": "Metadata management platform",
+        "icon": "icons/metatab_io.ico"
+      },
+      {
+        "name": "Tempo",
+        "website": "https://tempo.ai",
+        "description": "AI productivity assistant",
+        "icon": "icons/Tempo.ico"
+      },
+      {
+        "name": "Base 44",
+        "website": "https://base44.ai",
+        "description": "AI development platform",
+        "icon": "icons/Base_44.ico"
+      },
+      {
+        "name": "Bifrost",
+        "website": "https://bifrost.ai",
+        "description": "Design to code converter",
+        "icon": "icons/Bifrost.ico"
+      },
+      {
+        "name": "bolt.new",
+        "website": "https://bolt.new",
+        "description": "Prompt, run, edit, and deploy full-stack web applications using AI.",
+        "icon": "icons/bolt_new.ico"
+      },
+      {
+        "name": "COSINE",
+        "website": "https://cosine.sh",
+        "description": "AI software engineer",
+        "icon": "icons/COSINE.ico"
+      },
+      {
+        "name": "fume",
+        "website": "https://fume.ai",
+        "description": "AI development assistant",
+        "icon": "icons/fume.ico"
+      },
+      {
+        "name": "Gignite",
+        "website": "https://gignite.ai",
+        "description": "AI-powered development",
+        "icon": "icons/Gignite.ico"
+      },
+      {
+        "name": "HeroUI Chat",
+        "website": "https://heroui.com",
+        "description": "UI component chat interface",
+        "icon": "icons/HeroUI_Chat.ico"
+      },
+      {
+        "name": "Lovable",
+        "website": "https://lovable.dev",
+        "description": "AI app builder",
+        "icon": "icons/Lovable.ico"
+      },
+      {
+        "name": "Pythagora",
+        "website": "https://pythagora.ai",
+        "description": "AI software development",
+        "icon": "icons/Pythagora.ico"
+      },
+      {
+        "name": "Readdy",
+        "website": "https://readdy.ai",
+        "description": "AI reading assistant",
+        "icon": "icons/Readdy.ico"
+      },
+      {
+        "name": "replit",
+        "website": "https://replit.com",
+        "description": "Build software collaboratively from anywhere in the world, on any device, without spending a second on setup.",
+        "icon": "icons/replit.ico"
+      },
+      {
+        "name": "Taipy",
+        "website": "https://taipy.io",
+        "description": "Python framework for data science applications",
+        "icon": "icons/Taipy.ico"
+      },
+      {
+        "name": "VIZ",
+        "website": "https://viz.ai",
+        "description": "AI visualization platform",
+        "icon": "icons/VIZ.ico"
+      },
+      {
+        "name": "XAMUN.AI",
+        "website": "https://xamun.ai",
+        "description": "No-code AI platform",
+        "icon": "icons/XAMUN_AI.ico"
+      }
+    ]
+  }
+]

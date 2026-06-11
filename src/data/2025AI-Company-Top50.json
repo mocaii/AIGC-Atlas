@@ -1,0 +1,324 @@
+[
+  {
+    "name": "沐曦",
+    "website": "https://www.metax-tech.com/",
+    "description": "沐曦是一家致力于为异构计算提供全栈GPU芯片及解决方案的中国公司。其产品线主要包括：曦思® N系列用于智算推理，曦云® C系列用于通用计算，曦彩® G系列用于图形渲染。",
+    "icon": "https://www.metax-tech.com/favicon.ico",
+    "category": "AI芯片"
+  },
+  {
+    "name": "亿铸智能",
+    "website": "https://www.yizhu-tech.com/",
+    "description": "亿铸智能是一家专注于存算一体架构AI大算力芯片的公司，为数据中心、云计算等场景提供服务。",
+    "icon": "https://www.yizhu-tech.com/favicon.ico",
+    "category": "AI芯片"
+  },
+  {
+    "name": "为旌科技",
+    "website": "https://www.visinextek.com/",
+    "description": "为旌科技是一家专注于中高端智能感知芯片设计的集成电路企业，产品应用于智慧视觉和智能驾驶领域。",
+    "icon": "https://www.visinextek.com/favicon.ico",
+    "category": "AI芯片"
+  },
+  {
+    "name": "聆思智能",
+    "website": "https://www.listenai.com/",
+    "description": "聆思智能是一家专注于提供智能终端系统级（SoC）芯片的高科技企业，产品广泛应用于家居、车载、教育等领域。",
+    "icon": "https://www.listenai.com/favicon.ico",
+    "category": "AI芯片"
+  },
+  {
+    "name": "亘存科技",
+    "website": "https://www.smartnvy.com/",
+    "description": "亘存科技是一家专注于磁性随机存储器（MRAM）技术相关芯片产品设计、开发和销售的公司。",
+    "icon": "https://www.smartnvy.com/favicon.ico",
+    "category": "AI芯片"
+  },
+  {
+    "name": "图灵量子",
+    "website": "https://www.turingq.com/",
+    "description": "图灵量子是一家引领中国光量子芯片及光量子计算产业化的公司。",
+    "icon": "https://www.turingq.com/favicon.ico",
+    "category": "AI芯片"
+  },
+  {
+    "name": "深流微",
+    "website": "https://www.siroywe.com.cn/",
+    "description": "深流微致力于提供具备图形渲染、图像处理、虚拟现实、人工智能和超级计算等功能的高性能GPU芯片及解决方案。",
+    "icon": "https://www.siroywe.com.cn/favicon.ico",
+    "category": "AI芯片"
+  },
+  {
+    "name": "时识科技",
+    "website": "https://www.synsense.ai/",
+    "description": "时识科技是一家全球性的类脑智能与应用解决方案提供商，聚焦于边缘计算应用场景。",
+    "icon": "https://www.synsense.ai/favicon.ico",
+    "category": "AI芯片"
+  },
+  {
+    "name": "苹芯科技",
+    "website": "https://www.pimchip.cn/",
+    "description": "苹芯科技专注于利用存算一体技术加速人工智能计算，为智能可穿戴设备、智慧家居、智慧医疗等多个领域提供高能效、低功耗的AI芯片解决方案。",
+    "icon": "https://www.pimchip.cn/favicon.ico",
+    "category": "AI芯片"
+  },
+  {
+    "name": "玻色量子",
+    "website": "https://www.bose-quantum.com/",
+    "description": "玻色量子专注于光量子计算技术路线，进行量子计算软硬件全平台的研发。",
+    "icon": "https://www.bose-quantum.com/favicon.ico",
+    "category": "AI芯片"
+  },
+  {
+    "name": "后摩智能",
+    "website": "https://www.houmoai.com/",
+    "description": "后摩智能是全球存算一体智驾芯片的先行者，为智能驾驶、泛机器人等场景提供大算力、高能效比的芯片及解决方案。",
+    "icon": "https://www.houmoai.com/favicon.ico",
+    "category": "AI芯片"
+  },
+  {
+    "name": "砺算科技",
+    "website": "https://www.vertex-compute.com/",
+    "description": "砺算科技是一家研发自主架构图形GPU的公司，致力于为元宇宙、云游戏、数字孪生、自动驾驶、AI计算等领域提供高性能的GPU芯片及解决方案。",
+    "icon": "https://www.vertex-compute.com/favicon.ico",
+    "category": "AI芯片"
+  },
+  {
+    "name": "洞见科技",
+    "website": "https://www.insightone.cn/",
+    "description": "洞见科技是一家隐私计算技术服务商，致力于通过“原始数据不出域、数据可用不可见”的方式，安全地释放数据价值并合规应用数据智能。",
+    "icon": "https://www.insightone.cn/favicon.ico",
+    "category": "AI Infra"
+  },
+  {
+    "name": "无问芯穹",
+    "website": "https://infini-ai.com/",
+    "description": "无问芯穹是一家致力于通过领先的AI计算优化能力和算力解决方案，提升大模型落地能效的公司。",
+    "icon": "https://infini-ai.com/favicon.ico",
+    "category": "AI Infra"
+  },
+  {
+    "name": "枫清科技",
+    "website": "https://www.fabarta.com/",
+    "description": "枫清科技是一家致力于通过知识引擎与大模型双轮驱动的新一代智能体平台，为企业提供人工智能技术在复杂场景中落地的解决方案。",
+    "icon": "https://www.fabarta.com/favicon.ico",
+    "category": "AI Infra"
+  },
+  {
+    "name": "潞晨科技",
+    "website": "https://luchentech.com/",
+    "description": "潞晨科技致力于“解放AI生产力”，提供包括Colossal-AI平台、潞晨云GPU算力租赁等服务。",
+    "icon": "https://luchentech.com/favicon.ico",
+    "category": "AI Infra"
+  },
+  {
+    "name": "善思开悟",
+    "website": "https://www.hpc.asia/",
+    "description": "善思开悟是一家智能计算系统解决方案提供商，专注于高性能计算和人工智能的异构算力服务。",
+    "icon": "https://www.hpc.asia/favicon.ico",
+    "category": "AI Infra"
+  },
+  {
+    "name": "百川智能",
+    "website": "https://www.baichuan-ai.com/",
+    "description": "百川智能致力于构建中国的大模型基础底座，已发布多款开源和闭源的大模型，并为开发者提供API接口。",
+    "icon": "https://www.baichuan-ai.com/favicon.ico",
+    "category": "AI大模型"
+  },
+  {
+    "name": "深言科技",
+    "website": "https://deeplang.ai/",
+    "description": "深言科技是一家智能文本信息处理服务和产品提供商，旨在利用前沿的人工智能和自然语言处理技术，打造新一代的智能文本信息处理引擎。",
+    "icon": "https://deeplang.ai/favicon.ico",
+    "category": "AI大模型"
+  },
+  {
+    "name": "稀宇极智",
+    "website": "https://www.minimaxi.com/",
+    "description": "稀宇极智是一家人工智能公司，致力于成为通用人工智能时代的基础设施建设者和内容应用创造者。",
+    "icon": "https://www.minimaxi.com/favicon.ico",
+    "category": "AI大模型"
+  },
+  {
+    "name": "生数科技",
+    "website": "https://www.shengshu-ai.com/",
+    "description": "生数科技是一家专注于多模态大模型研发的公司，致力于实现通用人工智能。",
+    "icon": "https://www.shengshu-ai.com/favicon.ico",
+    "category": "AI大模型"
+  },
+  {
+    "name": "方寸知微",
+    "website": "https://www.maicro.com/",
+    "description": "方寸知微以轻量化人工智能（Tiny AI）技术为核心，为电力、石油化工、消费电子等行业提供解决方案。",
+    "icon": "https://www.maicro.com/favicon.ico",
+    "category": "AI行业应用"
+  },
+  {
+    "name": "中数睿智",
+    "website": "https://www.zszr.com/",
+    "description": "中数睿智是一家企业级AI Agent全栈基础设施供应商，为能源、电信、军工、交通等领域的客户提供数据资产管理和智能化解决方案。",
+    "icon": "https://www.zszr.com/favicon.ico",
+    "category": "AI行业应用"
+  },
+  {
+    "name": "识渊科技",
+    "website": "https://www.sailyond.com/",
+    "description": "识渊科技是一家智能制造开放平台提供商，为工业生产过程提供软硬一体的标准化视觉检测解决方案。",
+    "icon": "https://www.sailyond.com/favicon.ico",
+    "category": "AI行业应用"
+  },
+  {
+    "name": "智峪生物",
+    "website": "https://www.zelixir.com/",
+    "description": "智峪生物是一家通过AI技术推动合成生物学创新与应用，赋能实验验证及产业化、商业化的一体化生物智造公司。",
+    "icon": "https://www.zelixir.com/favicon.ico",
+    "category": "AI行业应用"
+  },
+  {
+    "name": "红棉小冰",
+    "website": "https://xiaoice.com/",
+    "description": "红棉小冰是一家专注于人工智能交互体验的公司，致力于构建能与人类建立情感联系的AI beings。",
+    "icon": "https://xiaoice.com/favicon.ico",
+    "category": "AI行业应用"
+  },
+  {
+    "name": "天鹜科技",
+    "website": "https://www.accelprotein.com/",
+    "description": "天鹜科技是一家专注于使用人工智能技术进行蛋白质功能预测与设计的公司，为生物医药、合成生物学等领域提供从蛋白质设计到商业化生产的一站式解决方案。",
+    "icon": "https://www.accelprotein.com/favicon.ico",
+    "category": "AI行业应用"
+  },
+  {
+    "name": "奇点数联",
+    "website": "https://www.qidiandata.com/",
+    "description": "奇点数联专注于智慧矿山、航空工业、人工智能等领域的解决方案。",
+    "icon": "https://www.qidiandata.com/favicon.ico",
+    "category": "AI行业应用"
+  },
+  {
+    "name": "分子之心",
+    "website": "https://moleculemind.com/",
+    "description": "分子之心致力于利用顶尖的AI算法进行蛋白质设计和优化，以推动生物经济的发展。",
+    "icon": "https://moleculemind.com/favicon.ico",
+    "category": "AI行业应用"
+  },
+  {
+    "name": "屹艮科技",
+    "website": "https://www.eacomp.com/",
+    "description": "屹艮科技专注于通过多尺度材料模拟，为新能源行业的客户提供从材料设计、电芯设计到系统管理的电池全生命周期数字化解决方案。",
+    "icon": "https://www.eacomp.com/favicon.ico",
+    "category": "AI行业应用"
+  },
+  {
+    "name": "深开鸿",
+    "website": "https://www.kaihong.com/",
+    "description": "深开鸿是一家专注于开源鸿蒙（OpenHarmony）生态的平台型企业，致力于为各行业的数字化和智慧化转型提供基础软件服务。",
+    "icon": "https://www.kaihong.com/favicon.ico",
+    "category": "AI终端"
+  },
+  {
+    "name": "小度技术",
+    "website": "https://dumall.baidu.com/",
+    "description": "小度是百度旗下的人工智能科技品牌，核心是小度AI智能助手（DuerOS），这是一个对话式人工智能操作系统。",
+    "icon": "https://dumall.baidu.com/favicon.ico",
+    "category": "AI终端"
+  },
+  {
+    "name": "艾德未来",
+    "website": "https://www.viaim.com/",
+    "description": "艾德未来旗下品牌为“未来智能（viaim）”，主要产品包括iFLYBUDS系列智能耳机和未来智能会议狗等。",
+    "icon": "https://www.viaim.com/favicon.ico",
+    "category": "AI终端"
+  },
+  {
+    "name": "行者无疆",
+    "website": "https://www.inav.cn/",
+    "description": "行者无疆是一家专注于智能移动机器人核心技术和产品研发的公司，致力于为各行业提供领先的机器人产品和解决方案。",
+    "icon": "https://www.inav.cn/favicon.ico",
+    "category": "AI终端"
+  },
+  {
+    "name": "星纪魅族",
+    "website": "https://www.meizu.com/",
+    "description": "星纪魅族集团致力于在智能电动汽车、智能手机、XR技术等多个领域进行深度融合。",
+    "icon": "https://www.meizu.com/favicon.ico",
+    "category": "AI终端"
+  },
+  {
+    "name": "影目科技",
+    "website": "https://inmolens.com/",
+    "description": "影目科技专注于AR智能眼镜的研发和生产，其产品包括INMO Air系列和INMO GO系列。",
+    "icon": "https://inmolens.com/favicon.ico",
+    "category": "AI终端"
+  },
+  {
+    "name": "智元机器人",
+    "website": "https://www.zhiyuan-robot.com/",
+    "description": "智元机器人致力于通过人工智能与机器人技术的融合创新，打造世界领先的具身智能机器人产品及应用生态。",
+    "icon": "https://www.zhiyuan-robot.com/favicon.ico",
+    "category": "具身智能、自动驾驶"
+  },
+  {
+    "name": "逐际动力",
+    "website": "https://www.limxdynamics.com/",
+    "description": "逐际动力是一家专注于运动智能和足式机器人研发和制造的通用足式机器人公司。",
+    "icon": "https://www.limxdynamics.com/favicon.ico",
+    "category": "具身智能、自动驾驶"
+  },
+  {
+    "name": "爱博合创",
+    "website": "https://www.roboangio.com/",
+    "description": "爱博合创是一家专注于血管介入手术机器人领域的医疗机器人高新技术企业。",
+    "icon": "https://www.roboangio.com/favicon.ico",
+    "category": "具身智能、自动驾驶"
+  },
+  {
+    "name": "戴盟机器人",
+    "website": "https://www.dmrobot.com/",
+    "description": "戴盟机器人致力于将人工智能与机器人技术深度融合，专注于研发和生产可商业化的通用仿人机器人产品。",
+    "icon": "https://www.dmrobot.com/favicon.ico",
+    "category": "具身智能、自动驾驶"
+  },
+  {
+    "name": "银河通用",
+    "website": "https://www.galbot.com/",
+    "description": "银河通用是一家专注于通用服务机器人研发的公司。",
+    "icon": "https://www.galbot.com/favicon.ico",
+    "category": "具身智能、自动驾驶"
+  },
+  {
+    "name": "若愚科技",
+    "website": "https://www.ruoyutech.com/",
+    "description": "若愚科技专注于研发以多模态大模型为基础的机器人大脑。",
+    "icon": "https://www.ruoyutech.com/favicon.ico",
+    "category": "具身智能、自动驾驶"
+  },
+  {
+    "name": "帕西尼",
+    "website": "https://www.paxini.com/",
+    "description": "帕西尼科技是一家专注于传感器和机器人解决方案的公司，提供用于工业、医疗、汽车等领域的先进技术。",
+    "icon": "https://www.paxini.com/favicon.ico",
+    "category": "具身智能、自动驾驶"
+  },
+  {
+    "name": "星动纪元",
+    "website": "https://www.robotera.com/",
+    "description": "星动纪元是一家由清华大学交叉信息研究院孵化的新兴科技公司，专注于研发具身智能以及通用人形机器人技术和产品。",
+    "icon": "https://www.robotera.com/favicon.ico",
+    "category": "具身智能、自动驾驶"
+  },
+  {
+    "name": "中科慧灵",
+    "website": "https://www.casbot.tech/",
+    "description": "中科慧灵是一家专注于研发面向场景落地的通用人形机器人和具身智能产品的公司。",
+    "icon": "https://www.casbot.tech/favicon.ico",
+    "category": "具身智能、自动驾驶"
+  },
+  {
+    "name": "深向科技",
+    "website": "https://www.deepway.ai/",
+    "description": "深向科技是一家专注于智能新能源卡车研发和制造的公司，致力于通过高级别智能驾驶技术和新能源解决方案，降低卡车运输的总成本并提升运营效率。",
+    "icon": "https://www.deepway.ai/favicon.ico",
+    "category": "具身智能、自动驾驶"
+  }
+]

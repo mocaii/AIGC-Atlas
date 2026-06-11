@@ -53,6 +53,7 @@ function ApplicationCard({ name, url, logo, description }) {
         )}
       </div>
       <span className="application-name">{name}</span>
+      {description && <span className="application-description">{description}</span>}
     </a>
   );
 }
